@@ -164,7 +164,8 @@ def extractText(assetType, obj):
             'enName': "",  # todo: auto lookup
             'jpText': tree['Text'],
             'enText': "",
-            'nextBlock': tree['NextBlock'] # maybe for adding blocks to split dialogue later
+            'nextBlock': tree['NextBlock'], # maybe for adding blocks to split dialogue later
+            'waitFrame': tree['WaitFrame']
         }
         choices = tree['ChoiceDataList'] #always present
         if choices:

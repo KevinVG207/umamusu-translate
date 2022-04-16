@@ -165,10 +165,15 @@ class StoryPatcher:
                 # blocklength = cliplength + startframe + 1
                 # cliplength = max(0, voicelength OR (text-length * cps / fps)) + waitframe
                 # waitframe: usually 12 if voiced, 45 otherwise BUT random exceptions occur
+                if textBlock.get('waitFrame'):
+                    assetData['WaitFrame'] = max(assetData['WaitFrame'], textBlock['waitFrame'])
+                voiceLength = max(assetData['VoiceLength'], int(len(textBlock['enText']) / self.manager.args.cps * self.manager.args.fps))
                 if assetData['VoiceLength'] == -1 and textBlock['enText']:
-                    newLen = int(assetData['WaitFrame'] + len(textBlock['enText']) / self.manager.args.cps * self.manager.args.fps)
-                    assetData['ClipLength'] = max(assetData['ClipLength'], newLen)
-                    mainTree['BlockList'][blockIdx]['BlockLength'] = assetData['ClipLength'] + assetData['StartFrame'] + 1
+                    assetData['ClipLength'] = voiceLength + assetData['WaitFrame']
+                elif textBlock['enText']:
+                    assetData['VoiceLength'] = voiceLength
+                    assetData['ClipLength'] = assetData['VoiceLength'] + assetData['WaitFrame']
+                mainTree['BlockList'][blockIdx]['BlockLength'] = assetData['ClipLength'] + assetData['StartFrame'] + 1
 
                 if 'choices' in textBlock:
                     jpChoices, enChoices = assetData['ChoiceDataList'], textBlock['choices']
