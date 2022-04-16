@@ -165,12 +165,13 @@ class StoryPatcher:
                 # blocklength = cliplength + startframe + 1
                 # cliplength = max(0, voicelength OR (text-length * cps / fps)) + waitframe
                 # waitframe: usually 12 if voiced, 45 otherwise BUT random exceptions occur
-                if textBlock.get('waitFrame'):
-                    assetData['WaitFrame'] = max(assetData['WaitFrame'], textBlock['waitFrame'])
+                if self.manager.args.retime:
+                    if textBlock.get('waitFrame'):
+                        assetData['WaitFrame'] = max(assetData['WaitFrame'], textBlock['waitFrame'])
                 voiceLength = max(assetData['VoiceLength'], int(len(textBlock['enText']) / self.manager.args.cps * self.manager.args.fps))
                 if assetData['VoiceLength'] == -1 and textBlock['enText']:
                     assetData['ClipLength'] = voiceLength + assetData['WaitFrame']
-                elif textBlock['enText']:
+                elif textBlock['enText'] and self.manager.args.retime:
                     assetData['VoiceLength'] = voiceLength
                     assetData['ClipLength'] = assetData['VoiceLength'] + assetData['WaitFrame']
                 mainTree['BlockList'][blockIdx]['BlockLength'] = assetData['ClipLength'] + assetData['StartFrame'] + 1
@@ -263,6 +264,7 @@ def main():
     ap.add_argument("-S", "--silent", dest="silent", action="store_true", help="Ignore some errors and print debug info to file. Default: terminal (stdout)")
     ap.add_argument("-cps", default=28, type=int, help="Characters per second, for unvoiced lines (excludes choices)")
     ap.add_argument("-fps", default=30, type=int, help="Framerate, for calculating the right text speed")
+    ap.add_argument("-T", dest="retime", default=False, type=bool, help="Retime all text blocks instead of just unvoiced ones. Default: False")
 
     args = ap.parse_args()
     process(args)
