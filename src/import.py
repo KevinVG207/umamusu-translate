@@ -189,7 +189,6 @@ class StoryPatcher:
                             animAsset = self.manager.assets[animGroup['pathId']]
                             if animAsset:
                                 animData = animAsset.read_typetree()
-                                # animFullLen = animData['StartFrame'] + animGroup['origLen']
                                 animData['ClipLength'] = animGroup['origLen'] + newClipLen - textBlock['origClipLength']
                                 animAsset.save_typetree(animData)
                                 print(f"Adjusted anim length from {animGroup['origLen']} to {animData['ClipLength']}")
