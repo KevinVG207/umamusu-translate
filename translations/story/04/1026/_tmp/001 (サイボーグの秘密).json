@@ -327,7 +327,7 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "認識完了。ありがとうございます。ここから42m先、ですね。\r\n先ほどインプットした情報に42mの誤差があったと判明。",
-            "enText": "Input parsed. Thank you very much. 42 meters ahead, hmm. \nThen the data I input earlier was off by that amount.",
+            "enText": "Input parsed. Thank you very much. 42 meters ahead, hmm. \nThen the data I input earlier was off by that amount.*",
             "nextBlock": 16,
             "origClipLength": 342,
             "animData": [
@@ -406,7 +406,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……念のため見守っていると、今度はきちんと目的地であろう\r\n店の前で足を止め、無事入店していった。",
-            "enText": "I kept her in sight just in case, and she did indeed reach \nthe store. She stopped right in front of it and entered the door.",
+            "enText": "I kept her in sight just in case, and did indeed reach the store. \nShe stopped right in front of it and entered the door.",
             "nextBlock": 20,
             "origClipLength": 108,
             "pathId": 3507438442849697590,
@@ -496,7 +496,7 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "先頭のウマ娘――ミホノブルボンは、早々に抜け出し\r\n先行集団からあっという間に距離を開いてみせた。",
-            "enText": "One horse girl managed to break away \nfrom the pack right away. It was Mihono Bourbon. \nShe leads with quite the distance.",
+            "enText": "One horse girl managed to break away from the pack \nright away. It was Mihono Bourbon. \nShe leads with quite the distance.",
             "nextBlock": 28,
             "origClipLength": 108,
             "animData": [
@@ -923,5 +923,5 @@
             "blockIdx": 49
         }
     ],
-    "modified": 1668105387
+    "modified": 1664015997
 }
