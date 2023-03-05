@@ -87,7 +87,7 @@ def main():
                 inputGen = translator(args, entry)
                 db.executemany(stmt, inputGen)
             markPatched(db)
-            # COMMIT; handled by with:
+            db.execute("COMMIT;")  # Committing to keep the size small
     except sqlite3.OperationalError:
         if not Path(args.dst).exists():
             print(f"The master.mdb file does not exist at {args.dst}.\n\
