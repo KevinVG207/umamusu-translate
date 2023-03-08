@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "bundle": "4PAWFJOMSIZZ25TETTBGYFFYQEBKL6OW",
     "type": "story",
     "storyId": "041058003",
@@ -9,9 +9,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "さすがはウマ娘、追いかけてもすぐ見失ってしまった。\r\nとはいえ、放っておくのは気が引ける。",
-            "enText": "As expected of Uma Musume, I lost her as soon as I chased after \nher. However, I was reluctant to leave her alone.",
+            "enText": "",
             "nextBlock": 2,
             "origClipLength": 103,
+            "voiceIdx": -1,
             "pathId": -2250252278442011474,
             "blockIdx": 1
         },
@@ -19,18 +20,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "気合いが空回りして大遅刻をし、その後の併走も失敗、\r\nさらには良かれと思って用意した差し入れが揃って大失敗……。",
-            "enText": "The team's enthusiasm spun out of control, causing \nthem to be very late, and the subsequent run together \nwas also a failure. In addition, all the goodies \nthey prepared were a complete disaster. ……",
+            "enText": "",
             "nextBlock": 3,
             "origClipLength": 118,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "（大丈夫だろうか……）",
-                    "enText": "(Is it okay? ……)",
+                    "enText": "",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "（大丈夫かな……）",
-                    "enText": "(Is everything okay? ……)",
+                    "enText": "",
                     "nextBlock": 3
                 }
             ],
@@ -41,9 +43,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "心配になり、トレセン学園周辺を探すこと30分――",
-            "enText": "Worried, I spent 30 minutes searching \nthe area around Tressen Academy…",
+            "enText": "",
             "nextBlock": 4,
             "origClipLength": 76,
+            "voiceIdx": -1,
             "pathId": 3718582587766242708,
             "blockIdx": 3
         },
@@ -51,9 +54,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はぁっ、はぁっ、はぁっ、はぁっ……！",
-            "enText": "Ha, ha, ha, ha! ……!",
+            "enText": "",
             "nextBlock": 5,
             "origClipLength": 164,
+            "voiceIdx": 0,
             "animData": [
                 {
                     "origLen": 117,
@@ -67,9 +71,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "次は……いい走りをするんだ……。\r\nもっと、オペラオーさんの役に立つんだ……。",
-            "enText": "Next time…… have a good run…… Be more useful, Ms. Opera O. ……",
+            "enText": "",
             "nextBlock": 6,
             "origClipLength": 277,
+            "voiceIdx": 1,
             "animData": [
                 {
                     "origLen": 89,
@@ -87,9 +92,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "本番、いいレースにするんだ……。それで、私もいつか……！\r\n……………っ！　もう1本……！",
-            "enText": "Make it a good race, the real one.…… So, I'll be there someday \n……! …………! One more ……!",
+            "enText": "",
             "nextBlock": 7,
             "origClipLength": 420,
+            "voiceIdx": 2,
             "animData": [
                 {
                     "origLen": 72,
@@ -107,9 +113,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "たぁあああああーっ！",
-            "enText": "Taaaaah!",
+            "enText": "",
             "nextBlock": 8,
             "origClipLength": 81,
+            "voiceIdx": 3,
             "pathId": 7747249702557661968,
             "blockIdx": 7
         },
@@ -117,9 +124,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "メイショウドトウは腫れた目元をぬぐって\r\n勢いよく河原を駆け抜け――",
-            "enText": "Meishoudou wiped her swollen eyes and \nran briskly across the riverbank.",
+            "enText": "",
             "nextBlock": 9,
             "origClipLength": 89,
+            "voiceIdx": -1,
             "pathId": 3607247926000349446,
             "blockIdx": 8
         },
@@ -127,9 +135,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ずぼっ！）",
-            "enText": "(Sloppy!)",
+            "enText": "",
             "nextBlock": 10,
             "origClipLength": 52,
+            "voiceIdx": -1,
             "pathId": 848588758638777496,
             "blockIdx": 9
         },
@@ -137,9 +146,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ひょああ～～～っ！？",
-            "enText": "Hyo～～～!",
+            "enText": "",
             "nextBlock": 11,
             "origClipLength": 64,
+            "voiceIdx": 4,
             "pathId": -7957852738796539529,
             "blockIdx": 10
         },
@@ -147,9 +157,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "溝に落ちた。",
-            "enText": "It fell into a ditch.",
+            "enText": "",
             "nextBlock": 12,
             "origClipLength": 52,
+            "voiceIdx": -1,
             "pathId": -7934298940959816808,
             "blockIdx": 11
         },
@@ -157,13 +168,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "危ないどごろを……ありがどうございばじだ……ぐすっ……。",
-            "enText": "Dangerous dokoro wo ……Thanks for your help bajida ……Gusu ……",
+            "enText": "",
             "nextBlock": 13,
             "origClipLength": 234,
+            "voiceIdx": 5,
             "choices": [
                 {
                     "jpText": "大丈夫？",
-                    "enText": "Great man?",
+                    "enText": "",
                     "nextBlock": 13
                 }
             ],
@@ -184,9 +196,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はい……。慣れっこ、ですから……。はぁ……。",
-            "enText": "Yes…… I'm used to it, so…… Huh. ……",
+            "enText": "",
             "nextBlock": 14,
             "origClipLength": 264,
+            "voiceIdx": 6,
             "animData": [
                 {
                     "origLen": 211,
@@ -204,9 +217,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "…………。\r\n…………私は……なんで、こう…………。",
-            "enText": "………………… I am…… and thus……… …",
+            "enText": "",
             "nextBlock": 15,
             "origClipLength": 237,
+            "voiceIdx": 7,
             "animData": [
                 {
                     "origLen": 161,
@@ -224,9 +238,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "服もすっかり汚れてしまった。夜も遅い。\r\nさすがにもう帰りたいだろうと、帰宅を促そうとしたところ――",
-            "enText": "My clothes are all dirty. It was late at night. I was about to \nurge her to go home.",
+            "enText": "",
             "nextBlock": 16,
             "origClipLength": 110,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 161,
@@ -244,18 +259,19 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……もっと、がんばらなきゃ……！\r\nよーしっ、長距離ランニング、いってきます……っ！",
-            "enText": "I need to…… work harder……! Alright, I'm off for a long run……!",
+            "enText": "",
             "nextBlock": 17,
             "origClipLength": 328,
+            "voiceIdx": 8,
             "choices": [
                 {
                     "jpText": "まだやるのか！？",
-                    "enText": "You're still going to do it!",
+                    "enText": "",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "まだやるの！？",
-                    "enText": "Still doing it!",
+                    "enText": "",
                     "nextBlock": 17
                 }
             ],
@@ -276,13 +292,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あ、あ、すす、すみません……！　ご迷惑、でしたか……？",
-            "enText": "Oh, oh, soot, I'm sorry, ……! Did I inconvenience you, ……?",
+            "enText": "",
             "nextBlock": 18,
             "origClipLength": 176,
+            "voiceIdx": 9,
             "choices": [
                 {
                     "jpText": "というより、『頑張り屋』だなって……",
-                    "enText": "I'm more of a 'go-getter' ……",
+                    "enText": "",
                     "nextBlock": 18
                 }
             ],
@@ -303,9 +320,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "い、いえ……！　がんばり屋とかじゃないんです、違うんです、\r\n私本当に、その、諦めが悪くて……。",
-            "enText": "No, no, ……! It's not that I'm a hard worker or anything, no, I'm \njust really, you know, I'm not a quitter. ……",
+            "enText": "",
             "nextBlock": 19,
             "origClipLength": 343,
+            "voiceIdx": 10,
             "animData": [
                 {
                     "origLen": 384,
@@ -323,13 +341,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "諦めたくなっても、ぽやっと思い出しちゃう記憶があって……。\r\nそれで、ズルズル、ずぶずぶ、私みたいなのがいつまでも……。",
-            "enText": "Even when I want to give up, I have memories \nthat I barely remember.…… And so, cheat, cheat, \ncheat, cheat, like me, I'll always be ……",
+            "enText": "",
             "nextBlock": 20,
             "origClipLength": 417,
+            "voiceIdx": 11,
             "choices": [
                 {
                     "jpText": "記憶って？",
-                    "enText": "What memories?",
+                    "enText": "",
                     "nextBlock": 20
                 }
             ],
@@ -350,9 +369,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "え……？　ええと……。大した話ではないのですが――",
-            "enText": "Uh ……? Uh…… It's not a big story, but―",
+            "enText": "",
             "nextBlock": 21,
             "origClipLength": 246,
+            "voiceIdx": 12,
             "animData": [
                 {
                     "origLen": 105,
@@ -370,9 +390,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "昔……初めてGⅠレースを見た時のことです……。\r\nキラキラしたウマ娘たちがキラキラ走るレースで……。",
-            "enText": "It was a long time ago…… ago when I saw a GI \nrace for the first time…… It was a race with \nsparkling Uma Musume running sparkling ……",
+            "enText": "",
             "nextBlock": 22,
             "origClipLength": 398,
+            "voiceIdx": 13,
             "animData": [
                 {
                     "origLen": 26,
@@ -386,9 +407,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "初めは、ドジでマヌケな自分とは生きてる世界が違う……って、\r\n疎外感ばっかり感じてたんです……でも、勝ったウマ娘が――",
-            "enText": "At first, I felt alienated from the world I lived in because I \nwas a screw-up and a moron…… but the horse girl who won…",
+            "enText": "",
             "nextBlock": 23,
             "origClipLength": 437,
+            "voiceIdx": 14,
             "pathId": 146221362713565828,
             "blockIdx": 22
         },
@@ -396,9 +418,10 @@
             "jpName": "ＧⅠウマ娘",
             "enName": "",
             "jpText": "昔は何をやってもダメな自分に自信を持てませんでした。\r\nでも、レースで勝つうちに自分を好きになれて――",
-            "enText": "I used to have no confidence in myself, no matter what I did. But \nas I won races, I started to like myself.",
+            "enText": "",
             "nextBlock": 24,
             "origClipLength": 333,
+            "voiceIdx": 15,
             "pathId": -1638757274478517282,
             "blockIdx": 23
         },
@@ -406,9 +429,10 @@
             "jpName": "ＧⅠウマ娘",
             "enName": "",
             "jpText": "私は今、このレースを走って勝てた自分が、\r\nとても大好きです……！",
-            "enText": "I love myself so much for running and winning this race now. ……!",
+            "enText": "",
             "nextBlock": 25,
             "origClipLength": 184,
+            "voiceIdx": 16,
             "pathId": 7275982405217882650,
             "blockIdx": 24
         },
@@ -416,9 +440,10 @@
             "jpName": "幼いドトウ",
             "enName": "",
             "jpText": "……！",
-            "enText": "……!",
+            "enText": "",
             "nextBlock": 26,
             "origClipLength": 72,
+            "voiceIdx": 17,
             "pathId": -2828988282285139645,
             "blockIdx": 25
         },
@@ -426,9 +451,10 @@
             "jpName": "幼いドトウ",
             "enName": "",
             "jpText": "私も……たくさんがんばれば、\r\nあの子みたいに、いつか変われるのかなぁ……。",
-            "enText": "If I…… work hard a lot, I wonder if I \ncan change one day like that girl. ……",
+            "enText": "",
             "nextBlock": 27,
             "origClipLength": 324,
+            "voiceIdx": 18,
             "pathId": 3358528583034759161,
             "blockIdx": 26
         },
@@ -436,13 +462,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "それで、勢いでトレセン学園も受験しちゃって……。\r\n受かっちゃって、あはは……。",
-            "enText": "So, I took the test for Tracen Academy on the spur of the moment \nand got accepted.…… I was accepted, haha. ……",
+            "enText": "",
             "nextBlock": 28,
             "origClipLength": 310,
+            "voiceIdx": 19,
             "choices": [
                 {
                     "jpText": "そうだったんだ",
-                    "enText": "It was.",
+                    "enText": "",
                     "nextBlock": 28
                 }
             ],
@@ -463,9 +490,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……ドジでなにをやっても上手くいかないくせに、\r\n往生際だけは悪いんです……。",
-            "enText": "You're a screw-up, you can't do anything right, and you're just \nnot very good at it. ……",
+            "enText": "",
             "nextBlock": 29,
             "origClipLength": 231,
+            "voiceIdx": 20,
             "animData": [
                 {
                     "origLen": 169,
@@ -483,9 +511,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "諦めなければ、私だってあの日のウマ娘みたいに変われるかも……。\r\n変わって、オペラオーさんみたいな堂々としたウマ娘になれるかも。",
-            "enText": "If I don't give up, maybe I too can change like \nthat day's Uma Musume.…… Maybe I can change and \nbecome an imposing horse girl like Opera O.",
+            "enText": "",
             "nextBlock": 30,
             "origClipLength": 452,
+            "voiceIdx": 21,
             "animData": [
                 {
                     "origLen": 97,
@@ -503,9 +532,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "いつまでもそんなこと思っちゃってて、止められなくて……。\r\nドジなだけじゃなくて、バカなんですよねぇ……。",
-            "enText": "I've been thinking that forever, and I can't stop thinking it.…… \nI'm not only a screw-up, I'm an idiot. ……",
+            "enText": "",
             "nextBlock": 31,
             "origClipLength": 345,
+            "voiceIdx": 22,
             "animData": [
                 {
                     "origLen": 315,
@@ -523,18 +553,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "普段から落ち込んでいるが、輪をかけて落ち込んでしまった\r\n様子のメイショウドトウ。しかし――",
-            "enText": "Mae Shoudou, who is usually depressed, seems to have become even \nmore depressed. However―",
+            "enText": "",
             "nextBlock": 32,
             "origClipLength": 105,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "……やっぱりそれって長所じゃないか？",
-                    "enText": "…… isn't that an advantage after all?",
+                    "enText": "",
                     "nextBlock": 32
                 },
                 {
                     "jpText": "……やっぱりそれって長所じゃない？",
-                    "enText": "…… isn't that an advantage after all?",
+                    "enText": "",
                     "nextBlock": 32
                 }
             ],
@@ -555,9 +586,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "事実、メイショウドトウは散々な目に合ったにもかかわらず、\r\nそれでもまだ種目別競技大会へ前向きに取り組もうとしている。",
-            "enText": "In fact, despite the disastrous experience, Mashoudou is still \ntrying to move forward with the discipline competitions.",
+            "enText": "",
             "nextBlock": 33,
             "origClipLength": 121,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 300,
@@ -575,18 +607,19 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "へ…………ちょ、ちょうしょ……？\r\nごごご、ごめんなさい、空耳ですよねぇ……？",
-            "enText": "She……… choo, choo, choo……? Gogo, I'm \nsorry, it's an empty ear, right ……?",
+            "enText": "",
             "nextBlock": 34,
             "origClipLength": 325,
+            "voiceIdx": 23,
             "choices": [
                 {
                     "jpText": "諦めが悪いのは、君の長所だ",
-                    "enText": "Your reluctance to give up is one of your strong points.",
+                    "enText": "",
                     "nextBlock": 34
                 },
                 {
                     "jpText": "諦めが悪いのは、貴方の長所だよ",
-                    "enText": "Your reluctance to give up is one of your strengths.",
+                    "enText": "",
                     "nextBlock": 34
                 }
             ],
@@ -607,9 +640,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "空耳じゃなかったぁ！？",
-            "enText": "I didn't hear it in my head!",
+            "enText": "",
             "nextBlock": 35,
             "origClipLength": 78,
+            "voiceIdx": 24,
             "animData": [
                 {
                     "origLen": 53,
@@ -631,13 +665,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "えっと、そ、そ、そ、そうですかぁ……？\r\nただ本当に、ただグズグズしてるだけで、本当に、それだけで……。",
-            "enText": "Um, so, so, so, so… ……? Just really, just \ngoofing around, really, that's all. ……",
+            "enText": "",
             "nextBlock": 36,
             "origClipLength": 409,
+            "voiceIdx": 25,
             "choices": [
                 {
                     "jpText": "誰でもできることじゃない",
-                    "enText": "Not just anyone can do it.",
+                    "enText": "",
                     "nextBlock": 36
                 }
             ],
@@ -658,9 +693,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "そう、なん、ですか……。",
-            "enText": "So, what, is it ……?",
+            "enText": "",
             "nextBlock": 37,
             "origClipLength": 141,
+            "voiceIdx": 26,
             "animData": [
                 {
                     "origLen": 325,
@@ -678,9 +714,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "…………。\r\n……えへへ。うれしいです……。",
-            "enText": "……………… ehehe. I'm glad. ……",
+            "enText": "",
             "nextBlock": 38,
             "origClipLength": 238,
+            "voiceIdx": 27,
             "animData": [
                 {
                     "origLen": 117,
@@ -698,9 +735,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "――ええと、それじゃあ私、その……やっぱり、\r\nもうちょっと走ってから帰ります……！　おやすみなさい……！",
-            "enText": "―Well, I'm going to go for a…… little more run and then I'm going \nhome. ……! Good night. ……!",
+            "enText": "",
             "nextBlock": 39,
             "origClipLength": 382,
+            "voiceIdx": 28,
             "animData": [
                 {
                     "origLen": 58,
@@ -718,9 +756,10 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "走り去っていくメイショウドトウからは、\r\n今まで感じたことのなかった、そこはかとない力強さを感じた。",
-            "enText": "As Mashoudou drove away, I sensed an unmistakable strength that I \nhad never felt before.",
+            "enText": "",
             "nextBlock": 40,
             "origClipLength": 110,
+            "voiceIdx": -1,
             "pathId": -6980433634002755534,
             "blockIdx": 39
         },
@@ -728,12 +767,13 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ふぅ……ふぅ……！　…………よぉし……！",
-            "enText": "Phew…… phew……! ………Yooshi……!",
+            "enText": "",
             "nextBlock": -1,
             "origClipLength": 176,
+            "voiceIdx": 29,
             "pathId": 5718898496848703104,
             "blockIdx": 40
         }
     ],
-    "modified": 1657211879
+    "modified": 1678128797
 }

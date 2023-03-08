@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "bundle": "6TQZG4CTVLFZ4VQM6QYWKHPCQ4XH7GRD",
     "type": "story",
     "storyId": "041058007",
@@ -9,9 +9,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はぁっ……はぁっ……ゴール――ん？　今なにか足元に……！？\r\nうひゃぁっ、まさかサメに噛まれ……！？",
-            "enText": "Hah…… hahah…… goal―hmm? Something just now…… at my feet! Whaaaat, \ndon't tell me you've been bitten by a shark……!",
+            "enText": "",
             "nextBlock": 2,
             "origClipLength": 343,
+            "voiceIdx": 0,
             "pathId": 6938330291877266236,
             "blockIdx": 1
         },
@@ -19,13 +20,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "――あうぅぅ、あうぅ～……！　トレ、トレーナーさぁんっ！\r\nわた、私の脚、ありますかぁっ！？",
-            "enText": "―Ahhhhh, ahhhhh～ ……! Tre, my trainer! Do you have my legs?",
+            "enText": "",
             "nextBlock": 3,
             "origClipLength": 286,
+            "voiceIdx": 1,
             "choices": [
                 {
                     "jpText": "え？",
-                    "enText": "Huh?",
+                    "enText": "",
                     "nextBlock": 3
                 }
             ],
@@ -46,13 +48,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "なんだか感覚が変なんですぅ～！　怖くて見れませんけど……！\r\nぬめぬめした……これはサメの口の中～っ！？",
-            "enText": "I feel like I'm in some kind of sensory overload! I'm too scared \nto look at it, but ……! This is the inside of a shark's mouth～!",
+            "enText": "",
             "nextBlock": 4,
             "origClipLength": 308,
+            "voiceIdx": 2,
             "choices": [
                 {
                     "jpText": "いや、ワカメだね……",
-                    "enText": "No, it's a wakame. ……",
+                    "enText": "",
                     "nextBlock": 4
                 }
             ],
@@ -77,9 +80,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ワカメ！？　……あ、本当だ。ワカメが脚に……。\r\nううっ、早とちりでした……。",
-            "enText": "Wakame! …… Oh, it's true. Wakame seaweed \nis on my leg…… Ugh, I was too quick. ……",
+            "enText": "",
             "nextBlock": 5,
             "origClipLength": 484,
+            "voiceIdx": 3,
             "animData": [
                 {
                     "origLen": 167,
@@ -93,13 +97,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……えーと、騒いでごめんなさいぃ……。\r\nで、でも！　目標タイムはクリアできましたぁ！　……よね？",
-            "enText": "……Err, sorry for the fuss.…… But! I beat my goal time! …… right?",
+            "enText": "",
             "nextBlock": 6,
             "origClipLength": 302,
+            "voiceIdx": 4,
             "choices": [
                 {
                     "jpText": "バッチリだった！",
-                    "enText": "It was perfect!",
+                    "enText": "",
                     "nextBlock": 6
                 }
             ],
@@ -120,18 +125,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "実力向上のための夏合宿も半ば。メイショウドトウは\r\n相変わらずの調子ではあるが、確かに成長を見せてくれている。",
-            "enText": "We are halfway through the summer training camp \nto improve our abilities. Meishoudou is as good \nas ever, but she is certainly showing growth.",
+            "enText": "",
             "nextBlock": 7,
             "origClipLength": 116,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "強くなったな！",
-                    "enText": "You're getting stronger!",
+                    "enText": "",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "強くなったね！",
-                    "enText": "You're stronger than ever!",
+                    "enText": "",
                     "nextBlock": 7
                 }
             ],
@@ -148,9 +154,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "いいえっ、まだぜんぜんですぅ……！\r\nでも、もし仮に、万が一、強くなれてたとしたら、それは――",
-            "enText": "No, not yet… ……! But if, by any chance, I could have been \nstronger, it would have been―",
+            "enText": "",
             "nextBlock": 8,
             "origClipLength": 352,
+            "voiceIdx": 5,
             "animData": [
                 {
                     "origLen": 256,
@@ -168,18 +175,19 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "絶対に、トレーナーさんのご指導のおかげです……！\r\nありがとうございます～……！",
-            "enText": "Absolutely, thanks to the guidance of my trainer ……! Thank you～……!",
+            "enText": "",
             "nextBlock": 9,
             "origClipLength": 239,
+            "voiceIdx": 6,
             "choices": [
                 {
                     "jpText": "いや、君の粘り強さの賜物だ",
-                    "enText": "No, it's your tenacity.",
+                    "enText": "",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "いえ、貴方の粘り強さの賜物だよ",
-                    "enText": "No, it was your persistence.",
+                    "enText": "",
                     "nextBlock": 9
                 }
             ],
@@ -200,13 +208,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ひえええっ！？　そ、そんな、私はただしつこいだけで……。\r\nトレーナーさんが的確に指示をくれたからですよぉ～。",
-            "enText": "Heehee! Oh, no, I'm just persistent…… It's because the trainer \ngave me precise instructions!",
+            "enText": "",
             "nextBlock": 10,
             "origClipLength": 345,
+            "voiceIdx": 7,
             "choices": [
                 {
                     "jpText": "指示に応えられる器があるから",
-                    "enText": "I have the capacity to respond to instructions.",
+                    "enText": "",
                     "nextBlock": 10
                 }
             ],
@@ -223,13 +232,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "うひゃぁぁぁ～……！？　そ、そうじゃなくて\r\nトレーナーさんが本気で向き合ってくれるので――",
-            "enText": "Ohhhhhh ……! Well, that's not what I meant… my trainer really \ntakes me seriously, so―",
+            "enText": "",
             "nextBlock": 11,
             "origClipLength": 264,
+            "voiceIdx": 8,
             "choices": [
                 {
                     "jpText": "ドトウのやる気に引っ張られてる",
-                    "enText": "I'm pulling for doto's motivation.",
+                    "enText": "",
                     "nextBlock": 11
                 }
             ],
@@ -250,9 +260,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "なぜか褒め合いの形になったが、普段から思っていた\r\n彼女のよいところを伝える機会だと思い、淡々と褒め続けた結果――",
-            "enText": "For some reason, it turned out to be a form of mutual praise, \nbut I thought it was an opportunity to tell her the good \nthings I had always thought about her, and as a result, \nI kept on praising her without hesitation.",
+            "enText": "",
             "nextBlock": 12,
             "origClipLength": 119,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 133,
@@ -266,13 +277,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "――あう、うう、うう～……！\r\nも、もももももういいですぅ～……すみません……！",
-            "enText": "―Au, au, au～……!",
+            "enText": "",
             "nextBlock": 13,
             "origClipLength": 333,
+            "voiceIdx": 9,
             "choices": [
                 {
                     "jpText": "いや、謝ることは何もないけど……",
-                    "enText": "No, I have nothing to apologize for, but ……",
+                    "enText": "",
                     "nextBlock": 13
                 }
             ],
@@ -293,9 +305,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "でも、これ以上はもう……もう、キャパオーバーでぇぇ……！\r\nこんなに褒められたの、初めてで……うう……。",
-            "enText": "But I can't…… take it any more, I'm already over capacity……! I've \nnever been praised like this before…… ugh……",
+            "enText": "",
             "nextBlock": 14,
             "origClipLength": 359,
+            "voiceIdx": 10,
             "animData": [
                 {
                     "origLen": 198,
@@ -313,9 +326,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……でも、トレーナーさんって、\r\nいっぱい私を信じてくれてるんだな、って……。",
-            "enText": "I was told that my trainer believes in me a lot. ……",
+            "enText": "",
             "nextBlock": 15,
             "origClipLength": 254,
+            "voiceIdx": 11,
             "animData": [
                 {
                     "origLen": 303,
@@ -329,13 +343,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……なにか、お礼とか、できないかなぁ……。",
-            "enText": "……I wonder if I can do something to thank you or something. ……",
+            "enText": "",
             "nextBlock": 16,
             "origClipLength": 149,
+            "voiceIdx": 12,
             "choices": [
                 {
                     "jpText": "ドトウ？",
-                    "enText": "Dotou?",
+                    "enText": "",
                     "nextBlock": 16
                 }
             ],
@@ -356,9 +371,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あうぅぅ～……は、走ってきます～～っ！！",
-            "enText": "Aaaaahhhhhh…… is going to run～!",
+            "enText": "",
             "nextBlock": 17,
             "origClipLength": 187,
+            "voiceIdx": 13,
             "animData": [
                 {
                     "origLen": 58,
@@ -376,9 +392,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "って、ワカメッ！？\r\nああっ、滑るぅ～～！？",
-            "enText": "What do you mean, wakame! Ah, I'm slipping～!",
+            "enText": "",
             "nextBlock": 18,
             "origClipLength": 133,
+            "voiceIdx": 14,
             "pathId": 1634678449204212391,
             "blockIdx": 17
         },
@@ -386,9 +403,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "そしてトレーニングが終わり、メイショウドトウと別れ\r\n1人、合宿所を歩いていたのだが……。",
-            "enText": "And after training was over, I parted ways with Meishoudou and \nwalked alone through the training camp. ……",
+            "enText": "",
             "nextBlock": 19,
             "origClipLength": 103,
+            "voiceIdx": -1,
             "pathId": 5635995352347819917,
             "blockIdx": 18
         },
@@ -396,9 +414,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "",
             "nextBlock": 20,
             "origClipLength": 61,
+            "voiceIdx": 15,
             "pathId": -193729925539616507,
             "blockIdx": 19
         },
@@ -406,13 +425,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……だぶっ！？　うぐぅ～……\r\nは、柱に頭を……痛い～……。",
-            "enText": "…… Dabu! Ugh～…… is a head on a post…… hurts～……",
+            "enText": "",
             "nextBlock": 21,
             "origClipLength": 341,
+            "voiceIdx": 16,
             "choices": [
                 {
                     "jpText": "……大丈夫？",
-                    "enText": "…… great husband?",
+                    "enText": "",
                     "nextBlock": 21
                 }
             ],
@@ -423,13 +443,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "わあっ！？\r\nあ、はい、すみません……。",
-            "enText": "Wow! Oh, yes, sorry. ……",
+            "enText": "",
             "nextBlock": 22,
             "origClipLength": 144,
+            "voiceIdx": 17,
             "choices": [
                 {
                     "jpText": "何か用事？",
-                    "enText": "What can I do for you?",
+                    "enText": "",
                     "nextBlock": 22
                 }
             ],
@@ -446,9 +467,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ええと、その……そういうわけでは、ない……\r\nような、あるような、ないような……。",
-            "enText": "Well, its…… not like that, not like that, not like that, not like \nthat, not like that. ……",
+            "enText": "",
             "nextBlock": 23,
             "origClipLength": 371,
+            "voiceIdx": 18,
             "animData": [
                 {
                     "origLen": 402,
@@ -466,9 +488,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "何かとても言いづらいことがあるようなので、\r\n彼女の勇気が出てくるまで待つことにした。すると――",
-            "enText": "She seemed to have something very difficult to say, so I decided \nto wait until she got up the courage to say it. Then―",
+            "enText": "",
             "nextBlock": 24,
             "origClipLength": 107,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 137,
@@ -486,9 +509,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "…………あのっっ！！",
-            "enText": "……… ANNO!!!!",
+            "enText": "",
             "nextBlock": 25,
             "origClipLength": 179,
+            "voiceIdx": 19,
             "animData": [
                 {
                     "origLen": 45,
@@ -506,9 +530,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "その、ご迷惑をかけちゃうかもなんですけど……\r\nすごく大変なことに巻き込んじゃうかも、なんですけど……！",
-            "enText": "Well, I'm afraid I'm going to get you into a lot of trouble.…… \nI'm afraid I'm going to get you into a lot of trouble. ……!",
+            "enText": "",
             "nextBlock": 26,
             "origClipLength": 393,
+            "voiceIdx": 20,
             "animData": [
                 {
                     "origLen": 338,
@@ -526,13 +551,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "というかその、もしかするとなにがしかが起こって\r\n爆発とか起きちゃうかもしれないし、そのあと爆風で――",
-            "enText": "I mean, you know, maybe something will happen and there will be \nan explosion or something, and then the blast will―",
+            "enText": "",
             "nextBlock": 27,
             "origClipLength": 302,
+            "voiceIdx": 21,
             "choices": [
                 {
                     "jpText": "大丈夫だから、続けて",
-                    "enText": "It's okay. Go on.",
+                    "enText": "",
                     "nextBlock": 27
                 }
             ],
@@ -553,9 +579,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あの、その……は…………花火を見たいんですっっ！！\r\nな、なので――",
-            "enText": "Um, that…… wants to see……… fireworks! So… so…",
+            "enText": "",
             "nextBlock": 28,
             "origClipLength": 325,
+            "voiceIdx": 22,
             "animData": [
                 {
                     "origLen": 139,
@@ -573,9 +600,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "――ついてきて、くだひゃいましぇっっ……！！",
-            "enText": "―Follow me on Twitter at ……!",
+            "enText": "",
             "nextBlock": 29,
             "origClipLength": 89,
+            "voiceIdx": 23,
             "animData": [
                 {
                     "origLen": 118,
@@ -589,9 +617,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "メイショウドトウの意外な誘いから、数時間後。\r\n彼女が先頭に立ち、花火スポットを目指した結果――",
-            "enText": "A few hours after Meishoudou's unexpected invitation. She led the \nway to the fireworks spot, and the result―",
+            "enText": "",
             "nextBlock": 30,
             "origClipLength": 107,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 147,
@@ -605,9 +634,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "――ああああああああああああああ～～～～！！\r\n花火、もう、おわ、終わりの時間です……。",
-            "enText": "―Ohhhhhhhhhhhh ～～～～! Fireworks, oh \nwow, it's the end of the day. ……",
+            "enText": "",
             "nextBlock": 31,
             "origClipLength": 485,
+            "voiceIdx": 24,
             "animData": [
                 {
                     "origLen": 657,
@@ -621,18 +651,19 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "す、すみません……私が道を間違えたり、\r\nフクロウに攫われそうになったりしたせいで……！",
-            "enText": "Sorry, I'm sorry…… because I took a wrong turn or almost got \nkidnapped by an owl ……!",
+            "enText": "",
             "nextBlock": 32,
             "origClipLength": 274,
+            "voiceIdx": 25,
             "choices": [
                 {
                     "jpText": "あれはびっくりしたな……",
-                    "enText": "That was a surprise. ……",
+                    "enText": "",
                     "nextBlock": 32
                 },
                 {
                     "jpText": "あれはびっくりしたね……",
-                    "enText": "That was a surprise. ……",
+                    "enText": "",
                     "nextBlock": 32
                 }
             ],
@@ -649,9 +680,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ううっ、それでも、\r\nそれでもついてきてもらって、せっかく辿り着いたのに……。",
-            "enText": "Ugh, but still, they still followed me and I got there. ……",
+            "enText": "",
             "nextBlock": 33,
             "origClipLength": 251,
+            "voiceIdx": 26,
             "animData": [
                 {
                     "origLen": 253,
@@ -669,9 +701,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ここ、すごく花火が綺麗に見えるって、穴場らしくて……\r\nネットとかで、色々情報を集めて……。",
-            "enText": "I heard that this is a good place to see fireworks.…… I gathered \na lot of information on the Internet and other places. ……",
+            "enText": "",
             "nextBlock": 34,
             "origClipLength": 375,
+            "voiceIdx": 27,
             "animData": [
                 {
                     "origLen": 354,
@@ -689,9 +722,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "なのに、やっぱり私は私でした。\r\n張り切ったばっかりに、とんでもないやらかしをぉ……。",
-            "enText": "And yet, I was still me. I was just trying to do my best, and I \nmade a terrible mistake. ……",
+            "enText": "",
             "nextBlock": 35,
             "origClipLength": 351,
+            "voiceIdx": 28,
             "animData": [
                 {
                     "origLen": 171,
@@ -709,13 +743,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ただトレーナーさんに、喜んでもらいたかっただけなのに……。",
-            "enText": "I just wanted to make the trainer happy. ……",
+            "enText": "",
             "nextBlock": 36,
             "origClipLength": 190,
+            "voiceIdx": 29,
             "choices": [
                 {
                     "jpText": "喜んでるよ",
-                    "enText": "She's happy.",
+                    "enText": "",
                     "nextBlock": 36
                 }
             ],
@@ -732,9 +767,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "へ……？",
-            "enText": "She ……?",
+            "enText": "",
             "nextBlock": 37,
             "origClipLength": 50,
+            "voiceIdx": 30,
             "animData": [
                 {
                     "origLen": 88,
@@ -752,9 +788,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "で、でも花火は打ち上がってないんですよ？\r\nただの夜空を見るために、散々歩かせてしまったんですよ……？",
-            "enText": "And but there were no fireworks going off, right? I had to walk \naround a lot just to see the night sky. ……?",
+            "enText": "",
             "nextBlock": 38,
             "origClipLength": 302,
+            "voiceIdx": 31,
             "animData": [
                 {
                     "origLen": 165,
@@ -772,13 +809,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "結局、やっぱり迷惑をかけちゃうだけなんです。\r\n私、私は――",
-            "enText": "In the end, I'm still just going to cause trouble. I, I―",
+            "enText": "",
             "nextBlock": 39,
             "origClipLength": 298,
+            "voiceIdx": 32,
             "choices": [
                 {
                     "jpText": "ドトウ",
-                    "enText": "Doto (kingdom in China during the Spring and Autumn Period and \nthe Period of the Warring States Period)",
+                    "enText": "",
                     "nextBlock": 39
                 }
             ],
@@ -795,18 +833,19 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はっ、はいぃ～！",
-            "enText": "Haha, yes～!",
+            "enText": "",
             "nextBlock": 40,
             "origClipLength": 49,
+            "voiceIdx": 33,
             "choices": [
                 {
                     "jpText": "俺のために頑張ってくれてありがとう",
-                    "enText": "Thanks for all your hard work on my behalf.",
+                    "enText": "",
                     "nextBlock": 40
                 },
                 {
                     "jpText": "私のために頑張ってくれてありがとう",
-                    "enText": "Thanks for all your hard work on my behalf.",
+                    "enText": "",
                     "nextBlock": 40
                 }
             ],
@@ -823,9 +862,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……！\r\nうう～っ、トレーナーさぁ～ん……！",
-            "enText": "……! Ughhhh, trainer! ……!",
+            "enText": "",
             "nextBlock": 41,
             "origClipLength": 415,
+            "voiceIdx": 34,
             "animData": [
                 {
                     "origLen": 200,
@@ -839,9 +879,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "メイショウドトウの本心が聞けて、これはこれでよい時間になった。\r\n花火は残念だったが、また今度見ればいいと伝えようとした瞬間――",
-            "enText": "This was a good time to hear Meishoudou's true feelings. The \nmoment I was about to tell her that I was sorry about the \nfireworks, but that she could see them another time―",
+            "enText": "",
             "nextBlock": 42,
             "origClipLength": 128,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 183,
@@ -855,9 +896,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ドォォォン……）",
-            "enText": "(D'ohn ……)",
+            "enText": "",
             "nextBlock": 43,
             "origClipLength": 56,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 108,
@@ -871,9 +913,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ひゃわぁっ！？　あ――",
-            "enText": "Hyah! Ah―",
+            "enText": "",
             "nextBlock": 44,
             "origClipLength": 77,
+            "voiceIdx": 35,
             "animData": [
                 {
                     "origLen": 60,
@@ -891,9 +934,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "え？　あれ？　花火……？\r\nど、どうして？　もう終わった時間じゃ……。",
-            "enText": "Huh? Huh? Fireworks ……? Why? It's already over time. ……",
+            "enText": "",
             "nextBlock": 45,
             "origClipLength": 267,
+            "voiceIdx": 36,
             "animData": [
                 {
                     "origLen": 74,
@@ -907,18 +951,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "すぐにスマホで調べると、どうやらアクシデントがあり\r\n小休止していたようだ。",
-            "enText": "I immediately checked on my phone and found that they had \napparently had an accident and had to take a short break.",
+            "enText": "",
             "nextBlock": 46,
             "origClipLength": 94,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "迷ったおかげでちゃんと見られたな",
-                    "enText": "Thanks to your hesitation, you got a proper look at it.",
+                    "enText": "",
                     "nextBlock": 46
                 },
                 {
                     "jpText": "迷ったおかげでちゃんと見られたね",
-                    "enText": "Thanks to your hesitation, you got a good look at it.",
+                    "enText": "",
                     "nextBlock": 46
                 }
             ],
@@ -929,9 +974,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……！\r\nそれって……私がドジしたから……？",
-            "enText": "……! Is that because…… I screwed up ……?",
+            "enText": "",
             "nextBlock": 47,
             "origClipLength": 170,
+            "voiceIdx": 37,
             "pathId": 1901202353867979436,
             "blockIdx": 46
         },
@@ -939,9 +985,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はっ！？　そ、そういう意味じゃないですよね！\r\nドジなんかしないほうがいいですぅ～！　……で、でも――",
-            "enText": "Ha! That's not what I meant! You shouldn't \nhave screwed up～! …… but―",
+            "enText": "",
             "nextBlock": 48,
             "origClipLength": 295,
+            "voiceIdx": 38,
             "animData": [
                 {
                     "origLen": 73,
@@ -959,9 +1006,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "えへへ……張り切ってみて、よかったな……♪",
-            "enText": "Ehehehe…… I'm glad you tried to stick up for me.…… ♪",
+            "enText": "",
             "nextBlock": 49,
             "origClipLength": 177,
+            "voiceIdx": 39,
             "animData": [
                 {
                     "origLen": 172,
@@ -979,9 +1027,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "花火を見上げるメイショウドトウの横顔は、\r\n涙もあいまってキラキラ輝き――",
-            "enText": "Maysho Udontou's profile glistened as she looked up at the \nfireworks, and her tears also glistened.",
+            "enText": "",
             "nextBlock": 50,
             "origClipLength": 93,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 150,
@@ -999,9 +1048,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "ほんの少し、自信を持てたように見えた。",
-            "enText": "She seemed to have just a little bit more confidence.",
+            "enText": "",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 115,
@@ -1016,5 +1066,5 @@
             "blockIdx": 50
         }
     ],
-    "modified": 1657212096
+    "modified": 1678128797
 }

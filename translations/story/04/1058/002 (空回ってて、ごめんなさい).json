@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "bundle": "S74P3YEIB3CP7NBI4LXKOPEL6M33443F",
     "type": "story",
     "storyId": "041058002",
@@ -9,9 +9,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "種目別競技大会とは、成長や挑戦を促す目的で年に数回行われる\r\n学内レースのこと。それにメイショウドトウは誘われたわけだが――",
-            "enText": "A discipline competition is an intramural race held several times \na year to encourage growth and challenge. And that's what \nMayshoudtou was invited to do.",
+            "enText": "",
             "nextBlock": 2,
             "origClipLength": 125,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 152,
@@ -29,9 +30,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "というわけで早速明日、合同稽古を行おう！　場所は芝コース、\r\n時間は13時！　よろしく頼むよ、ドトウ！　ハーッハッハッハッハ！",
-            "enText": "So let's have a joint training tomorrow! The place is the turf \ncourse. The time is 1:00 p.m.! Good luck, Dotou! Ha-ha-ha-ha!",
+            "enText": "",
             "nextBlock": 3,
             "origClipLength": 397,
+            "voiceIdx": 0,
             "animData": [
                 {
                     "origLen": 47,
@@ -61,13 +63,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "…………。\r\n……はぅっ、驚きのあまり、気絶してました……。",
-            "enText": "……………… Hah, I was so surprised, I passed out. ……",
+            "enText": "",
             "nextBlock": 4,
             "origClipLength": 227,
+            "voiceIdx": 1,
             "choices": [
                 {
                     "jpText": "大丈夫？",
-                    "enText": "Great man?",
+                    "enText": "",
                     "nextBlock": 4
                 }
             ],
@@ -88,9 +91,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ええ、はい、大丈……えっ、おっ、オペオペ、オペラオーさんが\r\nわわわわ私を指名！？　私と激闘！？　ええーっ！！",
-            "enText": "Yes, yes, great length…… eh, oops, oops, Ms. Opera O nominated me \nwow! A fierce battle with me! Eeeee!!!",
+            "enText": "",
             "nextBlock": 5,
             "origClipLength": 395,
+            "voiceIdx": 2,
             "animData": [
                 {
                     "origLen": 73,
@@ -112,18 +116,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "尋常ではない戸惑いっぷりに、先ほどまでの\r\nテイエムオペラオーを慕っているような態度……もしかすると――",
-            "enText": "The unusual bewilderment, the adoring attitude of the TM Operao \nfrom a few moments ago…… might be―",
+            "enText": "",
             "nextBlock": 6,
             "origClipLength": 112,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "ファンなのか？",
-                    "enText": "Are you a fan?",
+                    "enText": "",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "ファンなの？",
-                    "enText": "Are you a fan?",
+                    "enText": "",
                     "nextBlock": 6
                 }
             ],
@@ -140,9 +145,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "い、いえそんな、私なんかが、めっそうもないですぅ……！\r\nファンではないのですが、つまりその、あ、憧れ、というか……。",
-            "enText": "No, no, no, no, no, no, no, no, no, no, no, no, \nno, no, no, no, no, no, no, no, no, no, no. ……! \nI'm not a fan, I mean, I, uh, admire, or ……",
+            "enText": "",
             "nextBlock": 7,
             "origClipLength": 494,
+            "voiceIdx": 3,
             "animData": [
                 {
                     "origLen": 330,
@@ -160,9 +166,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "えとえと……そのぅ……は……初めて\r\nオペラオーさんを見た時に、ですねぇ……――",
-            "enText": "When I first saw…… Ms. Oprah, you know, the first time I saw…… \nMs. Oprah, you know, ……―",
+            "enText": "",
             "nextBlock": 8,
             "origClipLength": 323,
+            "voiceIdx": 4,
             "animData": [
                 {
                     "origLen": 235,
@@ -180,9 +187,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "ハーッハッハッ！　ご覧、この装飾された壁！　飾られた演台！\r\nギャラリーの揃った体育館！　ボクの入学を歓迎しているのだね！",
-            "enText": "Ha ha ha! Look at these decorated walls! The decorated \npodium! A gymnasium full of galleries! They're welcoming \nme to the school, aren't they!",
+            "enText": "",
             "nextBlock": 9,
             "origClipLength": 383,
+            "voiceIdx": 5,
             "animData": [
                 {
                     "origLen": 45,
@@ -204,9 +212,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……あの日、オペラオーさんは目立っていました。列の中で\r\n高笑いしながら新入生の1人として入場し、そして……。",
-            "enText": "…… Opera O stood out that day. She entered as one of the new \nstudents in the row, smiling broadly, and then ……",
+            "enText": "",
             "nextBlock": 10,
             "origClipLength": 404,
+            "voiceIdx": 6,
             "animData": [
                 {
                     "origLen": 438,
@@ -224,9 +233,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "刮目せよ！　ここから、ボクのヴィクトリーロードが――",
-            "enText": "Watch out! From here, my Victory Road begins…",
+            "enText": "",
             "nextBlock": 11,
             "origClipLength": 160,
+            "voiceIdx": 7,
             "animData": [
                 {
                     "origLen": 66,
@@ -244,9 +254,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "盛大にこけました。",
-            "enText": "It was a grand stumble.",
+            "enText": "",
             "nextBlock": 12,
             "origClipLength": 80,
+            "voiceIdx": 8,
             "animData": [
                 {
                     "origLen": 14,
@@ -272,9 +283,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "だ、大丈夫ですかぁ……！？",
-            "enText": "Hey, are you okay. ……!",
+            "enText": "",
             "nextBlock": 13,
             "origClipLength": 101,
+            "voiceIdx": 9,
             "animData": [
                 {
                     "origLen": 72,
@@ -292,9 +304,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "私は焦りました……！　入学早々、全校生徒の目の前でコケる\r\nなんて、私なら1年は悪夢になって苦しみます！　なのに――",
-            "enText": "I was impatient: ……! I would have a nightmare and \nsuffer for a year, mocking in front of the whole \nschool as soon as I started school! And yet…",
+            "enText": "",
             "nextBlock": 14,
             "origClipLength": 409,
+            "voiceIdx": 10,
             "animData": [
                 {
                     "origLen": 86,
@@ -312,9 +325,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "クク……ハーッハッハッハッハ！　エクセレント！　これほど\r\nインパクトのある不幸があるだろうか！　偶然とはいえ素晴らしい！",
-            "enText": "Kuku…… har har har! Excellent! Could there be a more impactful \nmisfortune! Wonderful, even if it is a coincidence!",
+            "enText": "",
             "nextBlock": 15,
             "origClipLength": 425,
+            "voiceIdx": 11,
             "animData": [
                 {
                     "origLen": 66,
@@ -344,9 +358,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "（す、すごい……ぜんぜんへこんでない……。\r\nそれどころか、いっそう堂々としてる……な、なんで……？）",
-            "enText": "(Wow, she doesn't look…… depressed at all. On the contrary, it \nlooks even more magnificent…… Why ……?)",
+            "enText": "",
             "nextBlock": 16,
             "origClipLength": 426,
+            "voiceIdx": 12,
             "animData": [
                 {
                     "origLen": 201,
@@ -372,9 +387,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "（私……この人みたいに、なりたい……！）",
-            "enText": "(I…… want to be like this person, ……!)",
+            "enText": "",
             "nextBlock": 17,
             "origClipLength": 179,
+            "voiceIdx": 13,
             "animData": [
                 {
                     "origLen": 99,
@@ -396,9 +412,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……さっき、オペラオーさんが私を選んでくださったのは……\r\nきっと、いえ多分、いえ確実、いえ絶対に偶然だと思います……。",
-            "enText": "I am sure, no, maybe, no, definitely, no, definitely, it is a \ncoincidence that Ms. Operao chose me to…… just now. ……",
+            "enText": "",
             "nextBlock": 18,
             "origClipLength": 463,
+            "voiceIdx": 14,
             "animData": [
                 {
                     "origLen": 129,
@@ -428,9 +445,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "でも、こんな私でも、オペラオーさんのためになれるのなら……\r\nせ、精いっぱいがんばらせて、いただきます……！",
-            "enText": "But if I can be of any help to Ms. Opera O, I will do my best ……!",
+            "enText": "",
             "nextBlock": 19,
             "origClipLength": 336,
+            "voiceIdx": 15,
             "animData": [
                 {
                     "origLen": 148,
@@ -452,9 +470,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "翌日。興味本位でメイショウドトウとテイエムオペラオーの\r\n合同稽古（併走）を見学に訪れていた。しかし――",
-            "enText": "The next day. Out of curiosity, I visited to observe the joint \ntraining (running together) of Meishoudou and Teimuoperao. But―",
+            "enText": "",
             "nextBlock": 20,
             "origClipLength": 112,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 30,
@@ -480,9 +499,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "ハーッハッハ！　初日から30分の遅刻とは！",
-            "enText": "Ha ha ha! What a 30 minute delay after the first day!",
+            "enText": "",
             "nextBlock": 21,
             "origClipLength": 155,
+            "voiceIdx": 16,
             "animData": [
                 {
                     "origLen": 68,
@@ -500,9 +520,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "あの子のことだ、もしやどこかでドジを踏んでいるんじゃ、と\r\n心配したところで――",
-            "enText": "I was worried that she might have screwed up somewhere.",
+            "enText": "",
             "nextBlock": 22,
             "origClipLength": 97,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 158,
@@ -516,9 +537,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "す、すみませぇ～～ん！！",
-            "enText": "I'm sorry!",
+            "enText": "",
             "nextBlock": 23,
             "origClipLength": 131,
+            "voiceIdx": 17,
             "animData": [
                 {
                     "origLen": 44,
@@ -532,9 +554,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ご、ごめんなさい、準備に手間取っちゃってぇ……！\r\nい、今すぐ、ゲートインします！　ごめんなさいごめんなさい……！",
-            "enText": "I'm sorry, it took me a while to get ready. ……! Yes, we're gating \nin right now! Sorry, sorry, sorry. ……!",
+            "enText": "",
             "nextBlock": 24,
             "origClipLength": 326,
+            "voiceIdx": 18,
             "animData": [
                 {
                     "origLen": 136,
@@ -560,9 +583,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "待ちたまえ、ドトウ。\r\n君、本当にそのまま走っていいと思っているのかい？",
-            "enText": "Wait a minute, Doto. Do you really \nthink you can just keep running?",
+            "enText": "",
             "nextBlock": 25,
             "origClipLength": 186,
+            "voiceIdx": 19,
             "animData": [
                 {
                     "origLen": 270,
@@ -584,9 +608,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ひっ、そそそ、そうですよね……！　ごめ、ごめんなさ――",
-            "enText": "Hee, hee, hee, you're right. ……! Sorry, sorry―",
+            "enText": "",
             "nextBlock": 26,
             "origClipLength": 172,
+            "voiceIdx": 20,
             "animData": [
                 {
                     "origLen": 309,
@@ -608,9 +633,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "足元がスリッパだぞ。",
-            "enText": "Your feet are slippers.",
+            "enText": "",
             "nextBlock": 27,
             "origClipLength": 67,
+            "voiceIdx": 21,
             "animData": [
                 {
                     "origLen": 60,
@@ -632,9 +658,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "…………！！！",
-            "enText": "………!!!",
+            "enText": "",
             "nextBlock": 28,
             "origClipLength": 76,
+            "voiceIdx": 22,
             "animData": [
                 {
                     "origLen": 112,
@@ -652,9 +679,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "メイショウドトウは、大慌てで靴を履きに帰寮し――",
-            "enText": "Meishoudou rushed back to the dormitory to put on her shoes.",
+            "enText": "",
             "nextBlock": 29,
             "origClipLength": 76,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 86,
@@ -672,9 +700,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "……そして夜になった。",
-            "enText": "…… and night fell.",
+            "enText": "",
             "nextBlock": 30,
             "origClipLength": 59,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 86,
@@ -688,9 +717,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "ハーッハッハッハ！　遅い！",
-            "enText": "Ha-ha-ha! You're late!",
+            "enText": "",
             "nextBlock": 31,
             "origClipLength": 115,
+            "voiceIdx": 23,
             "animData": [
                 {
                     "origLen": 158,
@@ -708,9 +738,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "さすがに遅すぎる。\r\n今度こそ何かあったんじゃ、と心配になってきたところで……。",
-            "enText": "Too late indeed. I was beginning to worry \nthat something was wrong this time. ……",
+            "enText": "",
             "nextBlock": 32,
             "origClipLength": 97,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 158,
@@ -731,6 +762,7 @@
             "enText": "",
             "nextBlock": 33,
             "origClipLength": 146,
+            "voiceIdx": 24,
             "animData": [
                 {
                     "origLen": 42,
@@ -748,18 +780,19 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ごめんなさいごめんなさい、ほんっとうにごめんなさい……！",
-            "enText": "I'm sorry, I'm so sorry, I'm so sorry. ……!",
+            "enText": "",
             "nextBlock": 34,
             "origClipLength": 148,
+            "voiceIdx": 25,
             "choices": [
                 {
                     "jpText": "何があったんだ？",
-                    "enText": "What happened?",
+                    "enText": "",
                     "nextBlock": 34
                 },
                 {
                     "jpText": "何があったの？",
-                    "enText": "What happened?",
+                    "enText": "",
                     "nextBlock": 34
                 }
             ],
@@ -788,9 +821,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "そのぅ……昨日の夜、張り切ってシューズを磨いて……普段と違う\r\nところにしまっちゃったんです。それで、見つからなくなって……！",
-            "enText": "Well…… last night I was so excited that I polished my shoes and \nput them in a…… different place than I normally do. Then I \ncouldn't find them and ……!",
+            "enText": "",
             "nextBlock": 35,
             "origClipLength": 470,
+            "voiceIdx": 26,
             "animData": [
                 {
                     "origLen": 401,
@@ -816,9 +850,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ここにもない、ここにもない、ここにもない、\r\nここにもない、ここにもない！　どこにもないぃ～！？",
-            "enText": "Not here, not here, not here, not here, not here, not here! It's \nnot here, it's not here, it's not here, it's not here!",
+            "enText": "",
             "nextBlock": 36,
             "origClipLength": 286,
+            "voiceIdx": 27,
             "animData": [
                 {
                     "origLen": 22,
@@ -844,9 +879,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "そして、ようやく見つかったと思ったら――",
-            "enText": "And just when you think you've finally found it―",
+            "enText": "",
             "nextBlock": 37,
             "origClipLength": 134,
+            "voiceIdx": 28,
             "animData": [
                 {
                     "origLen": 190,
@@ -860,9 +896,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ててて、蹄鉄が取れちゃったぁ……！\r\nなんでぇ～！？",
-            "enText": "Oh, no, my horseshoe came off. ……! Why?",
+            "enText": "",
             "nextBlock": 38,
             "origClipLength": 184,
+            "voiceIdx": 29,
             "animData": [
                 {
                     "origLen": 81,
@@ -876,9 +913,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……はっ、もしかして、完璧な位置に打ちたくて、昨日何度も\r\n打ち直したから、それで穴が……。わ、私のバカァ～！",
-            "enText": "…… maybe it's because I wanted to hit it in the perfect position, \nso I hit it again and again yesterday, and that's why the hole is \nin…… Oh, my stupidity!",
+            "enText": "",
             "nextBlock": 39,
             "origClipLength": 439,
+            "voiceIdx": 30,
             "animData": [
                 {
                     "origLen": 98,
@@ -892,13 +930,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "そ、それで、新しいシューズを買いに行っていたら、\r\nこんな時間に……！　お待たせしてしまって、ごめんなさい……！",
-            "enText": "So, so I was out shopping for new shoes, and here I am at this \nhour ……! Sorry to keep you waiting. ……!",
+            "enText": "",
             "nextBlock": 40,
             "origClipLength": 395,
+            "voiceIdx": 31,
             "choices": [
                 {
                     "jpText": "一言連絡してくれれば……",
-                    "enText": "Just drop me a line at ……",
+                    "enText": "",
                     "nextBlock": 40
                 }
             ],
@@ -923,13 +962,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はっ！　た、確かに……！　その手がありましたね……って、\r\nそうじゃなくて、こ、困りましたよね、ごめんなさいぃ……！",
-            "enText": "Ha! You're right, it's ……! That's the way to do it…… No, I mean, \nI'm sorry, I'm sorry, ……!",
+            "enText": "",
             "nextBlock": 41,
             "origClipLength": 411,
+            "voiceIdx": 32,
             "choices": [
                 {
                     "jpText": "とりあえず、今日はやめておく？",
-                    "enText": "Not today, for now?",
+                    "enText": "",
                     "nextBlock": 41
                 }
             ],
@@ -958,9 +998,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "もう夜も遅い。テイエムオペラオーもさすがに\r\n待ちくたびれてしまっただろうと思い、提案すると――",
-            "enText": "It was already late at night. I thought that TM Operao must have \ngotten tired of waiting for me, so I suggested―",
+            "enText": "",
             "nextBlock": 42,
             "origClipLength": 107,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 66,
@@ -986,9 +1027,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "ふっ、“覇王”たるもの多少のアクシデントでは心は揺らがないさ！\r\n何よりご覧、今宵もいい月だ！　さあ、走ろうじゃないか！",
-            "enText": "The \"High King\" will not be swayed by a few accidents! And what's \nmore, it's a beautiful moon tonight! Let's run!",
+            "enText": "",
             "nextBlock": 43,
             "origClipLength": 401,
+            "voiceIdx": 33,
             "animData": [
                 {
                     "origLen": 73,
@@ -1014,9 +1056,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "お、オペラオーさぁん……！",
-            "enText": "Oh, Ms. Opera O. ……!",
+            "enText": "",
             "nextBlock": 44,
             "origClipLength": 145,
+            "voiceIdx": 34,
             "animData": [
                 {
                     "origLen": 159,
@@ -1042,9 +1085,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "（せ、せめて、いい併走にしなきゃ……っ！\r\nオペラオーさんの、お役に立てるウマ娘に、ならなきゃ……！）",
-            "enText": "（I have to at least make a good run together. ……! I have to \nbecome a horse girl who can be useful to Opera O. (I have to \nbecome a horse girl who can be useful to Opera O. ……!)",
+            "enText": "",
             "nextBlock": 45,
             "origClipLength": 327,
+            "voiceIdx": 35,
             "animData": [
                 {
                     "origLen": 368,
@@ -1070,9 +1114,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "フッ、いい顔じゃないか、ドトウ！\r\nしかし、ボクは負けないよ！　――はぁあ！",
-            "enText": "Well, you look good, Doto! But I won't lose! ―Haaaaah!",
+            "enText": "",
             "nextBlock": 46,
             "origClipLength": 242,
+            "voiceIdx": 36,
             "animData": [
                 {
                     "origLen": 97,
@@ -1094,9 +1139,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "……っ！　や、やああ～～っ！",
-            "enText": "……! Ya, Ya～!!!",
+            "enText": "",
             "nextBlock": 47,
             "origClipLength": 118,
+            "voiceIdx": 37,
             "animData": [
                 {
                     "origLen": 95,
@@ -1110,9 +1156,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "――はびゃ！？",
-            "enText": "―Ha bya!",
+            "enText": "",
             "nextBlock": 48,
             "origClipLength": 34,
+            "voiceIdx": 38,
             "pathId": -648459149993312934,
             "blockIdx": 47
         },
@@ -1120,9 +1167,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "……ふぅ！　どうだったかな、ボクの走りは！\r\n我が宿敵ドト――おや？　こけている……？",
-            "enText": "…… Whew! How was my run! My old nemesis, \nDoto―oh? Are you ditching ……?",
+            "enText": "",
             "nextBlock": 49,
             "origClipLength": 274,
+            "voiceIdx": 39,
             "pathId": 615360809086287638,
             "blockIdx": 48
         },
@@ -1130,9 +1178,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ご、ごめんなさい～～！　遅刻して、お待たせして、\r\nまともなレースもできなくてぇ～！",
-            "enText": "I'm so sorry～! I was late, I kept you waiting, and I didn't even \nget a decent race in!",
+            "enText": "",
             "nextBlock": 50,
             "origClipLength": 340,
+            "voiceIdx": 40,
             "animData": [
                 {
                     "origLen": 406,
@@ -1158,9 +1207,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "私、私どうすれば、どう謝罪をすれば……！\r\nあっ、そうだ……！　差し入れ、差し入れを持ってきたんです……！",
-            "enText": "Me, me how do I, how do I apologize ……! Oh, yes, ……! I brought \nyou some food, I brought you some food ……!",
+            "enText": "",
             "nextBlock": 51,
             "origClipLength": 361,
+            "voiceIdx": 41,
             "animData": [
                 {
                     "origLen": 406,
@@ -1186,9 +1236,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "その用意で、今日は遅刻しちゃったんですけど……。\r\nごめんなさい……。",
-            "enText": "In preparation for that, I'm late today.…… Sorry ……",
+            "enText": "",
             "nextBlock": 52,
             "origClipLength": 202,
+            "voiceIdx": 42,
             "animData": [
                 {
                     "origLen": 171,
@@ -1214,9 +1265,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "そんなわけで、メイショウドトウの用意した\r\n差し入れを頂いたわけだが――",
-            "enText": "And so, I received the gifts that Mae Shoudou had prepared for me…",
+            "enText": "",
             "nextBlock": 53,
             "origClipLength": 91,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 406,
@@ -1242,9 +1294,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "これは……ホットコーヒーではなくホット醤油だね！",
-            "enText": "That's…… hot soy sauce, not hot coffee!",
+            "enText": "",
             "nextBlock": 54,
             "origClipLength": 174,
+            "voiceIdx": 43,
             "animData": [
                 {
                     "origLen": 124,
@@ -1274,9 +1327,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "しょしょ、醤油！？　ご、ごめんなさい！　ええとええと、あの、\r\nアロマを振りかけたタオルも、ご用意したんです！　いい香りで――",
-            "enText": "Soy sauce! I'm sorry! I, uh, I, uh, I also prepared some towels \nsprinkled with aroma! It smells so good!",
+            "enText": "",
             "nextBlock": 55,
             "origClipLength": 404,
+            "voiceIdx": 44,
             "animData": [
                 {
                     "origLen": 291,
@@ -1306,9 +1360,10 @@
             "jpName": "テイエムオペラオー",
             "enName": "",
             "jpText": "――！？　ゴホッ！　ケホッ！　なんという激……臭――",
-            "enText": "What the―! Gosh! Keh! What an intense…… smell―!",
+            "enText": "",
             "nextBlock": 56,
             "origClipLength": 236,
+            "voiceIdx": 45,
             "animData": [
                 {
                     "origLen": 42,
@@ -1334,9 +1389,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ひゃああ！？\r\n大丈夫ですか、大丈夫ですかぁ、オペラオーさぁ～～～ん！",
-            "enText": "Hiyaaaa! Are you okay, are you okay, Ms. Opera O～!",
+            "enText": "",
             "nextBlock": 57,
             "origClipLength": 266,
+            "voiceIdx": 46,
             "pathId": 2830791800748858124,
             "blockIdx": 56
         },
@@ -1344,13 +1400,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ぐす……ぐす……っ！\r\nまさか……あのオペラオーさんが、卒倒しちゃうなんてぇ……。",
-            "enText": "Gusu…… gusu……! No way…… that Opera O is going to have a stroke……",
+            "enText": "",
             "nextBlock": 58,
             "origClipLength": 448,
+            "voiceIdx": 47,
             "choices": [
                 {
                     "jpText": "大事はなかったから、大丈夫だよ",
-                    "enText": "It wasn't a big deal. I'm fine.",
+                    "enText": "",
                     "nextBlock": 58
                 }
             ],
@@ -1371,9 +1428,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "でも……せっかくがんばろうと思って来たのに……\r\nやっぱりなにもできなくて……迷惑ばかりで……ぐす……。",
-            "enText": "But…… I came here to try my best…… but I still couldn't do \nanything…… and it was just a nuisance…… and I was just…… gusu……",
+            "enText": "",
             "nextBlock": 59,
             "origClipLength": 435,
+            "voiceIdx": 48,
             "animData": [
                 {
                     "origLen": 422,
@@ -1391,9 +1449,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "私、私は本当……っ、\r\nダメでドジでグズなウマ娘ですぅ～～～～っ！",
-            "enText": "I, I'm really …… I'm a no good, screwed \nup and stupid horse girl… ～～～～!",
+            "enText": "",
             "nextBlock": 60,
             "origClipLength": 302,
+            "voiceIdx": 49,
             "animData": [
                 {
                     "origLen": 58,
@@ -1411,12 +1470,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "準備の量といい、よっぽど気合いを入れて挑んだのだろう。\r\n泣いて走り去る彼女が心配になり、思わず追いかけた。",
-            "enText": "She must have been very enthusiastic about the challenge, the \namount of preparation. I couldn't help but chase after her as she \nran off crying, worried.",
+            "enText": "",
             "nextBlock": -1,
             "origClipLength": 115,
+            "voiceIdx": -1,
             "pathId": -6165610057140954075,
             "blockIdx": 60
         }
     ],
-    "modified": 1657211844
+    "modified": 1678128796
 }

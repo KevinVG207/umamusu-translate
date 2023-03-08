@@ -1,5 +1,5 @@
 {
-    "version": 5,
+    "version": 6,
     "bundle": "ZHXOU3P5ASKILCFXO646YL6VBI5DL4HC",
     "type": "story",
     "storyId": "041058005",
@@ -9,13 +9,14 @@
             "jpName": "",
             "enName": "",
             "jpText": "今日はメイショウドトウとトレーニングの日、\r\nなのだが……。",
-            "enText": "Today is a day of training with Mae Shoudou. ……",
+            "enText": "",
             "nextBlock": 2,
             "origClipLength": 84,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "（全然来ない……）",
-                    "enText": "(Not coming at all: ……)",
+                    "enText": "",
                     "nextBlock": 2
                 }
             ],
@@ -26,9 +27,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女はトレーニングをサボるタイプではない。\r\nなのでトラブルが起きた可能性を考え、探しに行くことにした。",
-            "enText": "She is not the type to skip training. So I decided to go looking \nfor her, considering the possibility of trouble.",
+            "enText": "",
             "nextBlock": 3,
             "origClipLength": 112,
+            "voiceIdx": -1,
             "pathId": 3277119359453989716,
             "blockIdx": 2
         },
@@ -36,9 +38,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "学園内を探し回り、数十分後――花壇の前で震える、\r\n茶色い後ろ姿を見つけた。",
-            "enText": "After a few dozen minutes of searching around the campus, I found \na brown back shivering in front of a flower bed.",
+            "enText": "",
             "nextBlock": 4,
             "origClipLength": 94,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 39,
@@ -64,13 +67,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あううぅうぅぅぅ～……うぅぅぅうぅぅう～……。\r\nぺったんぺったんぺったん……。",
-            "enText": "Petty Petty Petty Petty ……",
+            "enText": "",
             "nextBlock": 5,
             "origClipLength": 415,
+            "voiceIdx": 0,
             "choices": [
                 {
                     "jpText": "……ドトウ？",
-                    "enText": "…… doto?",
+                    "enText": "",
                     "nextBlock": 5
                 }
             ],
@@ -99,18 +103,19 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "うひゃぁっ！？\r\nあ、ト、トレーナーさん……！？",
-            "enText": "Whoooaaa! Oh, to, trainer ……!",
+            "enText": "",
             "nextBlock": 6,
             "origClipLength": 162,
+            "voiceIdx": 1,
             "choices": [
                 {
                     "jpText": "その格好、どうしたんだ！？",
-                    "enText": "What's wrong with your outfit!",
+                    "enText": "",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "その格好、どうしたの！？",
-                    "enText": "What's wrong with your outfit!",
+                    "enText": "",
                     "nextBlock": 6
                 }
             ],
@@ -143,13 +148,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あっ！　その、ええと……！　これには\r\nよんどころない……わけでもない事情があるといいますか――",
-            "enText": "Ah! I mean, uh, ……! There's a not-so-subtle…… circumstance that―",
+            "enText": "",
             "nextBlock": 7,
             "origClipLength": 355,
+            "voiceIdx": 2,
             "choices": [
                 {
                     "jpText": "とにかく着替えよう！",
-                    "enText": "Anyway, let's get dressed!",
+                    "enText": "",
                     "nextBlock": 7
                 }
             ],
@@ -170,9 +176,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はっ、はいぃ～……！",
-            "enText": "Ha, yes～ ……!",
+            "enText": "",
             "nextBlock": 8,
             "origClipLength": 70,
+            "voiceIdx": 3,
             "animData": [
                 {
                     "origLen": 50,
@@ -190,9 +197,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "泥だらけのジャージを洗い、干すのも手伝った後、\r\n改めて何があったのかメイショウドトウに尋ねた。",
-            "enText": "After washing her muddy jersey and helping her dry it, she asked \nMeishoudou again what had happened.",
+            "enText": "",
             "nextBlock": 9,
             "origClipLength": 107,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 25,
@@ -218,9 +226,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "――その、トレーニングの前に自主練しようと思って……\r\n軽くランニングしていたんです。",
-            "enText": "I was ― well, I was running…… lightly, trying to work out on my \nown before training.",
+            "enText": "",
             "nextBlock": 10,
             "origClipLength": 311,
+            "voiceIdx": 4,
             "animData": [
                 {
                     "origLen": 323,
@@ -238,13 +247,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "そしたら花壇のところで、滑って転んでしまい……\r\n運の悪いことに、突っ込んだ先がぐちゃぐちゃの土でして……。",
-            "enText": "Then, at a flower bed, I slipped and fell.…… Unfortunately, the \nplace I plunged into was a mess of dirt. ……",
+            "enText": "",
             "nextBlock": 11,
             "origClipLength": 369,
+            "voiceIdx": 5,
             "choices": [
                 {
                     "jpText": "それで泥だらけになったと……",
-                    "enText": "So she said she was covered in mud. ……",
+                    "enText": "",
                     "nextBlock": 11
                 }
             ],
@@ -265,9 +275,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "はいぃ～……。あ、で、でも不幸中の幸いで、\r\nお花や植物はなかったんです！",
-            "enText": "Yes～…… Ah, but, fortunately for us, \nthere were no flowers or plants!",
+            "enText": "",
             "nextBlock": 12,
             "origClipLength": 286,
+            "voiceIdx": 6,
             "animData": [
                 {
                     "origLen": 198,
@@ -285,13 +296,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "だから私の形にえぐれてしまったところを、こう、\r\nぺったんぺったんとならしていた……のでした……。",
-            "enText": "So I had to flatten my gouges into this…… shape.",
+            "enText": "",
             "nextBlock": 13,
             "origClipLength": 361,
+            "voiceIdx": 7,
             "choices": [
                 {
                     "jpText": "遅刻の理由はわかった",
-                    "enText": "I know why you're late.",
+                    "enText": "",
                     "nextBlock": 13
                 }
             ],
@@ -312,9 +324,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あうぅ！　ご、ごめんなさい……。\r\nお、怒ってます……よね？",
-            "enText": "Agh! Oh, I'm sorry.…… Oh, I'm angry. …… right?",
+            "enText": "",
             "nextBlock": 14,
             "origClipLength": 273,
+            "voiceIdx": 8,
             "animData": [
                 {
                     "origLen": 172,
@@ -332,13 +345,14 @@
             "jpName": "",
             "enName": "",
             "jpText": "遅刻自体には理由があるので仕方がない。\r\nそれよりも気になったのは――",
-            "enText": "The tardiness itself is not an issue, as there is a reason for \nit. What bothered me more was―",
+            "enText": "",
             "nextBlock": 15,
             "origClipLength": 90,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "自主練なら声をかけてほしかった",
-                    "enText": "If it was an independent practice, I wanted her to call out to me.",
+                    "enText": "",
                     "nextBlock": 15
                 }
             ],
@@ -359,13 +373,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "えっ……？　いや、でも……\r\nそれだと自主練になりませんし……。",
-            "enText": "What, ……? No, but…… That wouldn't be self-discipline and ……",
+            "enText": "",
             "nextBlock": 16,
             "origClipLength": 195,
+            "voiceIdx": 9,
             "choices": [
                 {
                     "jpText": "でもアドバイスができる",
-                    "enText": "But I can give you some advice.",
+                    "enText": "",
                     "nextBlock": 16
                 }
             ],
@@ -386,13 +401,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "でも私が勝手にやってることですし……。\r\nそもそもトレーナーさんにこれ以上迷惑をかけるなんて――",
-            "enText": "But I'm doing this on my own and…… I can't believe \nI'm inconveniencing my trainer any more than \nI already have to― in the first place.",
+            "enText": "",
             "nextBlock": 17,
             "origClipLength": 322,
+            "voiceIdx": 10,
             "choices": [
                 {
                     "jpText": "迷惑？",
-                    "enText": "Annoying?",
+                    "enText": "",
                     "nextBlock": 17
                 }
             ],
@@ -413,9 +429,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "だ、だって……私、今日みたいにドジして遅刻したり、\r\nトレーニングを中断させちゃうことも、多いじゃないですか。",
-            "enText": "Because…… I often make mistakes like I did today and am late or \ninterrupt my training.",
+            "enText": "",
             "nextBlock": 18,
             "origClipLength": 349,
+            "voiceIdx": 11,
             "animData": [
                 {
                     "origLen": 242,
@@ -433,9 +450,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "この間も、トレーニング記録をまとめようとして全消去したり、\r\nコースを軽く整備しようとしてローラーに巻き込んじゃったり……。",
-            "enText": "During this time, I also erased all of my training records when I \ntried to compile them, and wound up on the rollers when I tried \nto lightly maintain the course. ……",
+            "enText": "",
             "nextBlock": 19,
             "origClipLength": 354,
+            "voiceIdx": 12,
             "animData": [
                 {
                     "origLen": 144,
@@ -453,13 +471,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "踏み込みミスしては砂をかけ、水をもらおうとしては浴びせ、\r\nタオルに絡まりファスナー爆発ボタン飛び散り引きちぎり――",
-            "enText": "They misstep and get sanded, they try to get water and get \ndoused, they get tangled up in towels and torn apart by zipper \nexplosion button splattering…",
+            "enText": "",
             "nextBlock": 20,
             "origClipLength": 336,
+            "voiceIdx": 13,
             "choices": [
                 {
                     "jpText": "も、もういいよ",
-                    "enText": "Oh, forget it.",
+                    "enText": "",
                     "nextBlock": 20
                 }
             ],
@@ -480,9 +499,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "よくないですよぉ～！！",
-            "enText": "Not good!",
+            "enText": "",
             "nextBlock": 21,
             "origClipLength": 84,
+            "voiceIdx": 14,
             "animData": [
                 {
                     "origLen": 45,
@@ -500,9 +520,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ただでさえ、たくさんたくさん迷惑をかけてるのに……\r\nトレーナーさんの大事な時間を、これ以上もらえませ～ん……！",
-            "enText": "I'm just giving you lots and lots and lots of trouble, but I \ncan't give you any more of my trainer's precious time～……!",
+            "enText": "",
             "nextBlock": 22,
             "origClipLength": 318,
+            "voiceIdx": 15,
             "animData": [
                 {
                     "origLen": 89,
@@ -520,9 +541,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "確かに彼女のドジは異次元だ。しかしだからといって、\r\n必要以上に恐縮する必要はない。何より――",
-            "enText": "Her screw-ups are certainly on another level. But that doesn't \nmean you need to be afraid of her. Above all―",
+            "enText": "",
             "nextBlock": 23,
             "origClipLength": 106,
+            "voiceIdx": -1,
             "animData": [
                 {
                     "origLen": 118,
@@ -540,18 +562,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "担当トレーナーである自分にはいくらでも迷惑をかけていいこと、\r\nむしろ成長のためなら喜んで協力したいことを知ってほしい。",
-            "enText": "I want them to know that they can bother me, \ntheir trainer, as much as they want, and that \nI am more than willing to help them grow.",
+            "enText": "",
             "nextBlock": 24,
             "origClipLength": 123,
+            "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "あのな、ドトウ――",
-                    "enText": "You know, Dotou―",
+                    "enText": "",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "あのね、ドトウ――",
-                    "enText": "You know, Dotou―",
+                    "enText": "",
                     "nextBlock": 24
                 }
             ],
@@ -572,13 +595,14 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あわわわわわ～～！？",
-            "enText": "Awww～!",
+            "enText": "",
             "nextBlock": 25,
             "origClipLength": 73,
+            "voiceIdx": 16,
             "choices": [
                 {
                     "jpText": "！？",
-                    "enText": "!",
+                    "enText": "",
                     "nextBlock": 25
                 }
             ],
@@ -599,9 +623,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ま、ま、窓の外……！\r\n私のジャージが飛んでますぅぅぅ～～！！",
-            "enText": "Well, well, out the window ……! My jersey is flying ah～!",
+            "enText": "",
             "nextBlock": 26,
             "origClipLength": 198,
+            "voiceIdx": 17,
             "animData": [
                 {
                     "origLen": 88,
@@ -619,9 +644,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "ハッ！　もしかして早く乾くように風にあたる面積を\r\n増やしたのが裏目に……！？　お、追いかけなくちゃ～！！",
-            "enText": "Ha! Maybe increasing the area exposed to the wind to dry faster \nbackfired ……! Oh, I'll have to catch up!",
+            "enText": "",
             "nextBlock": 27,
             "origClipLength": 341,
+            "voiceIdx": 18,
             "animData": [
                 {
                     "origLen": 58,
@@ -639,9 +665,10 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "あわっ！？　ご、ごめんなさ――うひゃーっ！？\r\nごめんなさいごめんなさい……！　ま、待って～……！",
-            "enText": "Aaah! I'm sorry, I'm sorry―UHHHHH! I'm \nsorry I'm sorry ……! Wait, wait～……!",
+            "enText": "",
             "nextBlock": 28,
             "origClipLength": 331,
+            "voiceIdx": 19,
             "pathId": 8372375132723400987,
             "blockIdx": 27
         },
@@ -649,9 +676,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "止める間もなく彼女は駆けだし、\r\n早速机に引っ掛かったりしながら出て行ってしまった……。",
-            "enText": "She started running before I had time to stop her, and she left \nas quickly as possible, getting caught on the desk. ……",
+            "enText": "",
             "nextBlock": 29,
             "origClipLength": 102,
+            "voiceIdx": -1,
             "pathId": -219310990486462404,
             "blockIdx": 28
         },
@@ -659,9 +687,10 @@
             "jpName": "",
             "enName": "",
             "jpText": "『迷惑をかけてもいい相手』だと思ってもらうには\r\nどうすればいいのか……答えは出ないまま、彼女を追ったのだった。",
-            "enText": "I followed her with no…… answer as to how to get her to think of \nme as 'someone who can be bothered.'",
+            "enText": "",
             "nextBlock": 30,
             "origClipLength": 118,
+            "voiceIdx": -1,
             "pathId": 7162610380761561629,
             "blockIdx": 29
         },
@@ -669,12 +698,13 @@
             "jpName": "メイショウドトウ",
             "enName": "",
             "jpText": "私のジャージ～～！！\r\n飛んでかないでぇ～～～～っ……へぶっ！！",
-            "enText": "My jersey～! Don't fly away to ～～～～ and ……!",
+            "enText": "",
             "nextBlock": -1,
             "origClipLength": 225,
+            "voiceIdx": 20,
             "pathId": 7350573266823826242,
             "blockIdx": 30
         }
     ],
-    "modified": 1662146478
+    "modified": 1678128799
 }
