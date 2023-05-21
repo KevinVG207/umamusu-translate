@@ -152,6 +152,8 @@
         "[放課後、君が笑った]シンボリルドルフ": "[Your smile after school] Symboli Rudolf",
         "[嗚呼素晴らしき甘味哉]アグネスタキオン": "[Oh, wonderful sweetness] Agnes Tachyon",
         "[甘～い浮き輪を召し上がれ]ヒシアケボノ": "[Have a Sweet Swim Ring] Hishi Akebono",
+        "[ゴルシ印のスペシャリテ]ゴールドシップ": "",
+        "[激マブ！ドライブ♪]マルゼンスキー": "",
         "[日本一のステージを]スペシャルウィーク": "[Japan's Number 1 Stage] Special Week",
         "[輝く景色の、その先に]サイレンススズカ": "[Beyond the Brilliant Scenery] Silence Suzuka",
         "[夢は掲げるものなのだっ！]トウカイテイオー": "[Let Your Dreams Be Known!] Tokai Teio",
@@ -187,6 +189,7 @@
         "[夢はホントに叶うんだ！]ウイニングチケット": "[Dreams Do Come True!] Winning Ticket",
         "[幸せは曲がり角の向こう]ライスシャワー": "[Happiness is Just Around the Corner] Rice Shower",
         "[徹底管理主義]樫本理子": "[Thorough Management] Kashimoto Riko",
+        "[絶対皇帝]シンボリルドルフ": "",
         "[今ぞ盛りのさくら花]サクラチヨノオー": "[Sakura in Full Bloom] Sakura Chiyono O",
         "[花嫁たるもの！！]カワカミプリンセス": "[What Makes a Bride!!] Kawakami Princess",
         "[召しませふぁーすとBite！]ヒシアケボノ": "[Try First with Bite!] Hishi Akebono",
@@ -287,7 +290,11 @@
         "[今は瞳を閉じないで]ナイスネイチャ": "[Don't close your eyes now] Nice Nature",
         "[心、夜風にさらわれて]メジロマックイーン": "[My heart on a night breeze] Mejiro McQueen",
         "[比翼のワルツ]トウカイテイオー": "[A waltz with you] Tokai Teio",
+        "[ミッション『心の栄養補給』]ミホノブルボン": "",
+        "[刻下、桜花爛漫]サクラローレル": "",
+        "[たどり着いた景色]イクノディクタス": "",
         "[Welcome to Umayuru]タニノギムレット": "[Welcome to Umayuru] Tanino Gimlet",
-        "[駆けよ、駆けよ、駆けよ！！]オグリキャップ": "[Run, Dash, Sprint!!] Oguri Cap"
+        "[駆けよ、駆けよ、駆けよ！！]オグリキャップ": "[Run, Dash, Sprint!!] Oguri Cap",
+        "[The frontier]ジャングルポケット": ""
     }
 }

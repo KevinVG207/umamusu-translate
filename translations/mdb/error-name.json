@@ -68,11 +68,20 @@
         "チャレンジレース終了": "Challenge race ended",
         "チケット自動回復": "Ticket auto-recovery",
         "コンティニュー回数リセット": "Retries reset",
+        "チーム編成期間終了": "",
+        "メインステージ終了": "",
+        "メインステージ ランキング集計期間終了": "",
+        "メインステージ ランキング発表期間終了": "",
+        "エクストラステージ 出走登録期間終了": "",
+        "エクストラステージ マッチング期間終了": "",
+        "エクストラステージ ウマいね！受付期間終了": "",
+        "リーグ オブ ヒーローズ終了": "",
         "受付期間終了": "Receival period ended",
         "イベント開催期間外": "Event period ended",
         "開催期間外": "Hosting period ended",
         "リーディングウマ娘期間外": "Leading horsegirl period ended",
         "キャンペーン開催期間外": "Campaign ended",
+        "殿堂入りウマ娘エラー": "",
         "イベントエラー": "Event error"
     }
 }

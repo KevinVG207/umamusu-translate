@@ -44,6 +44,7 @@
         "目指せ！最強チームの限定ミッションで獲得した報酬です。": "Reward from \\n\"Target: Top Team!\" \\nlimited missions.",
         "「ウマさんぽキャンペーン」で獲得した報酬です。": "Reward from the Uma Stroll Campaign",
         "「{0}」で獲得したクリスマスプレゼントです。": "Christmas present from 「{0}」",
+        "リーグ オブ ヒーローズで獲得した報酬です。": "",
         "イベント「{0}」で\\n達成したイベント個人報酬です。": "Individual rewards from the \n\"{0}\" event",
         "イベント「{0}」で\\n達成したイベント全体報酬です。": "Global rewards from the \n\"{0}\" event",
         "イベント「{0}」\\nのライブ楽曲です。": "A Live track from the \n\"{0}\" event",
@@ -92,6 +93,9 @@
         "WINNING LIVE 10 購入特典です。": "WINNING LIVE 10 \\npurchase bonus.",
         "4th EVENT SPECIAL DREAMERS!! Blu-ray 購入特典です。": "4th EVENT SPECIAL DREAMERS!! \\nBlu-ray purchase bonus",
         "WINNING LIVE 11 購入特典です。": "WINNING LIVE 11 \\npurchase bonus.",
-        "アニメ『うまゆる』アルバム 購入特典です。": "Umayuru album purchase bonus."
+        "アニメ『うまゆる』アルバム 購入特典です。": "Umayuru album purchase bonus.",
+        "「ぱか☆アゲ↑ミックス」Vol.1 購入特典です。": "",
+        "WINNING LIVE 12 購入特典です。": "",
+        "アニメ「ROAD TO THE TOP」アルバム 購入特典です。": ""
     }
 }
