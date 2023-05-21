@@ -1,0 +1,627 @@
+{
+    "version": 6,
+    "bundle": "XWVBYHJCEBCHBVVI5O4A7TLQXCC66AF2",
+    "type": "story",
+    "storyId": "041105005",
+    "title": "交信録5・観測困難",
+    "text": [
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "はぁ……ふぅ。",
+            "enText": "",
+            "nextBlock": 2,
+            "origClipLength": 119,
+            "voiceIdx": 0,
+            "choices": [
+                {
+                    "jpText": "またタイムが縮んだな",
+                    "enText": "",
+                    "nextBlock": 2
+                },
+                {
+                    "jpText": "またタイムが縮んだね",
+                    "enText": "",
+                    "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 299,
+                    "pathId": 1058286704857800250
+                },
+                {
+                    "origLen": 161,
+                    "pathId": 8863761123307893587
+                }
+            ],
+            "pathId": -8101371248990544164,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "……これもまた“流動する”ね。",
+            "enText": "",
+            "nextBlock": 3,
+            "origClipLength": 176,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 212,
+                    "pathId": -4905876384803163889
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 2687959291833726258
+                }
+            ],
+            "pathId": 6549403745007586812,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ネオユニヴァースの担当トレーナーになってから\nしばらくが経つ。トレーニングは順調で、問題はないのだが……。",
+            "enText": "",
+            "nextBlock": 4,
+            "origClipLength": 114,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -4607123896755650784
+                }
+            ],
+            "pathId": -1466836323449369503,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "“エクスペディション”……\nネオユニヴァースの“帰還”と、その先……。",
+            "enText": "",
+            "nextBlock": 5,
+            "origClipLength": 227,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 174,
+                    "pathId": 701079948855985509
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -8549385473034361571
+                }
+            ],
+            "pathId": -7317868265696559543,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "『？？？』……“指標”は、まだ……。",
+            "enText": "",
+            "nextBlock": 6,
+            "origClipLength": 203,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 250,
+                    "pathId": 737489041506227130
+                }
+            ],
+            "pathId": -6604254350004412024,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……難解だ。質問すれば答えは返ってくるが、\nそのたびに解読に時間がかかる。",
+            "enText": "",
+            "nextBlock": 7,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 275,
+                    "pathId": 263000931103761360
+                }
+            ],
+            "pathId": 6346580242907465597,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "思えば、出会った時から――",
+            "enText": "",
+            "nextBlock": 8,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 275,
+                    "pathId": -5634805375785717512
+                }
+            ],
+            "pathId": -4018887016344105595,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "…………“交信”。",
+            "enText": "",
+            "nextBlock": 9,
+            "origClipLength": 155,
+            "voiceIdx": 4,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": -3567186934364848412
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8399074709452581393
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -2859564392094742504
+                }
+            ],
+            "pathId": 7776204256676008112,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "ネオユニヴァースと“交信”……してみる？\nそれが……“INTI”なら。",
+            "enText": "",
+            "nextBlock": 10,
+            "origClipLength": 330,
+            "voiceIdx": 5,
+            "animData": [
+                {
+                    "origLen": 359,
+                    "pathId": 8460963718354396159
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 2244148584178016717
+                }
+            ],
+            "pathId": 6026689015395109346,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……とにかく、不思議なウマ娘だった。",
+            "enText": "",
+            "nextBlock": 11,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 337,
+                    "pathId": -852183398061370983
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -1752079635708030026
+                }
+            ],
+            "pathId": 3185133856059834442,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "伝えたいことならば、なんとなく理解できるものの、\n本当の意味では、まだ遠く感じる。",
+            "enText": "",
+            "nextBlock": 12,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 337,
+                    "pathId": -3727437527499254099
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 3474268279340738539
+                }
+            ],
+            "pathId": -8189378313441695308,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "もっとネオユニヴァースのことを知ることができたら\nいいのだが……。",
+            "enText": "",
+            "nextBlock": 13,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 337,
+                    "pathId": 9088815130514258454
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -332541415020958817
+                }
+            ],
+            "pathId": -4087568126510184031,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "…………。",
+            "enText": "",
+            "nextBlock": 14,
+            "origClipLength": 79,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8022648541003064921
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -7370281087052383147
+                }
+            ],
+            "pathId": -6616125314519420334,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "……“観測”できない。",
+            "enText": "",
+            "nextBlock": 15,
+            "origClipLength": 179,
+            "voiceIdx": 7,
+            "choices": [
+                {
+                    "jpText": "え？",
+                    "enText": "",
+                    "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 214,
+                    "pathId": 1039680612864431622
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -4437658056441746278
+                }
+            ],
+            "pathId": -2902797803193095669,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "あなたは“養成者”……トレーナーと呼ばれる存在。\nネオユニヴァースを“軌道に乗せる”ため導く『ヒト』。",
+            "enText": "",
+            "nextBlock": 16,
+            "origClipLength": 400,
+            "voiceIdx": 8,
+            "animData": [
+                {
+                    "origLen": 319,
+                    "pathId": -3801694540996369253
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 8231596349631731367
+                }
+            ],
+            "pathId": -2806660039034034003,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "……あってる？",
+            "enText": "",
+            "nextBlock": 17,
+            "origClipLength": 63,
+            "voiceIdx": 9,
+            "choices": [
+                {
+                    "jpText": "あってます……",
+                    "enText": "",
+                    "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 543,
+                    "pathId": -1116478682412773666
+                }
+            ],
+            "pathId": 7683564212670316831,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "こちらに問いかけるというよりは、自問自答のような呟きだったが、\nじっと見つめてくる瞳に、しっかりと答えておく。",
+            "enText": "",
+            "nextBlock": 18,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": 3936031598738772047
+                }
+            ],
+            "pathId": -6918406481031284006,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "なのに“観測”できない。\n“ダークマター”……『正体不明』さだまらない。",
+            "enText": "",
+            "nextBlock": 19,
+            "origClipLength": 358,
+            "voiceIdx": 10,
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": 3323052037761043545
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -8738776892960945551
+                }
+            ],
+            "pathId": 1737774555890008576,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……これは、こちらのことがよくわからないと\n言っているのだろうか？",
+            "enText": "",
+            "nextBlock": 20,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": 79282539456652400
+                }
+            ],
+            "pathId": -5939609945914691247,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "首を傾げ考えていると、\n同調したようにネオユニヴァースも首を傾げる。",
+            "enText": "",
+            "nextBlock": 21,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": -2298420234253994513
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 2719277170330802631
+                }
+            ],
+            "pathId": 4496126028671349438,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "だが、言われてみれば……だ。",
+            "enText": "",
+            "nextBlock": 22,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6715946747467444471
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6250601227738335605
+                }
+            ],
+            "pathId": -8473142376498904646,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "ネオユニヴァースのことを知ろうとはしていたが、\n自分のことを知ってもらおうとはしていなかった。",
+            "enText": "",
+            "nextBlock": 23,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "pathId": -7348127768215555718,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "…………。",
+            "enText": "",
+            "nextBlock": 24,
+            "origClipLength": 73,
+            "voiceIdx": 11,
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": 8809318122381945307
+                }
+            ],
+            "pathId": -5422444297409082386,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "何かを探るように、まっすぐに見つめてくるネオユニヴァース。\nその視線を受け止めて理解し合えるようにと伝える。",
+            "enText": "",
+            "nextBlock": 25,
+            "origClipLength": 115,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "どんなことでもいいから――",
+                    "enText": "",
+                    "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": 7309986436730101773
+                }
+            ],
+            "pathId": 2983006134875010993,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "伝えてほしい。トレーニングの悩み、それ以外だっていい。\n他愛のない話だって、話したいと思うことがあれば言ってほしい。",
+            "enText": "",
+            "nextBlock": 26,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": 8982728330797802175
+                }
+            ],
+            "pathId": -9109112476148878514,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "こちらからも、望んでくれるならいくらでも質問には答える。\n相互理解ができるよう、たくさん話そう、と。",
+            "enText": "",
+            "nextBlock": 27,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 469,
+                    "pathId": -144311164692963103
+                }
+            ],
+            "pathId": -5022534031772167562,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "……『相互理解』。\n今よりもっと“対話”する？",
+            "enText": "",
+            "nextBlock": 28,
+            "origClipLength": 303,
+            "voiceIdx": 12,
+            "choices": [
+                {
+                    "jpText": "ああ、もっとしよう",
+                    "enText": "",
+                    "nextBlock": 28
+                },
+                {
+                    "jpText": "うん、もっとしよう",
+                    "enText": "",
+                    "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5683709478503549830
+                }
+            ],
+            "pathId": -8641043233148179560,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "…………。\nトレーナーは“求める”をしたい。",
+            "enText": "",
+            "nextBlock": 29,
+            "origClipLength": 227,
+            "voiceIdx": 13,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -8941093701849584774
+                }
+            ],
+            "pathId": -7990372857757089021,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ネオユニヴァース",
+            "enName": "",
+            "jpText": "それは……アファーマティブ。\n……『よろしく』をするね。",
+            "enText": "",
+            "nextBlock": 30,
+            "origClipLength": 169,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8790824762130853317
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2472564631297419492
+                }
+            ],
+            "pathId": 8286038252359982297,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "どこか照れくさそうに見えるのは……気のせいだろうか？\nネオユニヴァースを今よりも理解できたら、わかるのかもしれない。",
+            "enText": "",
+            "nextBlock": -1,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 212,
+                    "pathId": -77340112490694523
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -4326909796008461121
+                }
+            ],
+            "pathId": 5038193219308165897,
+            "blockIdx": 30
+        }
+    ],
+    "modified": 1684607402
+}
