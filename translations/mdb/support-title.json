@@ -216,7 +216,10 @@
         "[All'alba vincerò!]": "",
         "[Chill chill night*]": "",
         "[ラッキーの神様は早起き！]": "[The Gods of Luck Rise Early!]",
-        "[ラッキーの神様は早起き]": "[The Gods of Luck Rise Early]"
+        "[ラッキーの神様は早起き]": "[The Gods of Luck Rise Early]",
+        "[優しい月]": "[Gentle Moon]",
+        "[カモメのように]": "[Like a Seagull]",
+        "[#夏 #新しい自分]": "[#Summer #NewMe]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
