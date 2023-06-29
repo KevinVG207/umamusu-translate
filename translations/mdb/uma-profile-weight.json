@@ -34,11 +34,11 @@
         "微減（生活ちょっとキツい）": "Slight decrease (Tight on money)",
         "ノーコメント": "No comment",
         "微増（でも気にしない）": "Slight increase (But doesn't care)",
-        "マーベラス！": "",
+        "マーベラス！": "Marvelous!",
         "本日は「凶」なので微減": "Today's fortune was \"Bad\", so slight decrease",
         "一部微増": "Some slight increase",
         "完璧": "Perfect",
-        "微増（食べすぎちゃった）": "Slight increase (overate)",
+        "微増（食べすぎちゃった）": "Slight increase (Ate too much)",
         "微減 ": "Slight decrease",
         "ウェーイ！": "WEEEII!",
         "増減なしですよ？": "It doesn't change though?",
@@ -49,12 +49,12 @@
         "文句なし": "No issue",
         "軽やか": "Light",
         "圧巻": "Incredible",
-        "パーフェクト": "",
+        "パーフェクト": "Perfect",
         "華麗なる推移": "Graceful Change",
-        "にんじん〇本分": "Equal to 〇 carrots",
+        "にんじん〇本分": "Equal to _ carrots",
         "秘密☆": "Secret☆",
         "不安定": "Unstable",
-        "宇宙の神秘": "",
-        "普通": ""
+        "宇宙の神秘": "The cosmos' secret",
+        "普通": "Normal"
     }
 }
