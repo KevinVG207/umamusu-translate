@@ -45,6 +45,11 @@
         "<color=#2E85E6>【実力不足】</color>ですが\\nひとつでも上を目指して頑張ってほしいですね。": "Her <color=#2E85E6>[ability is lacking]</color>.\\nI hope you'll try your best to reach even one step higher.",
         "<color=#2E85E6>【実力不足】</color>ですが素質はあるので\\nもう少し力をつけてから挑む手もありますよ？": "Her <color=#2E85E6>[ability is lacking]</color> but the potential is there.\\nYou could try after she's gained a little more strength, you know?",
         "<color=#2E85E6>【実力不足】</color>なので、厳しい展開が予想されます。\\n時期尚早かもしれません。": "Her <color=#2E85E6>[ability is lacking]</color> so a tough development is expected. It may be premature.",
-        "<color=#2E85E6>【実力不足】</color>なので、厳しいレースになるでしょう。\\n今出走するのは無謀に近いかもしれません。": "Her <color=#2E85E6>[ability is lacking]</color>, so it will be a tough race. Participating is reckless."
+        "<color=#2E85E6>【実力不足】</color>なので、厳しいレースになるでしょう。\\n今出走するのは無謀に近いかもしれません。": "Her <color=#2E85E6>[ability is lacking]</color>, so it will be a tough race. Participating is reckless.",
+        "<color=#FF4400>【海外レースに適性がない】</color>ので\\n実力を100%出せないかもしれません。": "",
+        "<color=#FF4400>【海外洋芝の適性がない】</color>ので\\n十分に実力を発揮できないかもしれません。": "",
+        "<color=#FF4400>【ロンシャンレース場の適性がない】</color>ので\\n十分に実力を発揮できないかもしれません。": "",
+        "<color=#2E85E6>【克服していない課題がある】</color>ので\\n厳しい展開が予想されます。": "",
+        "<color=#2E85E6>【多くの課題がある】</color>ので\\n時期尚早かもしれません。": ""
     }
 }

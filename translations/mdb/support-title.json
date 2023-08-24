@@ -6,6 +6,7 @@
         "[トレセン学園]": "[Tracen Academy]",
         "[笹針師]": "[Acupuncturist]",
         "[イベントプロデューサー]": "[Event Producer]",
+        "[URA職員]": "[URA Staff]",
         "[やれやれ、お帰り]": "[Good Grief, Welcome Back]",
         "[努力は裏切らない！]": "[Effort Does Not Betray!]",
         "[テッペンに立て！]": "[Stand at the Top!]",
@@ -222,7 +223,11 @@
         "[#夏 #新しい自分]": "[#Summer #NewMe]",
         "[ライフロング・ワンダー]": "[Lifelong Wonder]",
         "[君と見る泡沫]": "[The Spume I See With You]",
-        "[トばすぜホットサマー！]": "[Let's Enjoy This Hot Summer!]"
+        "[トばすぜホットサマー！]": "[Let's Enjoy This Hot Summer!]",
+        "[Seaside Bloom]": "",
+        "[L'aubeは迫りて]": "[L'aube Approaches]",
+        "[大望は飛んでいく]": "[Soaring Ambition]",
+        "[Precious☆Moments]": ""
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }

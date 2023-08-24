@@ -15,6 +15,7 @@
         "神社": "Shrine Visit",
         "海": "Sea",
         "温泉": "Hot Springs",
+        "パリ観光": "Paris Sightseeing",
         "芝": "Turf",
         "ランニングマシン": "Running Machine",
         "フィットネスバイク": "Fitness Bike",
@@ -45,6 +46,11 @@
         "遠泳": "Long-distance Swimming",
         "筋トレ": "Exercise",
         "浜辺タイヤ引き": "Beach Tire Pull",
-        "早押しクイズ": "Quiz"
+        "早押しクイズ": "Quiz",
+        "パラシュートラン": "Parachute Running",
+        "オペラ式呼吸法": "Opera Breath Control",
+        "サバット": "Savate",
+        "パドルボード": "Paddle Boarding",
+        "フランス語勉強": "French Practice"
     }
 }

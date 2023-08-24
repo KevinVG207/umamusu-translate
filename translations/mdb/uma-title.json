@@ -7,6 +7,7 @@
         "[ほっぴん♪ビタミンハート]": "[Hopping​♪​Vitamin Heart]",
         "[日之本一の総大将]": "[No. 1 Supreme Commander Under the Sun]",
         "[サイレントイノセンス]": "[Silent Innocence]",
+        "[波間のエメラルド]": "[Emerald Among The Waves]",
         "[トップ・オブ・ジョイフル]": "[Top of Joyful]",
         "[ビヨンド・ザ・ホライズン]": "[Beyond the Horizon]",
         "[フォーミュラオブルージュ]": "[Formula of Rouge]",
@@ -64,6 +65,7 @@
         "[オールタイム・フィーバー]": "[All-time Fever]",
         "[MELTY GIFT]": "",
         "[tach-nology]": "[tach-​nology]",
+        "[Lunatic Lab]": "",
         "[Starry Nocturne]": "",
         "[稲荷所縁江戸紫]": "[Royal Fox Purple]",
         "[夢ノ金原]": "[Golden Fields]",
@@ -127,6 +129,7 @@
         "[四白流星の襲]": "[Attack of the Four White Meteors]",
         "[ブリュニサージュ・ライン]": "[Brunissage Line]",
         "[Saisir le rêve]": "",
+        "[The Proud Road]": "",
         "[Fluttertail Spirit]": "",
         "[Onyx Soldier]": "",
         "[身に纏うケラヴノス]": "[Embodiment of Keravnos]",
@@ -137,8 +140,7 @@
         "[Butterfly Sting]": "",
         "[登竜之頂]": "[Dragon Rising to the Top]",
         "[Universe-Naut]": "",
-        "[みらくるめーくあっぷ！]": "[Miracle Make-up!]",
-        "[波間のエメラルド]": "[Emerald Among The Waves]"
+        "[みらくるめーくあっぷ！]": "[Miracle Make-up!]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
