@@ -71,6 +71,7 @@
         "[夕立の向こうからのぞく]": "[Peeking Through the Evening Shower]",
         "[ラッキーの神様は早起き]": "[The Gods of Luck Rise Early]",
         "[よい茶の飲み置き]": "[Good Tea leaves an Aftertaste]",
+        "[お助け大将と小さな魔女]": "[The Helping Captain and the Little Witch]",
         "[日本一のステージを]": "[Japan's Number 1 Stage]",
         "[輝く景色の、その先に]": "[Beyond the Brilliant Scenery]",
         "[夢は掲げるものなのだっ！]": "[Let Your Dreams Be Known!]",
@@ -227,7 +228,8 @@
         "[Seaside Bloom]": "",
         "[L'aubeは迫りて]": "[L'aube Approaches]",
         "[大望は飛んでいく]": "[Soaring Ambition]",
-        "[Precious☆Moments]": ""
+        "[Precious☆Moments]": "",
+        "[鉄火場に咲く菫]": "[Blooming Violet of the Gambling Den]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
