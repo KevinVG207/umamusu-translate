@@ -233,7 +233,9 @@
         "[炎々、闘志を抱き]": "[Embracing the Fiery Fighting Spirit]",
         "[あまえんぼNight]": "[A Spoiled Kid's Night]",
         "[フォルトゥーナの喝采]": "[Fortuna's Applause]",
-        "[高らかにYO-HO!]": "[A Sonorous YO-HO!]"
+        "[高らかにYO-HO!]": "[A Sonorous YO-HO!]",
+        "[波をかきわけ夢がゆく]": "[Dreams Cut Through the Waves]",
+        "[とびっきりの金メダル]": "[Unequalled Gold Medal]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
