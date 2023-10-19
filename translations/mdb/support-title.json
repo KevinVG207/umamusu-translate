@@ -72,6 +72,8 @@
         "[ラッキーの神様は早起き]": "[The Gods of Luck Rise Early]",
         "[よい茶の飲み置き]": "[Good Tea leaves an Aftertaste]",
         "[お助け大将と小さな魔女]": "[The Helpful Captain and the Little Witch]",
+        "[あまえんぼNight]": "[A Spoiled Kid's Night]",
+        "[とびっきりの金メダル]": "[Unequalled Gold Medal]",
         "[日本一のステージを]": "[Japan's Number 1 Stage]",
         "[輝く景色の、その先に]": "[Beyond the Brilliant Scenery]",
         "[夢は掲げるものなのだっ！]": "[Let Your Dreams Be Known!]",
@@ -231,11 +233,10 @@
         "[Precious☆Moments]": "",
         "[鉄火場に咲く菫]": "[Blooming Violet of the Gambling Den]",
         "[炎々、闘志を抱き]": "[Embracing the Fiery Fighting Spirit]",
-        "[あまえんぼNight]": "[A Spoiled Kid's Night]",
         "[フォルトゥーナの喝采]": "[Fortuna's Applause]",
         "[高らかにYO-HO!]": "[A Sonorous YO-HO!]",
-        "[波をかきわけ夢がゆく]": "[Dreams Cut Through the Waves]",
-        "[とびっきりの金メダル]": "[Unequalled Gold Medal]"
+        "[Hello my clover]": "",
+        "[波をかきわけ夢がゆく]": "[Dreams Cut Through the Waves]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }

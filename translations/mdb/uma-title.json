@@ -73,6 +73,7 @@
         "[Go To Winning!]": "[Go To Winning!]",
         "[Dream Deliverer]": "",
         "[unsigned]": "",
+        "[Belphegor's Prime]": "",
         "[Meisterschaft]": "[Meisterschaft]",
         "[コレクト・ショコラティエ]": "[Collect​・​Chocolatier]",
         "[フィーユ・エクレール]": "[Fille Éclair]",
@@ -120,6 +121,7 @@
         "[爆走！ターボエンジン]": "[Blast Off! Turbo Engine]",
         "[Natural Brilliance]": "",
         "[花形・弥栄之翠]": "[Floral Star​・​Prosperous Green]",
+        "[シュヴァリエ・ブル]": "[Chevalier Bleu]",
         "[錦上・大判御輿]": "[Splendor​・​Grand Mikoshi]",
         "[真打・慶鶴之志]": "[Jubilant Star​・​Auspicious Crane]",
         "[日下開山・花あかり]": "[Hinoshita Kaisan​・​Hana Akari]",
@@ -133,17 +135,18 @@
         "[The Proud Road]": "",
         "[Fluttertail Spirit]": "",
         "[Onyx Soldier]": "",
+        "[Jetblack Automaton]": "",
         "[身に纏うケラヴノス]": "[Embodiment of Keravnos]",
         "[華麗なる紅玉]": "[Brilliant Red Bijou]",
+        "[オニキス・ライン]": "[Onyx Line]",
         "[Flare]": "",
+        "[Prism]": "",
         "[陰陽八卦☆開運衣]": "[Yin & Yang​☆​Fortune Garb]",
         "[スター・ライト・シップ]": "[Star​・​Light・​Ship]",
         "[Butterfly Sting]": "",
         "[登竜之頂]": "[Dragon Rising to the Top]",
         "[Universe-Naut]": "",
-        "[みらくるめーくあっぷ！]": "[Miracle Make-up!]",
-        "[シュヴァリエ・ブル]": "[Chevalier Bleu]",
-        "[オニキス・ライン]": "[Onyx Line]"
+        "[みらくるめーくあっぷ！]": "[Miracle Make-up!]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
