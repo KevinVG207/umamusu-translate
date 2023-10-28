@@ -236,7 +236,10 @@
         "[フォルトゥーナの喝采]": "[Fortuna's Applause]",
         "[高らかにYO-HO!]": "[A Sonorous YO-HO!]",
         "[Hello my clover]": "",
-        "[波をかきわけ夢がゆく]": "[Dreams Cut Through the Waves]"
+        "[波をかきわけ夢がゆく]": "[Dreams Cut Through the Waves]",
+        "[天より遣われし微笑み]": "[A Smile Sent From Heaven]",
+        "[我が舞、巡りて]": "[Whirl, My Dance]",
+        "[ああ、楽しや、楽しや！]": "[Ah, How Fun, How Fun!]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
