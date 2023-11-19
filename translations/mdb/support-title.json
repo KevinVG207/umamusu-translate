@@ -241,7 +241,9 @@
         "[我が舞、巡りて]": "[Whirl, My Dance]",
         "[ああ、楽しや、楽しや！]": "[Ah, How Fun, How Fun!]",
         "[かっとばせー！ですわ！？]": "[Drive it Home! ...I Suppose]",
-        "[あくもー退散！？]": "[Fleeing From Evil?!]"
+        "[あくもー退散！？]": "[Fleeing From Evil?!]",
+        "[大地と我らのアンサンブル]": "[Ensemble of the Earth and Us]",
+        "[長姉は大変？]": "[Is the Older Sister a Big Deal?]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
