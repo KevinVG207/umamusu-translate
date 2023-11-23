@@ -1,0 +1,1115 @@
+{
+    "version": 6,
+    "bundle": "HV4HRKO6OKMPWW7Z7BEN75XZH3MVTSHK",
+    "type": "story",
+    "storyId": "041107007",
+    "title": "Paddle Roll",
+    "text": [
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "夏合宿中のある日。合宿所の管理に携わっている人に、\n釣りたての魚をおすそ分けしてもらった。",
+            "enText": "",
+            "nextBlock": 2,
+            "origClipLength": 103,
+            "voiceIdx": -1,
+            "pathId": -4227476512015289381,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "タップダンスシチーにもおすそ分けを、と考えていると――\n他の生徒と話している彼女の声が聞こえてきた。",
+            "enText": "",
+            "nextBlock": 3,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "pathId": 4240713735902327558,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "なるほど――そいつはぜひともchallengeしないとな！",
+            "enText": "",
+            "nextBlock": 4,
+            "origClipLength": 148,
+            "voiceIdx": 0,
+            "pathId": 2367516112471623762,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "トレーナー！　出航だ！",
+            "enText": "",
+            "nextBlock": 5,
+            "origClipLength": 79,
+            "voiceIdx": 1,
+            "choices": [
+                {
+                    "jpText": "ちょうどよかった。用が――",
+                    "enText": "",
+                    "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 918049681295087250
+                }
+            ],
+            "pathId": -2764146109650653527,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "Sorry,　ちょっと後にしてくれ！\nとにかく、come on now！",
+            "enText": "",
+            "nextBlock": 6,
+            "origClipLength": 138,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -6664792289936453164
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5147520616055264037
+                }
+            ],
+            "pathId": 3949667599537084637,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "さ、まずは見てくれ。\n向こうに、島が見えるだろう？",
+            "enText": "",
+            "nextBlock": 7,
+            "origClipLength": 154,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 7578727479573329831
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3816835842378368486
+                }
+            ],
+            "pathId": 5212851661005250566,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "視線の先を見ると――砂浜からそう遠くない場所に、島があった。\n確か、無人島のはずだが――",
+            "enText": "",
+            "nextBlock": 8,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 1992454142209156901
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -2182751033903602634
+                }
+            ],
+            "pathId": -1069774785501908164,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "今から、あそこに行くぞ！　さっそく冒険の準備だ！",
+            "enText": "",
+            "nextBlock": 9,
+            "origClipLength": 146,
+            "voiceIdx": 4,
+            "choices": [
+                {
+                    "jpText": "え！？な……なぜ？",
+                    "enText": "",
+                    "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 1502841431798395719
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5323381103146413623
+                }
+            ],
+            "pathId": -8509328885203133223,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "あそこにはな……お宝が眠っているのさ！",
+            "enText": "",
+            "nextBlock": 10,
+            "origClipLength": 132,
+            "voiceIdx": 5,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 3846994661907315696
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -5436722749273828703
+                }
+            ],
+            "pathId": -7186044234884566492,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "学園に伝わる伝説さ。ずっと、ずーっと昔の先輩が、\nみんなが寝静まった夜、密かにあの島に渡り、隠したらしい。",
+            "enText": "",
+            "nextBlock": 11,
+            "origClipLength": 351,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -6296260072664051402
+                }
+            ],
+            "pathId": -2735538960172890522,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "金銀財宝？　あるいは願いを叶えるランプ？\n噂はいろいろあるが――いまだ、その宝を見つけたヤツはいない！",
+            "enText": "",
+            "nextBlock": 12,
+            "origClipLength": 309,
+            "voiceIdx": 7,
+            "pathId": 3799302020273285520,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "となれば、答えは1つ！\nアタシたちで見つけてやるしかないだろ！！",
+            "enText": "",
+            "nextBlock": 13,
+            "origClipLength": 198,
+            "voiceIdx": 8,
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -1152070501141214469
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -3232727365210967160
+                }
+            ],
+            "pathId": -5685659911938762302,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "まず必要なものは……船！　船造りだな！\n力を合わせて、coolな船を造ろうぜ！",
+            "enText": "",
+            "nextBlock": 14,
+            "origClipLength": 272,
+            "voiceIdx": 9,
+            "choices": [
+                {
+                    "jpText": "あ……ああ！",
+                    "enText": "",
+                    "nextBlock": 14
+                },
+                {
+                    "jpText": "う……うん！",
+                    "enText": "",
+                    "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 8385155684536541078
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -7027654335415915916
+                }
+            ],
+            "pathId": -960173144010038762,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "というわけで、島に行くための船――\nもとい筏を自作することになった。",
+            "enText": "",
+            "nextBlock": 15,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -8254836545568711966
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -1012235407346837360
+                }
+            ],
+            "pathId": -5295002004645246520,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "……といっても、まさか勝手にその辺の木を\n切り倒して使うわけにもいかない。どうしたものか――",
+            "enText": "",
+            "nextBlock": 16,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -5099873389168540671
+                }
+            ],
+            "pathId": 2514777381300425683,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "Hmm……コイツは悩みどころだな。トレーナー。",
+            "enText": "",
+            "nextBlock": 17,
+            "origClipLength": 151,
+            "voiceIdx": 10,
+            "choices": [
+                {
+                    "jpText": "ああ。材料が――",
+                    "enText": "",
+                    "nextBlock": 17
+                },
+                {
+                    "jpText": "うん。材料が――",
+                    "enText": "",
+                    "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -7309718793674718394
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5825541358464052416
+                }
+            ],
+            "pathId": 7010875013725139505,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "やはり“ドクロ”がいいか？　“ドラゴン”ってのもアリか？\nいや、変わり種で“ウマ娘”もいいか……？",
+            "enText": "",
+            "nextBlock": 18,
+            "origClipLength": 232,
+            "voiceIdx": 11,
+            "choices": [
+                {
+                    "jpText": "……え？",
+                    "enText": "",
+                    "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -5463813352658982065
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -7065175994833215656
+                }
+            ],
+            "pathId": -3946415706509554706,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "冒険に出かける船だぞ？　だったらまずは何より――\n掲げる旗を決めなきゃあ、始まらないじゃないか！",
+            "enText": "",
+            "nextBlock": 19,
+            "origClipLength": 247,
+            "voiceIdx": 12,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 6126938488459914125
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7508497238360304621
+                }
+            ],
+            "pathId": 3904738289079264471,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "……いろいろと問題が重なり、\n筏作りは早くも暗礁に乗り上げてしまった。",
+            "enText": "",
+            "nextBlock": 20,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -2657098566400391393
+                }
+            ],
+            "pathId": -3513384750984491231,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "Shit!　なんてもどかしいんだ……！\n手の届きそうなところにお宝があるってのに……！",
+            "enText": "",
+            "nextBlock": 21,
+            "origClipLength": 208,
+            "voiceIdx": 13,
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -5365330273438816221
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 767219769263128308
+                }
+            ],
+            "pathId": -6890160259871240669,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "――その時。ふと閃いた！\n1つ、方法があるかもしれない。",
+            "enText": "",
+            "nextBlock": 22,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "……少し、待っていてくれるか？",
+                    "enText": "",
+                    "nextBlock": 22
+                },
+                {
+                    "jpText": "……少し、待っていてくれる？",
+                    "enText": "",
+                    "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -6652931976867352128
+                }
+            ],
+            "pathId": 1886719128286947538,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ん？　ああ……。",
+            "enText": "",
+            "nextBlock": 23,
+            "origClipLength": 55,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -2481086485400644825
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 7872554179574061069
+                }
+            ],
+            "pathId": 1638095551757455935,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……日も暮れちまった。\nトレーナー、いったいどこ行っちまったんだ？",
+            "enText": "",
+            "nextBlock": 24,
+            "origClipLength": 211,
+            "voiceIdx": 15,
+            "choices": [
+                {
+                    "jpText": "――待たせたな",
+                    "enText": "",
+                    "nextBlock": 24
+                },
+                {
+                    "jpText": "――待たせたね",
+                    "enText": "",
+                    "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 2576848182621960871
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 2951976404152113304
+                }
+            ],
+            "pathId": -3880362533926769774,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "トレーナー！？　何してたんだ？\n……それに、その海賊帽は……！？",
+            "enText": "",
+            "nextBlock": 25,
+            "origClipLength": 169,
+            "voiceIdx": 16,
+            "choices": [
+                {
+                    "jpText": "船の準備ができた",
+                    "enText": "",
+                    "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -415511649937996746
+                },
+                {
+                    "origLen": 177,
+                    "pathId": 4577231211820290215
+                }
+            ],
+            "pathId": -3823959685291618298,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "っ！？　なんだって！？",
+            "enText": "",
+            "nextBlock": 26,
+            "origClipLength": 69,
+            "voiceIdx": 17,
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -1500851679109847719
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -8431137646920012915
+                }
+            ],
+            "pathId": -8478745315335381821,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "おお……！　立派なボートじゃないか……！\nそれに、ドクロの旗も……！",
+            "enText": "",
+            "nextBlock": 27,
+            "origClipLength": 188,
+            "voiceIdx": 18,
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -541998120307319175
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 8492570223739784948
+                }
+            ],
+            "pathId": -4856207141960184629,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そう……魚を分けてくれた合宿所関係者の伝手をあたり、\nなんとか用意したボート。そして手製の海賊旗。",
+            "enText": "",
+            "nextBlock": 28,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 4113493048244176306
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2041557615032273926
+                }
+            ],
+            "pathId": 7556839372730412921,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "調子に乗って海賊帽まで自作していたら無駄に時間が\nかかってしまったが――これなら、島まで行ける！",
+            "enText": "",
+            "nextBlock": 29,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "いつでも出航できますぜ……キャプテン",
+                    "enText": "",
+                    "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5485457751572600415
+                }
+            ],
+            "pathId": -4600274080620508019,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……フフッ。ハッハッハッハッハ！！",
+            "enText": "",
+            "nextBlock": 30,
+            "origClipLength": 198,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 9,
+                    "pathId": -8992588212090521103
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -5269067747974341567
+                }
+            ],
+            "pathId": -197921497153112147,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "さすがだトレーナー！\n一緒に船に乗るなら、やっぱアンタみたいなヤツじゃないとな！",
+            "enText": "",
+            "nextBlock": 31,
+            "origClipLength": 229,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -2546233995249028306
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6381997673703615418
+                }
+            ],
+            "pathId": -5162204999640991978,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "船首に立てろ！　アタシたちの旗を！\n――出航だッ！！",
+            "enText": "",
+            "nextBlock": 32,
+            "origClipLength": 194,
+            "voiceIdx": 21,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8903504357065469258
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -5841980978572745531
+                }
+            ],
+            "pathId": -1277087732807552199,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――着いたな。……静かなもんだ。",
+            "enText": "",
+            "nextBlock": 33,
+            "origClipLength": 149,
+            "voiceIdx": 22,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 3228509820539500904
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6218604444192865971
+                }
+            ],
+            "pathId": 1738856130249520298,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "こうして来てみると、夜の無人島はなかなかに不気味だ。\n思わず、気後れしてしまいそうになるが――",
+            "enText": "",
+            "nextBlock": 34,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 2183822154474682820
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -9185979663045265301
+                }
+            ],
+            "pathId": 8856180040382247085,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――響け、ファンファーレ～♪\n届け、ゴールまで～♪",
+            "enText": "",
+            "nextBlock": 35,
+            "origClipLength": 198,
+            "voiceIdx": 23,
+            "choices": [
+                {
+                    "jpText": "！？",
+                    "enText": "",
+                    "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6825045963257500356
+                },
+                {
+                    "origLen": 210,
+                    "pathId": 1061744569413636504
+                }
+            ],
+            "pathId": -3731648769991218751,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ほら、ビビってちゃあ頭の海賊帽が泣くぜ？\n歌でも歌って、陽気に進んでいこうじゃないか！",
+            "enText": "",
+            "nextBlock": 36,
+            "origClipLength": 269,
+            "voiceIdx": 24,
+            "animData": [
+                {
+                    "origLen": 54,
+                    "pathId": 4090715314832969586
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1663120215066926306
+                }
+            ],
+            "pathId": 3644857020757997332,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そして、2人で島を探検した末――",
+            "enText": "",
+            "nextBlock": 37,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": -2754844592147982270
+                }
+            ],
+            "pathId": -6509611015865036304,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――トレーナー！\nこっちに来てくれ！",
+            "enText": "",
+            "nextBlock": 38,
+            "origClipLength": 67,
+            "voiceIdx": 25,
+            "choices": [
+                {
+                    "jpText": "宝が見つかったのか？",
+                    "enText": "",
+                    "nextBlock": 38
+                },
+                {
+                    "jpText": "宝が見つかったの？",
+                    "enText": "",
+                    "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -6316273865708031396
+                }
+            ],
+            "pathId": -5258552175281312722,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……そこの岩を見てくれ。",
+            "enText": "",
+            "nextBlock": 39,
+            "origClipLength": 88,
+            "voiceIdx": 26,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 2297704332315083921
+                }
+            ],
+            "pathId": 5503544002971090585,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "そこにあったのは――身の丈を超える、大きな岩。\n側面に、何か文字が刻まれているようだが――",
+            "enText": "",
+            "nextBlock": 40,
+            "origClipLength": 103,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -3379337229890644776
+                }
+            ],
+            "pathId": -9159185827144258157,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "『ともに、夢を』",
+            "enText": "",
+            "nextBlock": 41,
+            "origClipLength": 55,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 3350635674848796860
+                }
+            ],
+            "pathId": -4966050113385560586,
+            "blockIdx": 40
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "その言葉の下には、ウマ娘と思しき名前の横に、人の名前。\nこれは――",
+            "enText": "",
+            "nextBlock": 42,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "pathId": -5930565277905156070,
+            "blockIdx": 41
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……この名前……どこかで見たような気がするぞ。\nそうだ。確か――",
+            "enText": "",
+            "nextBlock": 43,
+            "origClipLength": 265,
+            "voiceIdx": 27,
+            "animData": [
+                {
+                    "origLen": 305,
+                    "pathId": 8868981019000285528
+                }
+            ],
+            "pathId": 4085415623730028808,
+            "blockIdx": 42
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "……レース史に残る偉大な業績を残したウマ娘。\nそして、そのトレーナーの名前だった。",
+            "enText": "",
+            "nextBlock": 44,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 6766623322418022881
+                }
+            ],
+            "pathId": 5866921702936721426,
+            "blockIdx": 43
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……ハハハッ！　アッハッハッハッハッハッハ！",
+            "enText": "",
+            "nextBlock": 45,
+            "origClipLength": 197,
+            "voiceIdx": 28,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 5366377607913090325
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 4839601307840349206
+                }
+            ],
+            "pathId": 1147196214628028610,
+            "blockIdx": 44
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "やられたぜ！　そういうことか……\nここにあったのは、宝じゃあない！",
+            "enText": "",
+            "nextBlock": 46,
+            "origClipLength": 250,
+            "voiceIdx": 29,
+            "animData": [
+                {
+                    "origLen": 222,
+                    "pathId": -5683908538406362479
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -1144795968148870690
+                }
+            ],
+            "pathId": 4163593325895149468,
+            "blockIdx": 45
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……一緒に、とことん宝を追いかけた――\nそんな素敵なヤツらの、冒険の跡だ。",
+            "enText": "",
+            "nextBlock": 47,
+            "origClipLength": 284,
+            "voiceIdx": 30,
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -7321172654063258756
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 2001768725053209514
+                }
+            ],
+            "pathId": 6744471017832761402,
+            "blockIdx": 46
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "――浜に戻り、先ほどまで探検していた無人島を眺めていると、\nタップダンスシチーが静かに口を開いた。",
+            "enText": "",
+            "nextBlock": 48,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 5390462316944260432
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -8759114316370626658
+                }
+            ],
+            "pathId": 7950730226495128331,
+            "blockIdx": 47
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "不思議だな。行って帰ってきただけのはずなのに――\n胸いっぱいのものを持ち帰った気分だ。",
+            "enText": "",
+            "nextBlock": 49,
+            "origClipLength": 247,
+            "voiceIdx": 31,
+            "animData": [
+                {
+                    "origLen": 259,
+                    "pathId": -8484632311590574089
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -203223582683763653
+                }
+            ],
+            "pathId": -3029452177950456978,
+            "blockIdx": 48
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……いい冒険だった。なぁ？",
+            "enText": "",
+            "nextBlock": 50,
+            "origClipLength": 150,
+            "voiceIdx": 32,
+            "choices": [
+                {
+                    "jpText": "……そうだな",
+                    "enText": "",
+                    "nextBlock": 50
+                },
+                {
+                    "jpText": "……そうだね",
+                    "enText": "",
+                    "nextBlock": 50
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": 122458568844120771
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 758605846987207901
+                }
+            ],
+            "pathId": 6862744263085209902,
+            "blockIdx": 49
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "アタシたちも刻んでやろう。最高の冒険をしたって証。\nレースの歴史に名を刻んで。みんなが暮らせるでっかい城を建てて。",
+            "enText": "",
+            "nextBlock": 51,
+            "origClipLength": 358,
+            "voiceIdx": 33,
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 1331196090434736763
+                },
+                {
+                    "origLen": 203,
+                    "pathId": -8051473351740034632
+                }
+            ],
+            "pathId": -6708909121396834743,
+            "blockIdx": 50
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……行こうぜ、航海士殿。\nどんな大波も乗り越えて、必ずロマンを掴んでみせる。",
+            "enText": "",
+            "nextBlock": 52,
+            "origClipLength": 271,
+            "voiceIdx": 34,
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": -6817509207029069926
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -2714310158621512173
+                }
+            ],
+            "pathId": -5672614140801027683,
+            "blockIdx": 51
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "アタシたちの航路は――どこまでも、どこまでも広がってるんだ！",
+            "enText": "",
+            "nextBlock": -1,
+            "origClipLength": 188,
+            "voiceIdx": 35,
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 458329279416680504
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 7959691390225062894
+                }
+            ],
+            "pathId": 8167481088572162958,
+            "blockIdx": 52
+        }
+    ],
+    "modified": 1700592401,
+    "humanTl": true
+}

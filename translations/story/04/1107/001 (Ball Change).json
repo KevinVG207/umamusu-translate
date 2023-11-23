@@ -1,0 +1,1058 @@
+{
+    "version": 6,
+    "bundle": "X2XP5EBZUCUA2XVVQEI542UB26VHOF4Z",
+    "type": "story",
+    "storyId": "041107001",
+    "title": "Ball Change",
+    "text": [
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "――常に先頭を駆けるロマン。",
+            "enText": "――Breaking away from the pack is an adventure.",
+            "nextBlock": 2,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "pathId": -7002991315254380800,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "風よけなんて使わない。後ろの駆け引きなんて見えなくていい。\n後ろからのプレッシャーを、その一身に引き受けて。",
+            "enText": "Cutting through the air, not wanting to look over your shoulder. \nYet, the immense pressure from behind washes over you.",
+            "nextBlock": 3,
+            "origClipLength": 115,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -2523238111822492682
+                }
+            ],
+            "pathId": -387245507392380659,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "今、脚を緩めれば後続に追いつかれるだろう。\nだがペースを上げてしまえば、今度はスタミナがもたなくなる。",
+            "enText": "Relaxing is not an option, lest those behind will catch up. \nOn the other hand, speeding up drains your stamina.",
+            "nextBlock": 4,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 476820865422144599
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -6447318918899245402
+                }
+            ],
+            "pathId": 4888572441352380067,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "恐怖やリスクがつきまとう……分の悪い賭けだ。\nそれでも一か八かの勝利を求めて。粘って、粘って、粘って――",
+            "enText": "With fear comes risk... A gamble where the odds are against you. \nThe only option for success is going all in! Hang on, now...",
+            "nextBlock": 5,
+            "origClipLength": 112,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 7426991635303650341
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 6807431690948306189
+                }
+            ],
+            "pathId": 7478361943264491323,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "ペースや展開すらも、己がものにする“レースの支配者”。\n――それが“逃げ”という脚質。",
+            "enText": "Controlling the pace and the direction of the race. The ruler \nof the race. That's what it means to use the leader strategy.",
+            "nextBlock": 6,
+            "origClipLength": 101,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -4798762729657380102
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 2119316835315321145
+                }
+            ],
+            "pathId": 8579190699614856674,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "Veteran Trainer A",
+            "jpText": "……――へえ、逃げの特性を踏まえたトレーニング計画書、か。\n君、新米なのに細かいね。展開ごとに二の脚の使い時も計算してる。",
+            "enText": "Hmm? So that's your training plan for leaders? Pretty \ndetailed for a beginner. Even planning out the second leg.",
+            "nextBlock": 7,
+            "origClipLength": 433,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 518031830746609741
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 8892163134387556183
+                }
+            ],
+            "pathId": -4277959918951067625,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "先輩トレーナーB",
+            "enName": "Veteran Trainer B",
+            "jpText": "しかもGⅠも計画の内とは！　やるなぁっ！\nそれにレコード勝ちに、海外えんせ……？",
+            "enText": "You even included some G1s, not bad! And you want to \ntake a record during... An overseas expedition...?",
+            "nextBlock": 8,
+            "origClipLength": 244,
+            "voiceIdx": 1,
+            "choices": [
+                {
+                    "jpText": "はい、海外遠征のプランもあるんです！",
+                    "enText": "Yes, that's part of the plan!",
+                    "nextBlock": 8
+                }
+            ],
+            "pathId": 6837404003632911620,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "Veteran Trainer A",
+            "jpText": "あっはっは！　すごいな～、さすが新米くん。\n望みが薄くとも、やる気と策で立ち向かうか！　さて――",
+            "enText": "Hah ha ha! You're full of surprises eh, newbie? Overcoming \neverything, as long as you have motivation? Come, now.",
+            "nextBlock": 9,
+            "origClipLength": 324,
+            "voiceIdx": 2,
+            "pathId": 7478753821769711767,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "Veteran Trainer A",
+            "jpText": "地に足ついた真面目な話もしよっか。\n大人なんだから。子どもっぽい夢はおいて、現実的に、ね？",
+            "enText": "I think you should get your head out of the clouds. \nYou should act a bit more seriously. You're an adult. \nWhat you're going for is like a child's dream.",
+            "nextBlock": 10,
+            "origClipLength": 269,
+            "voiceIdx": 3,
+            "pathId": -3541844429469887162,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "先輩トレーナーから受けた指導をノートにまとめて\n外に出る。河川敷に寄ると、下校中の小学生たちとすれ違った。",
+            "enText": "After taking notes on what she told me, I headed outside. \nI came across some kids near the river. I guess school ended.",
+            "nextBlock": 11,
+            "origClipLength": 114,
+            "voiceIdx": -1,
+            "pathId": -1362209737282533857,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "ランドセルの少年",
+            "enName": "Boy with a backpack",
+            "jpText": "おれはっ、野球選手になるーーっ！",
+            "enText": "I'm gonna be a pro baseballer!",
+            "nextBlock": 12,
+            "origClipLength": 87,
+            "voiceIdx": 4,
+            "pathId": -6812800515867858027,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "ランドセルの少女",
+            "enName": "Girl with a backpack",
+            "jpText": "わたしはアイドルーっ！\nキラキラでピカピカなアイドルになるのーっ！",
+            "enText": "Well, I'm gonna be a pop idol! \nI want to be sparkling just like them!",
+            "nextBlock": 13,
+            "origClipLength": 167,
+            "voiceIdx": 5,
+            "choices": [
+                {
+                    "jpText": "……“子どもっぽい夢”、か",
+                    "enText": "\"A child's dream...\" eh?",
+                    "nextBlock": 13
+                }
+            ],
+            "pathId": 1376738871083633231,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "ウマ娘の少女",
+            "enName": "Horsegirl",
+            "jpText": "――アタシは、城を建てる！！",
+            "enText": "――And I, I'm gonna build a castle!",
+            "nextBlock": 14,
+            "origClipLength": 147,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 868547789758884220
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 9090222199794107295
+                }
+            ],
+            "pathId": 655106727831991949,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "ウマ娘の少女",
+            "enName": "Horsegirl",
+            "jpText": "……この夢も子どもみたいだと笑うか？",
+            "enText": "You think my childlike dream is to laugh at, too?",
+            "nextBlock": 15,
+            "origClipLength": 119,
+            "voiceIdx": 7,
+            "choices": [
+                {
+                    "jpText": "えっ――",
+                    "enText": "Huh?",
+                    "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 1286747681717126809
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 6652850807671560632
+                }
+            ],
+            "pathId": -3173755601538247262,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "ランドセルの少年",
+            "enName": "",
+            "jpText": "…………ぷっ、あはは～！　おしろ～！？\nムリじゃないの～！？",
+            "enText": "Hahaha! A castle? That's impossible!",
+            "nextBlock": 16,
+            "origClipLength": 184,
+            "voiceIdx": 8,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 7517803774280074905
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -6214892369350244460
+                }
+            ],
+            "pathId": -7228282742673991031,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ウマ娘の少女",
+            "enName": "Umamusume",
+            "jpText": "What?　少年、そりゃないよ！　アタシを誰だと？\n財宝を探す者、タップダンスシチーだぜ！？",
+            "enText": "\"What?\" Look kid, nothing is impossible for me, \nthe great treasure hunter: Tap Dance City!",
+            "nextBlock": 17,
+            "origClipLength": 308,
+            "voiceIdx": 9,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -365316092884206259
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 3187373023220941896
+                }
+            ],
+            "pathId": 6085174437402744013,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "しかもアタシが建てる城はただの城じゃあない！　Giantな城！\n仲間が朝まで踊り明かせるくらいのデカい城だ！",
+            "enText": "You'd better believe I'm not building any old castle! It's \ngonna be gigantic! Big enough for me and my mates \nto dance from night till the sun comes up!",
+            "nextBlock": 18,
+            "origClipLength": 330,
+            "voiceIdx": 10,
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 334836716103525418
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2554597242480213280
+                }
+            ],
+            "pathId": -9171248842219812706,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "毎日飲んで、騒いで、疲れたら眠って！\nいつ帰っても、うるさい歌声が迎えてくれる愛しい場所を作るのさ！",
+            "enText": "Party all night, every night until we collapse! A place \nwhere you'll be greeted by sonorous singing!",
+            "nextBlock": 19,
+            "origClipLength": 321,
+            "voiceIdx": 11,
+            "animData": [
+                {
+                    "origLen": 204,
+                    "pathId": -601659105074283733
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -4458328593632012632
+                }
+            ],
+            "pathId": 20067033788124748,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "そのために金を稼ぐ！　レースで勝って勝って勝ちまくって！\n――アタシの夢に相応しいほどの金を！",
+            "enText": "Of course, I'll need money! I'll race and race and race \nmy butt off and make enough to fulfil my dream!",
+            "nextBlock": 20,
+            "origClipLength": 314,
+            "voiceIdx": 12,
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 6057452530990094500
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5804536492742321706
+                }
+            ],
+            "pathId": 5150228806080687940,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……さあ、本題！　It's your turn now!\nそこの御人、アンタの夢は？",
+            "enText": "Aaand... next! \"It's your turn now!\" \nYou there! What is your dream?",
+            "nextBlock": 21,
+            "origClipLength": 293,
+            "voiceIdx": 13,
+            "choices": [
+                {
+                    "jpText": "へっ……？",
+                    "enText": "Uhh...?",
+                    "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": -8614828643308051324
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8902613156313960060
+                }
+            ],
+            "pathId": 4173796663735302889,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――Huh?　少年たちの夢を笑うからには、\nより壮大な夢を持っているかと思っていたけどな？",
+            "enText": "Huh? For laughing at those kids' dreams, I expected \nyou to have one far greater than them.",
+            "nextBlock": 22,
+            "origClipLength": 258,
+            "voiceIdx": 14,
+            "choices": [
+                {
+                    "jpText": "え？笑ってなんて――",
+                    "enText": "I-I wasn't laughing...",
+                    "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 1168135555478731524
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -7216022289059667937
+                }
+            ],
+            "pathId": 394869212506642510,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "おやおや。さっき『……“子どもっぽい夢”、か』なんて、\n気が抜けたように笑ってたじゃないか。",
+            "enText": "Don't think I didn't catch you acting like those \nkids' dreams were like jokes to you.",
+            "nextBlock": 23,
+            "origClipLength": 326,
+            "voiceIdx": 15,
+            "choices": [
+                {
+                    "jpText": "……！いいや、それは……自分のことだよ",
+                    "enText": "L-Look, that was about myself...",
+                    "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7765388209087667130
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 289610887311159658
+                }
+            ],
+            "pathId": -4371162266089627516,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "――体が強張る。\n抱えていたノートを、グッと胸に引き寄せる。",
+            "enText": "――I froze up completely, with my notebook \nclenched to my chest.",
+            "nextBlock": 24,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "……俺の夢が“子どもっぽい”んだ",
+                    "enText": "I have a childish dream...",
+                    "nextBlock": 24
+                },
+                {
+                    "jpText": "……私の夢が“子どもっぽい”んだ",
+                    "enText": "I have a childish dream...",
+                    "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -533039489801732
+                }
+            ],
+            "pathId": -8343112657003405807,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "Veteran Trainer A",
+            "jpText": "指導経験がないからだとは思うけど、レースの世界って、\nオープン入りできれば御の字くらいハードルが高いんだからね？",
+            "enText": "Given your lack of experience, let me tell you a bit about \nthe world of horse racing. Reaching the Open class \nis a lot tougher than you might realize.",
+            "nextBlock": 25,
+            "origClipLength": 246,
+            "voiceIdx": 16,
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -7384581012416937645
+                }
+            ],
+            "pathId": 808163686242795183,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "Veteran Trainer A",
+            "jpText": "GⅠ制覇以外にもレコード勝ちに海外遠征も目標って……\nそれは無茶じゃないかなぁ？",
+            "enText": "Don't you think that your goals are a bit of a stretch? \nNot only mastering the G1 class, but even a record \nand going overseas, too...?",
+            "nextBlock": 26,
+            "origClipLength": 240,
+            "voiceIdx": 17,
+            "pathId": -5483976936070053584,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "非現実的だと、先輩から言われるくらいに大きな夢だ。\n語れば、それこそみんなが笑うだろう。……こんな大人が、と。",
+            "enText": "My seniors tell me my dreams are unrealistic. It's laughable \nfor an adult like me to even say it out loud...",
+            "nextBlock": 27,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 6116206849683145479
+                }
+            ],
+            "pathId": -7682850395884323578,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――……っ、聞かせてくれよ！！\n気になる！　気になる、気になるぞ！！",
+            "enText": "――Tell me anyway! \nI really, really, really wanna know!",
+            "nextBlock": 28,
+            "origClipLength": 206,
+            "voiceIdx": 18,
+            "choices": [
+                {
+                    "jpText": "ええっ！？いや、それはその……",
+                    "enText": "What? No, I couldn't...",
+                    "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -1874460596177761030
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 9002680882058458248
+                }
+            ],
+            "pathId": 6152914121586726973,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "もったいぶるなよ～！\nロマンは分け合うもんだろ～？　それともなんだ？",
+            "enText": "Don't be so shy! An epic tale is something \nto be shared, am I wrong?",
+            "nextBlock": 29,
+            "origClipLength": 200,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 46,
+                    "pathId": -412861938003636796
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1783887978454152332
+                }
+            ],
+            "pathId": -501239174101461852,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "アタシに話すことすらできないくらい\n――情けない夢なのか？",
+            "enText": "You can't even tell <i>me</i>? \n――Is it that pathetic?",
+            "nextBlock": 30,
+            "origClipLength": 154,
+            "voiceIdx": 20,
+            "choices": [
+                {
+                    "jpText": "……そんなことない！！",
+                    "enText": "...Not at all!",
+                    "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": -1451019121158086703
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 6794737522471924621
+                }
+            ],
+            "pathId": 7292112348807620405,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "自分の出した声に、自分で驚く。\nそれと同時に――ふつふつと背中から悔しさがこみ上げてきた。",
+            "enText": "My sudden outburst shocked even myself. Although... \nI'm starting to feel a wave of regret sweep over me.",
+            "nextBlock": 31,
+            "origClipLength": 103,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "（どうしてあの時に言い返せなかったんだ）",
+                    "enText": "(Why didn't I say anything back then...)",
+                    "nextBlock": 31
+                },
+                {
+                    "jpText": "（どうしてあの時に言い返せなかったの）",
+                    "enText": "(Why didn't I say anything back then...)",
+                    "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 5351399070776251068
+                }
+            ],
+            "pathId": -2369795033399347187,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "Veteran Trainer A",
+            "jpText": "レースの世界って、オープン入りできれば\n御の字くらいハードルが高いんだからね？",
+            "enText": "Reaching the Open class is a lot tougher \nthan you might realize.",
+            "nextBlock": 32,
+            "origClipLength": 161,
+            "voiceIdx": 21,
+            "choices": [
+                {
+                    "jpText": "（はい、わかっています）",
+                    "enText": "(I am aware.)",
+                    "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 695777541021261652
+                }
+            ],
+            "pathId": 7184711226145052126,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "Veteran Trainer A",
+            "jpText": "GⅠ制覇以外にもレコード勝ちに海外遠征も目標って……\nそれは無茶じゃないかなぁ？",
+            "enText": "Don't you think that your goals are a bit of a stretch? \nNot only mastering the G1 class, but even a record \nand going overseas, too...?",
+            "nextBlock": 33,
+            "origClipLength": 240,
+            "voiceIdx": 22,
+            "choices": [
+                {
+                    "jpText": "（ええ、それでも目指したいんです）",
+                    "enText": "(Yes, but I still want to try!)",
+                    "nextBlock": 33
+                }
+            ],
+            "pathId": 2511328405382614066,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "振り返れば振り返るほど、情けなくて悔しくなる。\n自分の夢なのに……先輩の前ですら我を通せなかった自分が。",
+            "enText": "The more I think back, the more pathetic and frustrated I feel... \nIt's <i>my</i> dream, and yet... I couldn't say anything to her.",
+            "nextBlock": 34,
+            "origClipLength": 112,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 185,
+                    "pathId": 4151330701083375915
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 5310850587830495470
+                }
+            ],
+            "pathId": -2715480591314477839,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……宝の夢、か。",
+            "enText": "...You treasure that dream of yours?",
+            "nextBlock": 35,
+            "origClipLength": 119,
+            "voiceIdx": 23,
+            "choices": [
+                {
+                    "jpText": "……そうだ、これ以上ないとっておきの夢だ",
+                    "enText": "...Yes. It's something I truly value.",
+                    "nextBlock": 35
+                },
+                {
+                    "jpText": "……そう、これ以上ないとっておきの夢だよ",
+                    "enText": "...Yes. It's something I truly value.",
+                    "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -8620017153064987402
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 8024519939883527215
+                }
+            ],
+            "pathId": -43615496584831937,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "……悔しいを通り越して、もはやヤケだ。\n目を閉じて、肺いっぱいに空気を吸い込む。",
+            "enText": "...My frustration reached its breaking point. \nI close my eyes and take a deep breath.",
+            "nextBlock": 36,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "俺は――世界一のウマ娘を育てたい！！",
+                    "enText": "I want to... train the best horsegirl ever!",
+                    "nextBlock": 36
+                },
+                {
+                    "jpText": "私は――世界一のウマ娘を育てたい！！",
+                    "enText": "I want to... train the best horsegirl ever!",
+                    "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 9173514567374598520
+                }
+            ],
+            "pathId": -5521838655085328849,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――――……へぇ。",
+            "enText": "...Really?",
+            "nextBlock": 37,
+            "origClipLength": 98,
+            "voiceIdx": 24,
+            "choices": [
+                {
+                    "jpText": "……どうだ、俺の夢は？",
+                    "enText": "What do you think?",
+                    "nextBlock": 37
+                },
+                {
+                    "jpText": "……どう、私の夢は？",
+                    "enText": "What do you think?",
+                    "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 5217121344898329503
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -2355981260850686692
+                }
+            ],
+            "pathId": -3059449889723535257,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ハハハッ、そりゃあ――",
+            "enText": "Ha ha ha! Well...",
+            "nextBlock": 38,
+            "origClipLength": 125,
+            "voiceIdx": 25,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -7628858557720552493
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -1728037639364717357
+                }
+            ],
+            "pathId": -6773864182430246787,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "最高だ！！",
+            "enText": "It's wonderful!",
+            "nextBlock": 39,
+            "origClipLength": 53,
+            "voiceIdx": 26,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2284415985274230463
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -9121077046121847210
+                }
+            ],
+            "pathId": 1408748301520622026,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "この日は『選抜レース』。トレーナーたちはコースへ集まり、\nスカウトしたいウマ娘を見つけようと、目を光らせる。その中に――",
+            "enText": "Today is a \"Selection Race.\" Trainers gather at the racecourse \nand look for a horsegirl to be scouted. And there...",
+            "nextBlock": 40,
+            "origClipLength": 123,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": -2623489851317891445
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -2998777956603069400
+                }
+            ],
+            "pathId": 912322148683331300,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "さあ、ショータイムだ！\nアタシ、タップダンスシチーの選抜レースだぞ！",
+            "enText": "It's showtime! \nMy selection race has finally arrived!",
+            "nextBlock": 41,
+            "origClipLength": 175,
+            "voiceIdx": 27,
+            "choices": [
+                {
+                    "jpText": "（……河川敷のあの子だ！！）",
+                    "enText": "(...It's the girl from the riverside!)",
+                    "nextBlock": 41
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 2128475035630964217
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4258129724227950578
+                }
+            ],
+            "pathId": 5601353637936137375,
+            "blockIdx": 40
+        },
+        {
+            "jpName": "エアシャカール",
+            "enName": "Air Shakur",
+            "jpText": "チッ……レース前に体力消耗してどうする。\n中距離走ンだろ。スタミナ持たねェぞ。",
+            "enText": "...Are you sure about using up your energy before the race \neven begins? It's medium-length. You'll need the stamina.",
+            "nextBlock": 42,
+            "origClipLength": 284,
+            "voiceIdx": 28,
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -949281056819259753
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 374148479110316238
+                }
+            ],
+            "pathId": 9150722595576495539,
+            "blockIdx": 41
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "シャカール！　相変わらずクールに……アドバイスをくれる。\nアタシの同期は優しいねぇ！",
+            "enText": "Shakur! Coolheaded and giving advice as always. \nYou're a lovely classmate!",
+            "nextBlock": 43,
+            "origClipLength": 256,
+            "voiceIdx": 29,
+            "animData": [
+                {
+                    "origLen": 338,
+                    "pathId": 1651074450593941536
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -1740391476968696828
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 1350133422460088830
+                }
+            ],
+            "pathId": -8613921869589471087,
+            "blockIdx": 42
+        },
+        {
+            "jpName": "エアシャカール",
+            "enName": "Air Shakur",
+            "jpText": "……ウザ。",
+            "enText": "...Shaddup.",
+            "nextBlock": 44,
+            "origClipLength": 61,
+            "voiceIdx": 30,
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 7461282591300408993
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5303124620114022595
+                }
+            ],
+            "pathId": -1470287656505208625,
+            "blockIdx": 43
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ハハッ、つれないねぇ。――って、ん？",
+            "enText": "Haha! How unfriendly! ...Hmm?",
+            "nextBlock": 45,
+            "origClipLength": 159,
+            "voiceIdx": 31,
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 4162118907262454482
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -7151442491807290192
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -8984455510252151171
+                }
+            ],
+            "pathId": -5252988230779293417,
+            "blockIdx": 44
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "アンタはこの前の！\n『世界一』の夢の持ち主じゃないか！",
+            "enText": "I remember you! \nYou're that \"world's greatest\" guy!",
+            "nextBlock": 46,
+            "origClipLength": 167,
+            "voiceIdx": 32,
+            "choices": [
+                {
+                    "jpText": "君も俺を覚えていてくれたのか",
+                    "enText": "So you remember, too.",
+                    "nextBlock": 46
+                },
+                {
+                    "jpText": "貴方も私を覚えていてくれたんだね",
+                    "enText": "So you remember, too.",
+                    "nextBlock": 46
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -3722940189295575559
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5527997122663539171
+                }
+            ],
+            "pathId": 1435884886067925285,
+            "blockIdx": 45
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "Naturally.　忘れるわけないさ、\nああ――……そうだ！　その目で確認しなよ、アタシの走りを。",
+            "enText": "\"Naturally.\" I would never forget you! \n...Ah! I see, you're here to watch me race with your own eyes!",
+            "nextBlock": 47,
+            "origClipLength": 289,
+            "voiceIdx": 33,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1521629738540295606
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -8018534859026707568
+                }
+            ],
+            "pathId": -6479233098107165565,
+            "blockIdx": 46
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "『世界一のウマ娘』にアタシがなれるか、どうかを。",
+            "enText": "You wanna see if I'm fit to be \"the world's best horsegirl.\"",
+            "nextBlock": 48,
+            "origClipLength": 142,
+            "voiceIdx": 34,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 2209451808819423655
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 6298868311641095057
+                }
+            ],
+            "pathId": 3782541451841996977,
+            "blockIdx": 47
+        },
+        {
+            "jpName": "",
+            "enName": "",
+            "jpText": "――そしてタップダンスシチーの選抜レースが始まった。",
+            "enText": "――And thus began Tap Dance City's selection race.",
+            "nextBlock": -1,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -6028674754390528392
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -2759122384310704437
+                }
+            ],
+            "pathId": 3985163807539309091,
+            "blockIdx": 48
+        }
+    ],
+    "modified": 1700602173,
+    "humanTl": true
+}

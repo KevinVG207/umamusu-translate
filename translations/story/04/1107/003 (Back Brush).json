@@ -1,0 +1,1058 @@
+{
+    "version": 6,
+    "bundle": "WRJRTZ6FN3XOQMYLAV3MYOJ4TJTYMHHS",
+    "type": "story",
+    "storyId": "041107003",
+    "title": "Back Brush",
+    "text": [
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "あっ、川に宝箱！",
+            "enText": "",
+            "nextBlock": 2,
+            "origClipLength": 67,
+            "voiceIdx": 0,
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 2639620752665678079
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -2878227963518252154
+                }
+            ],
+            "pathId": 1469741650887708207,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "お宝ァ！？　――って、ウソじゃないかぁ！！\nトレーニング中なのによ～……ったく！",
+            "enText": "",
+            "nextBlock": 3,
+            "origClipLength": 237,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7145488468697812243
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 275726092259806666
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7758803608909097384
+                }
+            ],
+            "pathId": 5576974579935017937,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "ごめんごめんっ！　ふふ……タップ、最近さらに楽しそう。\nレースに熱中して。……いつかここにも、来なくなるんじゃない？",
+            "enText": "",
+            "nextBlock": 4,
+            "origClipLength": 393,
+            "voiceIdx": 2,
+            "animData": [
+                {
+                    "origLen": 202,
+                    "pathId": -6840815631399864603
+                }
+            ],
+            "pathId": 7016064850016836978,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "そうやってタップも……私たちもさ。\nみんなバラバラになって。たまにLANEするくらいで――",
+            "enText": "",
+            "nextBlock": 5,
+            "origClipLength": 256,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 299,
+                    "pathId": -1084931658183406159
+                }
+            ],
+            "pathId": -8969957902369624865,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ハハハッ、んなことあるか！\nアタシは地球最後の夜までアンタらと騒いでやるぜ？",
+            "enText": "",
+            "nextBlock": 6,
+            "origClipLength": 229,
+            "voiceIdx": 4,
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -992937281928045339
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -2583310593728020917
+                }
+            ],
+            "pathId": -1175355155936837837,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "あっはぁ……大げさ～。\nそんな日が来るって本当に思ってる～？",
+            "enText": "",
+            "nextBlock": 7,
+            "origClipLength": 223,
+            "voiceIdx": 5,
+            "animData": [
+                {
+                    "origLen": 234,
+                    "pathId": -1446689805066587628
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -5170071648508729540
+                }
+            ],
+            "pathId": 9196436756963573849,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "……地球が滅亡してもしなくても、\n私らは学校卒業するのにさー。",
+            "enText": "",
+            "nextBlock": 8,
+            "origClipLength": 268,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 254,
+                    "pathId": -7551084155570841519
+                }
+            ],
+            "pathId": -2426798348425004741,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "タップダンスシチーの作戦を考えながら、\nこれまでに集めた“逃げ”の資料を眺める。",
+            "enText": "",
+            "nextBlock": 9,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "カツラギエースの大逃げ以外には……",
+                    "enText": "",
+                    "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 4161087958885874762
+                }
+            ],
+            "pathId": 5955362801104071631,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "伝説的な逃げといえば、サイレンススズカの『金鯱賞』もだ。\n圧勝劇で更新したレコードは、もう誰も破れないとも言われている。",
+            "enText": "",
+            "nextBlock": 10,
+            "origClipLength": 123,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "……それすら超える走りができたら",
+                    "enText": "",
+                    "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 7620302224984189096
+                }
+            ],
+            "pathId": 2065351858649408919,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "そしてアタシならコイツらを実現できる！ ……試してみるか？",
+            "enText": "",
+            "nextBlock": 11,
+            "origClipLength": 182,
+            "voiceIdx": 7,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -9185711455163634375
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -1369123809330920254
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 73314557202818732
+                }
+            ],
+            "pathId": -7176429057196150839,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "……頭を振る。タップダンスシチーの言葉を都合よく捉えすぎだ。\nまずは集めたデータから、彼女のために作戦を練ろう。",
+            "enText": "",
+            "nextBlock": 12,
+            "origClipLength": 118,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "俺たちの関係は、まだお試しなんだから",
+                    "enText": "",
+                    "nextBlock": 12
+                },
+                {
+                    "jpText": "私たちの関係は、まだお試しなんだから",
+                    "enText": "",
+                    "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -3042037522533024757
+                }
+            ],
+            "pathId": 4057491780972781383,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "Yeah!!　や～～っと、始められるぜ！\nアタシVS.　アンタたちのレースを！",
+            "enText": "",
+            "nextBlock": 13,
+            "origClipLength": 233,
+            "voiceIdx": 8,
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -1374079629545396591
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7938442288466364710
+                }
+            ],
+            "pathId": -1015508528852590082,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "タップの友人たち",
+            "enName": "",
+            "jpText": "いえ～～い！",
+            "enText": "",
+            "nextBlock": 14,
+            "origClipLength": 56,
+            "voiceIdx": 9,
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 9152209539852239653
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3571890626087919128
+                }
+            ],
+            "pathId": 6512493425723282568,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "さあ、それでトレーナー！\nアンタはアタシをどう舵取りする？",
+            "enText": "",
+            "nextBlock": 15,
+            "origClipLength": 167,
+            "voiceIdx": 10,
+            "choices": [
+                {
+                    "jpText": "それは――",
+                    "enText": "",
+                    "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 212,
+                    "pathId": 7602562164503740722
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2146161639850353597
+                }
+            ],
+            "pathId": 1654627745982001122,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "集めたデータでは、この中には積極的に前へ出る娘はいないはず。\n恐らくスローペースの展開になるだろう。",
+            "enText": "",
+            "nextBlock": 16,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "だから休憩……息を入れる隙を与えない",
+                    "enText": "",
+                    "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 212,
+                    "pathId": 4852208329374836586
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 7406965148735938506
+                }
+            ],
+            "pathId": 7792624539686699379,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "へえ……1ハロン12.4秒のペースで走れ、と。\nまた随分と細かい指示だこと。",
+            "enText": "",
+            "nextBlock": 17,
+            "origClipLength": 302,
+            "voiceIdx": 11,
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": -5702727892384624719
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4924444464031386674
+                }
+            ],
+            "pathId": -7139365773494316705,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "しかもスタミナで周りをすりつぶせとは！\nタイムキープできる頭脳と体力……アタシにはあるかな？",
+            "enText": "",
+            "nextBlock": 18,
+            "origClipLength": 266,
+            "voiceIdx": 12,
+            "choices": [
+                {
+                    "jpText": "あると思って、この作戦を提示したんだ",
+                    "enText": "",
+                    "nextBlock": 18
+                },
+                {
+                    "jpText": "あると思って、この作戦を提示したの",
+                    "enText": "",
+                    "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 309,
+                    "pathId": 4777479641351842824
+                },
+                {
+                    "origLen": 237,
+                    "pathId": 5955912331057754030
+                }
+            ],
+            "pathId": 3688665300733807094,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "Great!　アンタのためにふんだんに走って正解だった！\n思う存分、アタシ専用の波に乗ってやるよ！",
+            "enText": "",
+            "nextBlock": 19,
+            "origClipLength": 278,
+            "voiceIdx": 13,
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 8483898759062095196
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8696320191750127834
+                }
+            ],
+            "pathId": -1849441004337657143,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "そしてレースは始まり――",
+            "enText": "",
+            "nextBlock": 20,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -4446635312238856947
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7664307849572922981
+                }
+            ],
+            "pathId": -4328856398124187040,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "サングラスのウマ娘",
+            "enName": "",
+            "jpText": "……ッ、落ちない……っ。\nスピードが……くっ―――",
+            "enText": "",
+            "nextBlock": 21,
+            "origClipLength": 164,
+            "voiceIdx": 14,
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": -6155985977675061492
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -5455199640080774250
+                }
+            ],
+            "pathId": 8289582682235664834,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "指示した内容が実現できるかなんて、“賭け”だった。\nスピードを緩めず、隙を与えず。そんな難しい走りを彼女は――",
+            "enText": "",
+            "nextBlock": 22,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "（本当に実現してしまうのか）",
+                    "enText": "",
+                    "nextBlock": 22
+                },
+                {
+                    "jpText": "（本当に実現してしまうなんて）",
+                    "enText": "",
+                    "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -212826768315989148
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2317146367363871878
+                }
+            ],
+            "pathId": 1443055615219623014,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "はぁっ！！",
+            "enText": "",
+            "nextBlock": 23,
+            "origClipLength": 47,
+            "voiceIdx": 15,
+            "choices": [
+                {
+                    "jpText": "……これが彼女と俺の力が合わさった走り",
+                    "enText": "",
+                    "nextBlock": 23
+                },
+                {
+                    "jpText": "……これが彼女と私の力が合わさった走り",
+                    "enText": "",
+                    "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -6216314784537564342
+                }
+            ],
+            "pathId": -8608722952699725375,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "終いには加速すら重ねる彼女に、思わず夢を見る。\nもし今後も、彼女が自分の計画や作戦を遂行できるなら。",
+            "enText": "",
+            "nextBlock": 24,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -4243312727157218585
+                }
+            ],
+            "pathId": 7003734711935001061,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "きっと過去に見たどんなウマ娘よりも――",
+            "enText": "",
+            "nextBlock": 25,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 2774853539332161616
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5050345625167027602
+                }
+            ],
+            "pathId": -4570550871994177927,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――レースを支配できる、最高の逃げを、\nタップダンスシチーは見せてくれるのではないかと。",
+            "enText": "",
+            "nextBlock": 26,
+            "origClipLength": 132,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "（君なら最強の“支配者”に――）",
+                    "enText": "",
+                    "nextBlock": 26
+                },
+                {
+                    "jpText": "（貴方なら最強の“支配者”に――）",
+                    "enText": "",
+                    "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 29,
+                    "pathId": 7740028060494097711
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -8687728325754229866
+                }
+            ],
+            "pathId": 695429571626230850,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "はあ……はあ……っ。どうだ、トレーナー……？\nアタシは、アンタが思い描く――『世界一のウマ娘』に――",
+            "enText": "",
+            "nextBlock": 27,
+            "origClipLength": 315,
+            "voiceIdx": 16,
+            "choices": [
+                {
+                    "jpText": "ああ。君こそ――",
+                    "enText": "",
+                    "nextBlock": 27
+                },
+                {
+                    "jpText": "うん。貴方こそ――",
+                    "enText": "",
+                    "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -6636815437355833916
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7611005071270751526
+                }
+            ],
+            "pathId": 3034139039627297936,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "タップー、バイバーーイ！\n楽しかったよーっ！",
+            "enText": "",
+            "nextBlock": 28,
+            "origClipLength": 177,
+            "voiceIdx": 17,
+            "choices": [
+                {
+                    "jpText": "あれ？あの子は君の友だちの……",
+                    "enText": "",
+                    "nextBlock": 28
+                },
+                {
+                    "jpText": "あれ？あの子は貴方の友だちの……",
+                    "enText": "",
+                    "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 248,
+                    "pathId": 5036718835366824226
+                },
+                {
+                    "origLen": 171,
+                    "pathId": -4286164409781457362
+                }
+            ],
+            "pathId": 4360839183293445276,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……バイバイって、…………？\nSorry, Trainer!　――……おい、待てよ！",
+            "enText": "",
+            "nextBlock": 29,
+            "origClipLength": 314,
+            "voiceIdx": 18,
+            "choices": [
+                {
+                    "jpText": "……？タップ！？",
+                    "enText": "",
+                    "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -1184348155112434937
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1235604243905796393
+                }
+            ],
+            "pathId": -6667386986288698283,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "えっ！？　タップ？　……と、トレーナーさんまで！？\nなんでここまで来ちゃったの？",
+            "enText": "",
+            "nextBlock": 30,
+            "origClipLength": 192,
+            "voiceIdx": 19,
+            "choices": [
+                {
+                    "jpText": "はあ、はあ……それは――",
+                    "enText": "",
+                    "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 279,
+                    "pathId": 1234314611695022797
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -572204600994963121
+                }
+            ],
+            "pathId": -5737805608042508353,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……オマエが勝手に去ろうとするからだろ。\nなあ……オマエ変だぞ、この前から。妙に――",
+            "enText": "",
+            "nextBlock": 31,
+            "origClipLength": 294,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -1203382983052211136
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7184225410291522818
+                }
+            ],
+            "pathId": -7630845003101171738,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "…………。……だって、ずっと一緒にはいられないもん。\nもうお別れだなって。",
+            "enText": "",
+            "nextBlock": 32,
+            "origClipLength": 333,
+            "voiceIdx": 21,
+            "animData": [
+                {
+                    "origLen": 366,
+                    "pathId": 2320620670954967883
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 5592953344553581127
+                }
+            ],
+            "pathId": 8236187599985781108,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "……私さ。大学の第一志望、C判定だったんだ。\nだからママに頼んで、明日から塾に缶詰めなの。",
+            "enText": "",
+            "nextBlock": 33,
+            "origClipLength": 291,
+            "voiceIdx": 22,
+            "animData": [
+                {
+                    "origLen": 266,
+                    "pathId": 8504167265797990085
+                }
+            ],
+            "pathId": 9023317586212027461,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "…………で？　別に息抜きの時間くらいはあんだろ。\nそれに、受験が終わった後でも――",
+            "enText": "",
+            "nextBlock": 34,
+            "origClipLength": 238,
+            "voiceIdx": 23,
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": 797770989662062722
+                }
+            ],
+            "pathId": 3983574205617595901,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "……タップ。私たちはずっと子どものままじゃいられない。\n現実もちゃんと見なきゃ――大人になれないよ。",
+            "enText": "",
+            "nextBlock": 35,
+            "origClipLength": 386,
+            "voiceIdx": 24,
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5296276113250062230
+                }
+            ],
+            "pathId": -6830810641381430656,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――っ！！",
+            "enText": "",
+            "nextBlock": 36,
+            "origClipLength": 39,
+            "voiceIdx": 25,
+            "choices": [
+                {
+                    "jpText": "（――“現実”）",
+                    "enText": "",
+                    "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 7002682243190837890
+                }
+            ],
+            "pathId": -3135834746647437324,
+            "blockIdx": 35
+        },
+        {
+            "jpName": "先輩トレーナーA",
+            "enName": "",
+            "jpText": "子どもっぽい夢はおいて、現実的に、ね？",
+            "enText": "",
+            "nextBlock": 37,
+            "origClipLength": 132,
+            "voiceIdx": 26,
+            "choices": [
+                {
+                    "jpText": "（……またその言葉だ）",
+                    "enText": "",
+                    "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -655360363834448157
+                }
+            ],
+            "pathId": 2582999921399571240,
+            "blockIdx": 36
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ハハッ、ああそうか……。現実……現実、現実、現実！！\nそうだな！　現実的に考えれば、別れは必然だ！",
+            "enText": "",
+            "nextBlock": 38,
+            "origClipLength": 496,
+            "voiceIdx": 27,
+            "choices": [
+                {
+                    "jpText": "……タップ",
+                    "enText": "",
+                    "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 2197331363696517201
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7557432407860110762
+                }
+            ],
+            "pathId": -2426087513184426483,
+            "blockIdx": 37
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "人は人生の転機を迎える度に、別れを経験する。\n進学や就職、引っ越しや喧嘩……さまざまな理由で。",
+            "enText": "",
+            "nextBlock": 39,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "（それはとても現実的なことで――）",
+                    "enText": "",
+                    "nextBlock": 39
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 2607085562049853773
+                }
+            ],
+            "pathId": 1304622100384779375,
+            "blockIdx": 38
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "フッ……ハッ……アハハハッ！！　ハァ～……。\nわかったわかった、じゃあもっと――……“現実的”に行こうぜ？",
+            "enText": "",
+            "nextBlock": 40,
+            "origClipLength": 518,
+            "voiceIdx": 28,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8596926891892610926
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5859841484450891003
+                }
+            ],
+            "pathId": -924783347917176789,
+            "blockIdx": 39
+        },
+        {
+            "jpName": "ツインテの女子高校生",
+            "enName": "",
+            "jpText": "えっ……？",
+            "enText": "",
+            "nextBlock": 41,
+            "origClipLength": 28,
+            "voiceIdx": 29,
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": 2225722450471358279
+                }
+            ],
+            "pathId": -6686953107684712280,
+            "blockIdx": 40
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "考えてみろよ。これから全員の進路がバラバラでも。\n集まれる手段があれば。場所があれば。時間があれば――……。",
+            "enText": "",
+            "nextBlock": 42,
+            "origClipLength": 292,
+            "voiceIdx": 30,
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -3000944946122934100
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5755175499160494898
+                }
+            ],
+            "pathId": -4140391700401252911,
+            "blockIdx": 41
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "それを解決できる“金という力”があれば、“最後”にならない。\n……違うか？",
+            "enText": "",
+            "nextBlock": 43,
+            "origClipLength": 235,
+            "voiceIdx": 31,
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 3056928536344964701
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4458243642939676168
+                }
+            ],
+            "pathId": -3132729301454716790,
+            "blockIdx": 42
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "なぁに、金のことなら心配するな！\nオマエらとの最高の城を作るためだ！",
+            "enText": "",
+            "nextBlock": 44,
+            "origClipLength": 211,
+            "voiceIdx": 32,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -4136639836199675444
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2404353884417219435
+                }
+            ],
+            "pathId": -1549515825296631983,
+            "blockIdx": 43
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "今なら絶好の船がある。……なあっ、トレーナー！",
+            "enText": "",
+            "nextBlock": 45,
+            "origClipLength": 169,
+            "voiceIdx": 33,
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 131501600906566554
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 73955621911376015
+                }
+            ],
+            "pathId": -8061899644767017782,
+            "blockIdx": 44
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……もう1度問うぞ。\nアタシは――『世界一のウマ娘』になれそうか？",
+            "enText": "",
+            "nextBlock": -1,
+            "origClipLength": 267,
+            "voiceIdx": 34,
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": 8998496025578787354
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 6190244619216511646
+                }
+            ],
+            "pathId": -5790663438045103877,
+            "blockIdx": 45
+        }
+    ],
+    "modified": 1700592390,
+    "humanTl": true
+}

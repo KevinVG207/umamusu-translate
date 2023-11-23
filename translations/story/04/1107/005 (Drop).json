@@ -1,0 +1,747 @@
+{
+    "version": 6,
+    "bundle": "W3PZ6UTODDPUBVE7FUE53MAQBG62ZBE6",
+    "type": "story",
+    "storyId": "041107005",
+    "title": "Drop",
+    "text": [
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "タップダンスシチーとともに夢を追う日々が始まり、\nしばらく経ったある日のこと――",
+            "enText": "",
+            "nextBlock": 2,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "（……おや？ノートが落ちてるな）",
+                    "enText": "",
+                    "nextBlock": 2
+                },
+                {
+                    "jpText": "（……あれ？ノートが落ちてる）",
+                    "enText": "",
+                    "nextBlock": 2
+                }
+            ],
+            "pathId": 6733912724430368278,
+            "blockIdx": 1
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "拾ってみると――様々なイラストや、漫画が描き込まれていた。\nレースを題材にしているようで、かなりのクオリティだが――",
+            "enText": "",
+            "nextBlock": 3,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "pathId": 3210740808205030138,
+            "blockIdx": 2
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――Fantastic!",
+            "enText": "",
+            "nextBlock": 4,
+            "origClipLength": 57,
+            "voiceIdx": 0,
+            "choices": [
+                {
+                    "jpText": "うわぁ！？",
+                    "enText": "",
+                    "nextBlock": 4
+                }
+            ],
+            "pathId": 7252389706935796008,
+            "blockIdx": 3
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ターフと蹄鉄の削りあいが、魂に火をつけるラストスパート！！\n抜け出した2人の競り合い！！　喉が枯れるほどの観客の叫び！！",
+            "enText": "",
+            "nextBlock": 5,
+            "origClipLength": 325,
+            "voiceIdx": 1,
+            "animData": [
+                {
+                    "origLen": 475,
+                    "pathId": -1422414173817258204
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 7575081814998053343
+                }
+            ],
+            "pathId": -8103619820104866252,
+            "blockIdx": 4
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "すごいな！　夢とロマンの塊じゃあないか！\nこれ、トレーナーが描いたのか！？",
+            "enText": "",
+            "nextBlock": 6,
+            "origClipLength": 211,
+            "voiceIdx": 2,
+            "choices": [
+                {
+                    "jpText": "い、いや……たぶん落とし物だ",
+                    "enText": "",
+                    "nextBlock": 6
+                },
+                {
+                    "jpText": "い、いや……たぶん落とし物だよ",
+                    "enText": "",
+                    "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 475,
+                    "pathId": -7954986521615710115
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 1990974171869171351
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 742177500134133434
+                }
+            ],
+            "pathId": 8502138770539822004,
+            "blockIdx": 5
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ってことは……生徒の誰かの作品か！\nへぇ～、学園にこんなのを描けるヤツがいるとはな！",
+            "enText": "",
+            "nextBlock": 7,
+            "origClipLength": 264,
+            "voiceIdx": 3,
+            "animData": [
+                {
+                    "origLen": 475,
+                    "pathId": 6929489122852497964
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7072716232049155531
+                }
+            ],
+            "pathId": 3664948461738095561,
+            "blockIdx": 6
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……会いに行こう、トレーナー！\nコイツを生み出した、まだ見ぬ天才に！",
+            "enText": "",
+            "nextBlock": 8,
+            "origClipLength": 196,
+            "voiceIdx": 4,
+            "choices": [
+                {
+                    "jpText": "ノートの持ち主探しか",
+                    "enText": "",
+                    "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -7007565411700472606
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2849891120951803824
+                }
+            ],
+            "pathId": -6051864335354317213,
+            "blockIdx": 7
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ん～……持ち主探し、じゃあ、いまいちときめかないな。\n少し言い回しを変えてみないか？",
+            "enText": "",
+            "nextBlock": 9,
+            "origClipLength": 268,
+            "voiceIdx": 5,
+            "animData": [
+                {
+                    "origLen": 357,
+                    "pathId": 866948626395230804
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4716421621709984316
+                }
+            ],
+            "pathId": 588947874280647533,
+            "blockIdx": 8
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "例えば――こんなのはどうだ。\nコイツは、“夢”を返しに行く航海さ！",
+            "enText": "",
+            "nextBlock": 10,
+            "origClipLength": 228,
+            "voiceIdx": 6,
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -3516077835402347356
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3414510350059373129
+                }
+            ],
+            "pathId": 669654054222154910,
+            "blockIdx": 9
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――ということで、タップダンスシチーとともに、\nノートの持ち主を探すことになった。",
+            "enText": "",
+            "nextBlock": 11,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -4386042498576098171
+                }
+            ],
+            "pathId": 8288113155229851332,
+            "blockIdx": 10
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "とはいえノートには名前も書かれておらず、\n持ち主探しは難航を極め――",
+            "enText": "",
+            "nextBlock": 12,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "pathId": 4527185762952969666,
+            "blockIdx": 11
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "――やれやれ。なかなか尻尾を掴ませちゃくれないな。",
+            "enText": "",
+            "nextBlock": 13,
+            "origClipLength": 145,
+            "voiceIdx": 7,
+            "animData": [
+                {
+                    "origLen": 206,
+                    "pathId": -6477071204956542004
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6952455973333936318
+                }
+            ],
+            "pathId": -4387280843087227750,
+            "blockIdx": 12
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "だけど！　そこがまた天才らしい！\nますます会いたくなってくるってもんだな！",
+            "enText": "",
+            "nextBlock": 14,
+            "origClipLength": 198,
+            "voiceIdx": 8,
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -5263454021377591387
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -7714204224914793684
+                }
+            ],
+            "pathId": 1806129939221698360,
+            "blockIdx": 13
+        },
+        {
+            "jpName": "？？？",
+            "enName": "???",
+            "jpText": "――天才なんかじゃ、ないです。",
+            "enText": "",
+            "nextBlock": 15,
+            "origClipLength": 102,
+            "voiceIdx": 9,
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 936933727754250599
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -7440865370782710755
+                }
+            ],
+            "pathId": 4310740262750605571,
+            "blockIdx": 14
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "声のしたほうを見ると――1人の生徒が立っていた。",
+            "enText": "",
+            "nextBlock": 16,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "choices": [
+                {
+                    "jpText": "もしかして……君がノートの持ち主？",
+                    "enText": "",
+                    "nextBlock": 16
+                },
+                {
+                    "jpText": "もしかして……貴方がノートの持ち主？",
+                    "enText": "",
+                    "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 2135043998169930784
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -5986906586859325332
+                }
+            ],
+            "pathId": -4599085994177826332,
+            "blockIdx": 15
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "ええ……ですけど、返してもらわなくて結構です。\n……捨ててください。",
+            "enText": "",
+            "nextBlock": 17,
+            "origClipLength": 273,
+            "voiceIdx": 10,
+            "animData": [
+                {
+                    "origLen": 230,
+                    "pathId": 3433277300770123241
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6791017935217176930
+                }
+            ],
+            "pathId": 4784310249633960365,
+            "blockIdx": 16
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "Why?　どうしてだ！？\nこんな素晴らしいものを――",
+            "enText": "",
+            "nextBlock": 18,
+            "origClipLength": 120,
+            "voiceIdx": 11,
+            "animData": [
+                {
+                    "origLen": 4,
+                    "pathId": -3278417823090591768
+                },
+                {
+                    "origLen": 177,
+                    "pathId": -885240877630975221
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1258910877178297224
+                }
+            ],
+            "pathId": -1140729824701875749,
+            "blockIdx": 17
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "ッ、そのノートは……自分で捨てたんです！",
+            "enText": "",
+            "nextBlock": 19,
+            "origClipLength": 209,
+            "voiceIdx": 12,
+            "animData": [
+                {
+                    "origLen": 300,
+                    "pathId": 4740157348091793274
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -4164684759371680115
+                }
+            ],
+            "pathId": 6971467773207544900,
+            "blockIdx": 18
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "……私、レースを始める前から漫画家が夢で――\n学園に来てからも、こっそり描き続けてたんです。",
+            "enText": "",
+            "nextBlock": 20,
+            "origClipLength": 330,
+            "voiceIdx": 13,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -814990256198884380
+                }
+            ],
+            "pathId": 1288548166786397846,
+            "blockIdx": 19
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "でも、昨日友だちに見られて、笑われて――\nやっと、吹っ切れたんです。",
+            "enText": "",
+            "nextBlock": 21,
+            "origClipLength": 305,
+            "voiceIdx": 14,
+            "pathId": 2718902978717666884,
+            "blockIdx": 20
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "半端な気持ちで2つの夢を抱えてたって、何にもならない……\n昔の夢の残骸は、もう切り捨てるべきなんだって――",
+            "enText": "",
+            "nextBlock": 22,
+            "origClipLength": 381,
+            "voiceIdx": 15,
+            "animData": [
+                {
+                    "origLen": 489,
+                    "pathId": -7407191905265997128
+                }
+            ],
+            "pathId": 1748673372505383593,
+            "blockIdx": 21
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……残骸？　No, no, no, no.\nそいつは間違いだな。アンタはノートを持ってるべきだ。",
+            "enText": "",
+            "nextBlock": 23,
+            "origClipLength": 348,
+            "voiceIdx": 16,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -4032223572615169709
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4436255369362468255
+                }
+            ],
+            "pathId": -2943543603190214670,
+            "blockIdx": 22
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "ッ、あなたに何がわかるんですか！？",
+            "enText": "",
+            "nextBlock": 24,
+            "origClipLength": 112,
+            "voiceIdx": 17,
+            "animData": [
+                {
+                    "origLen": 190,
+                    "pathId": 4293804482969868961
+                }
+            ],
+            "pathId": -6525325278840170942,
+            "blockIdx": 23
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "わかるさ。アタシは漫画のことはわからない。\nだけど、絵を見てるだけで伝わってくるぜ。",
+            "enText": "",
+            "nextBlock": 25,
+            "origClipLength": 248,
+            "voiceIdx": 18,
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -8887076091415410896
+                }
+            ],
+            "pathId": 6867306479295307695,
+            "blockIdx": 24
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "コイツはな……アンタの、胸いっぱいのロマンが詰まった宝箱だ！",
+            "enText": "",
+            "nextBlock": 26,
+            "origClipLength": 221,
+            "voiceIdx": 19,
+            "animData": [
+                {
+                    "origLen": 329,
+                    "pathId": -1835949151739003557
+                },
+                {
+                    "origLen": 235,
+                    "pathId": 8265226698425249553
+                }
+            ],
+            "pathId": -5965098108110886009,
+            "blockIdx": 25
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "……！",
+            "enText": "",
+            "nextBlock": 27,
+            "origClipLength": 58,
+            "voiceIdx": 20,
+            "animData": [
+                {
+                    "origLen": 329,
+                    "pathId": 8165112648124571621
+                },
+                {
+                    "origLen": 235,
+                    "pathId": 4341856606747522041
+                }
+            ],
+            "pathId": -6130710863835891219,
+            "blockIdx": 26
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "絶対に捨てちゃいけない。\nコイツを離したらアンタ、きっと走れなくなるぜ。",
+            "enText": "",
+            "nextBlock": 28,
+            "origClipLength": 218,
+            "voiceIdx": 21,
+            "animData": [
+                {
+                    "origLen": 329,
+                    "pathId": 5581756145763430679
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -2706054635878591883
+                }
+            ],
+            "pathId": 3280203644201315618,
+            "blockIdx": 27
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "どっちの夢を切り捨てるかとか、つまらないこと言うなよ。\n両方とも追いかけて、自分のものにしちまえばいい！",
+            "enText": "",
+            "nextBlock": 29,
+            "origClipLength": 261,
+            "voiceIdx": 22,
+            "animData": [
+                {
+                    "origLen": 195,
+                    "pathId": -8554500306964893141
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 3843998943464701908
+                },
+                {
+                    "origLen": 302,
+                    "pathId": -1102094325296357735
+                }
+            ],
+            "pathId": 331714566457317122,
+            "blockIdx": 28
+        },
+        {
+            "jpName": "ウマ娘A",
+            "enName": "Horsegirl A",
+            "jpText": "…………。\nはは。簡単に言ってくれますね……。",
+            "enText": "",
+            "nextBlock": 30,
+            "origClipLength": 340,
+            "voiceIdx": 23,
+            "animData": [
+                {
+                    "origLen": 316,
+                    "pathId": 5815961834754332298
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -4907988275444074960
+                },
+                {
+                    "origLen": 458,
+                    "pathId": -3081948374487072125
+                }
+            ],
+            "pathId": -9211120561253833099,
+            "blockIdx": 29
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "そう言いながらも――\n生徒は結局、タップダンスシチーからノートを受け取った。",
+            "enText": "",
+            "nextBlock": 31,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -2979554738330379821
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -918207672067770028
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -1234274200236942554
+                }
+            ],
+            "pathId": -1918552012277510574,
+            "blockIdx": 30
+        },
+        {
+            "jpName": "モノローグ",
+            "enName": "",
+            "jpText": "――2度と捨てたりしない、と約束して。",
+            "enText": "",
+            "nextBlock": 32,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "pathId": 6381299590152171974,
+            "blockIdx": 31
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "さて。“夢”は無事返せたみたいだな。",
+            "enText": "",
+            "nextBlock": 33,
+            "origClipLength": 127,
+            "voiceIdx": 24,
+            "choices": [
+                {
+                    "jpText": "さっきの、いい言葉だったな",
+                    "enText": "",
+                    "nextBlock": 33
+                },
+                {
+                    "jpText": "さっきの、いい言葉だったね",
+                    "enText": "",
+                    "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 197,
+                    "pathId": -6851979377886108915
+                }
+            ],
+            "pathId": -7210709647011254769,
+            "blockIdx": 32
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "ロマンの詰まった宝箱、のことかい？\nハハッ、だったらトレーナーも同じものを持ってるじゃないか。",
+            "enText": "",
+            "nextBlock": 34,
+            "origClipLength": 305,
+            "voiceIdx": 25,
+            "choices": [
+                {
+                    "jpText": "えっ？",
+                    "enText": "",
+                    "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 2415824291832951393
+                }
+            ],
+            "pathId": 7957947884144658012,
+            "blockIdx": 33
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "トレーニングのプランをびっしり書き込んでくれてるノートだよ。\nアタシたちの夢を掴むための、冒険の地図だ！",
+            "enText": "",
+            "nextBlock": 35,
+            "origClipLength": 278,
+            "voiceIdx": 26,
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3087253112109955017
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -6699262866994758189
+                }
+            ],
+            "pathId": -7282224404707718131,
+            "blockIdx": 34
+        },
+        {
+            "jpName": "タップダンスシチー",
+            "enName": "Tap Dance City",
+            "jpText": "……航海を続けて、アイツにも見せてやろうじゃないか。\nロマンを追うことの素晴らしさ、ってヤツをさ。",
+            "enText": "",
+            "nextBlock": -1,
+            "origClipLength": 291,
+            "voiceIdx": 27,
+            "animData": [
+                {
+                    "origLen": 369,
+                    "pathId": -552485758745656450
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2441402307947021383
+                }
+            ],
+            "pathId": -5065909626393330045,
+            "blockIdx": 35
+        }
+    ],
+    "modified": 1700592395,
+    "humanTl": true
+}
