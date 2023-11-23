@@ -9,7 +9,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "選抜レース前、会話を交わしたウマ娘・タップダンスシチー。\nそして今、自分と彼女は――",
-            "enText": "",
+            "enText": "After the Selection Race, one of the horsegirls, \nTap Dance City, came up to me. And now, she and I...",
             "nextBlock": 2,
             "origClipLength": 99,
             "voiceIdx": -1,
@@ -20,14 +20,14 @@
             "jpName": "",
             "enName": "",
             "jpText": "――バーベキューをしていた。",
-            "enText": "",
+            "enText": "...Are having a barbeque.",
             "nextBlock": 3,
             "origClipLength": 63,
             "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "（どうして……？）",
-                    "enText": "",
+                    "enText": "(How did I get here...?)",
                     "nextBlock": 3
                 }
             ],
@@ -56,7 +56,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "『世界一のウマ娘になれるかどうか確かめろ』……そう意気込み、\nタップダンスシチーは選抜レースに出走した。その結果は――",
-            "enText": "",
+            "enText": "She entered the race to find out if she could become \nthe \"world's greatest horsegirl.\" The result:",
             "nextBlock": 4,
             "origClipLength": 121,
             "voiceIdx": -1,
@@ -93,7 +93,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "まさかのいいところなしの9着。",
-            "enText": "",
+            "enText": "A pretty unremarkable 9th place...",
             "nextBlock": 5,
             "origClipLength": 64,
             "voiceIdx": -1,
@@ -112,9 +112,9 @@
         },
         {
             "jpName": "先輩トレーナーB",
-            "enName": "",
+            "enName": "Veteran Trainer B",
             "jpText": "後方からのレースを仕掛けて、切れ味ゼロのスタミナ切れとは！\n走る前のダンスが原因だな！　ウム！",
-            "enText": "",
+            "enText": "Starting from the back and no stamina to back it up! \nShe really <i>did</i> use it all up by dancing before \nthe race even started, eh?",
             "nextBlock": 6,
             "origClipLength": 256,
             "voiceIdx": 0,
@@ -135,7 +135,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "先輩たちのタップダンスシチーへの評価を聞き流しながら、\nストップウォッチで計測した彼女のラップタイムをノートに写す。",
-            "enText": "",
+            "enText": "The experienced trainers criticized her to no end. I turned \na blind eye and wrote down her lap time off my stopwatch.",
             "nextBlock": 7,
             "origClipLength": 120,
             "voiceIdx": -1,
@@ -146,7 +146,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "事前のダンスによる体力消耗はあったにしろなかったにしろ……\n彼女はスタート時に出遅れ……その分を取り戻せなかった。",
-            "enText": "",
+            "enText": "Ignoring her lack of stamina from dancing, she <i>did</i> have \na very bad start, and she never came back from that.",
             "nextBlock": 8,
             "origClipLength": 119,
             "voiceIdx": -1,
@@ -167,7 +167,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "その後、後方に控える“差し”でレースに臨んでいたが、\nラスト3ハロンの上がりタイムは38.5秒。",
-            "enText": "",
+            "enText": "She ran using the \"betweener\" strategy until the end. \nHer time for the last 3 furlongs was 38.5s.",
             "nextBlock": 9,
             "origClipLength": 107,
             "voiceIdx": -1,
@@ -188,14 +188,14 @@
             "jpName": "",
             "enName": "",
             "jpText": "巻き返すための末脚にしては、スピードが足りない。\n……先程の展開なら、せめてあと1秒。速く走れる脚がほしい。",
-            "enText": "",
+            "enText": "She didn't have the speed to come back with her last \nspurt... She'd need to shave off at least 1 more second.",
             "nextBlock": 10,
             "origClipLength": 116,
             "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "なら“差し”自体が向いていないんじゃ……",
-                    "enText": "",
+                    "enText": "Was betweener the right choice...?",
                     "nextBlock": 10
                 }
             ],
@@ -216,7 +216,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "いっそスタートの練習を重ねて、“先行”や“逃げ”にしたほうが\n生きるかもしれない。ペース配分は苦手そうには見えなかったし――",
-            "enText": "",
+            "enText": "She'd do well to practice her starts, as well as switching \nto the leader or runner strategy. It didn't look like she \nhad trouble with pacing, after all.",
             "nextBlock": 11,
             "origClipLength": 125,
             "voiceIdx": -1,
@@ -233,14 +233,14 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "へえ。1回でそこまで分析を？",
-            "enText": "",
+            "enText": "Hmm? You got all that from <i>one</i> race?",
             "nextBlock": 12,
             "origClipLength": 102,
             "voiceIdx": 1,
             "choices": [
                 {
                     "jpText": "わっ！？",
-                    "enText": "",
+                    "enText": "Wha—?!",
                     "nextBlock": 12
                 }
             ],
@@ -251,7 +251,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "突然耳元でささやかれ、体が緊張する。\n手元からノートも滑り落ちてしまった。",
-            "enText": "",
+            "enText": "Her sudden whisper in my ear startled me, \nand I dropped my notebook.",
             "nextBlock": 13,
             "origClipLength": 174,
             "voiceIdx": -1,
@@ -276,7 +276,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ハハハッ、驚かせがいがあるヤツだな。\n……そんで？　ここにそう話す根拠が書かれて――",
-            "enText": "",
+            "enText": "Hahaha! You sure get spooked easily! \n...So, this is why you said that...?*",
             "nextBlock": 14,
             "origClipLength": 288,
             "voiceIdx": 2,
@@ -297,7 +297,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "――……ふぅん。\n…………な、アンタ！　肉は好きか！？",
-            "enText": "",
+            "enText": "Hmm... \nYou like meat, my guy?",
             "nextBlock": 15,
             "origClipLength": 225,
             "voiceIdx": 3,
@@ -312,9 +312,9 @@
         },
         {
             "jpName": "ヘアバンドのウマ娘",
-            "enName": "",
+            "enName": "Horsegirl with a hairband",
             "jpText": "つーか、タップ～！　トレーナーゲット、おめでと～！\n担いでんの見た時、マジ人攫いしてきたんか？　て思ったけど～。",
-            "enText": "",
+            "enText": "Yo Tap, congrats on finding a trainer! When I saw you carry \nhim over your shoulder, I thought you'd kidnapped him!",
             "nextBlock": 16,
             "origClipLength": 319,
             "voiceIdx": 4,
@@ -337,9 +337,9 @@
         },
         {
             "jpName": "茶髪の女子高校生",
-            "enName": "",
+            "enName": "Girl with brown-dyed hair",
             "jpText": "本当……よかったぁ～……。\nずっとタップにはデビューしてほしかったから～……っ！",
-            "enText": "",
+            "enText": "I'm so happy for you! We were worried \nyou'd never ever debut!",
             "nextBlock": 17,
             "origClipLength": 199,
             "voiceIdx": 5,
@@ -360,14 +360,14 @@
             "jpName": "",
             "enName": "",
             "jpText": "……場は盛り上がっているが、実際は彼女と契約を結んでいない。\nあの後自分は俵抱きにされ、ここに連れてこられただけだ。",
-            "enText": "",
+            "enText": "...She's getting a lot of praise here, but we never agreed \non anything. In fact, she pulled a bag over my head \nand carried me over here without my permission!",
             "nextBlock": 18,
             "origClipLength": 120,
             "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "（だけど……）",
-                    "enText": "",
+                    "enText": "(However...)",
                     "nextBlock": 18
                 }
             ],
@@ -392,14 +392,14 @@
             "jpName": "タップの友人たち",
             "enName": "",
             "jpText": "トレーナー契約、おめでと～！　タップ～！",
-            "enText": "",
+            "enText": "Congrats on getting a trainer, Tap!",
             "nextBlock": 19,
             "origClipLength": 125,
             "voiceIdx": 6,
             "choices": [
                 {
                     "jpText": "（そうじゃないとは言い出しづらい……！）",
-                    "enText": "",
+                    "enText": "(It's too awkward to tell them...!)",
                     "nextBlock": 19
                 }
             ],
@@ -420,7 +420,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "アッハハハ！\nまだ契約はしてないけどな！",
-            "enText": "",
+            "enText": "Ahaha! We haven't agreed on anything yet, though!",
             "nextBlock": 20,
             "origClipLength": 141,
             "voiceIdx": 7,
@@ -441,7 +441,7 @@
             "jpName": "ツインテの女子高校生",
             "enName": "",
             "jpText": "えーーっ！？",
-            "enText": "",
+            "enText": "Really?!",
             "nextBlock": 21,
             "origClipLength": 45,
             "voiceIdx": 8,
@@ -462,7 +462,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "そいつにアタシの魅力を教え込むのはこーれーかーらっ！\n今回の選抜レースの走りは散々だったからな。",
-            "enText": "",
+            "enText": "I'm only just getting started showing them what I'm \nmade of! My race today was absolutely dreadful!",
             "nextBlock": 22,
             "origClipLength": 299,
             "voiceIdx": 9,
@@ -483,19 +483,19 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "なあ！　アンタもこのノートの内容、実現させてみたいだろ？",
-            "enText": "",
+            "enText": "Hey, do you wanna make your scribbles into a reality?",
             "nextBlock": 23,
             "origClipLength": 148,
             "voiceIdx": 10,
             "choices": [
                 {
                     "jpText": "それ、俺のノート！",
-                    "enText": "",
+                    "enText": "Hey, my notebook!",
                     "nextBlock": 23
                 },
                 {
                     "jpText": "それ、私のノート！",
-                    "enText": "",
+                    "enText": "Hey, my notebook!",
                     "nextBlock": 23
                 }
             ],
@@ -516,7 +516,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ああ。いいノートだ！　細かい記録はさながら航海日誌！\n世界の荒波に勝つための作戦も練られてる！",
-            "enText": "",
+            "enText": "It was a great read! It's detailed like a ship's log! \nYou could overcome the stormiest seas with this!",
             "nextBlock": 24,
             "origClipLength": 288,
             "voiceIdx": 11,
@@ -537,14 +537,14 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "嗚呼、素晴らしき作戦たち！\nそしてアタシならコイツらを実現できる！ ……試してみるか？",
-            "enText": "",
+            "enText": "Ah, such wonderful strategies! And I'm going to \nbring them to fruition! How about it?",
             "nextBlock": 25,
             "origClipLength": 293,
             "voiceIdx": 12,
             "choices": [
                 {
                     "jpText": "――！",
-                    "enText": "",
+                    "enText": "...!",
                     "nextBlock": 25
                 }
             ],
@@ -565,19 +565,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "まさかの提案だった。選抜レースであの結果を見せた\n当人から発言されるようなモノだとは思えない。しかし――",
-            "enText": "",
+            "enText": "What a request. Who'd expect that to come from the \ngirl who placed 9th at the Selection Race...? But...",
             "nextBlock": 26,
             "origClipLength": 112,
             "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "……君ができるというのなら",
-                    "enText": "",
+                    "enText": "...I trust your words.",
                     "nextBlock": 26
                 },
                 {
                     "jpText": "……貴方ができるというのなら",
-                    "enText": "",
+                    "enText": "...I trust your words.",
                     "nextBlock": 26
                 }
             ],
@@ -594,7 +594,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "The show must go on... right?\n選抜で着ちまった汚名くらい、挽回させてくれ。",
-            "enText": "",
+            "enText": "<i>The show must go on... right?</i> Help me get rid of \nmy bad rap from the Selection Race, okay?",
             "nextBlock": 27,
             "origClipLength": 212,
             "voiceIdx": 13,
@@ -615,7 +615,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "――あふれ出る彼女の自信に、こちらの背が押されてしまった。",
-            "enText": "",
+            "enText": "...I couldn't help it. She just radiates confidence.",
             "nextBlock": 28,
             "origClipLength": 82,
             "voiceIdx": -1,
@@ -632,7 +632,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "バーベキューを切り上げ、タップダンスシチーと\n彼女の“遊び場”へと移動する。",
-            "enText": "",
+            "enText": "After wrapping up the barbeque, \nshe took me to her \"play area.\"",
             "nextBlock": 29,
             "origClipLength": 94,
             "voiceIdx": -1,
@@ -649,19 +649,19 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "さて、このノートによればアタシには末脚のキレがない。\nだから――前めで走る作戦がmust.",
-            "enText": "",
+            "enText": "Let's see... According to your notes, I suck at the \nfinal spurt. A frontrunning strategy is a must, then!",
             "nextBlock": 30,
             "origClipLength": 298,
             "voiceIdx": 14,
             "choices": [
                 {
                     "jpText": "待った！まず君の走りをもう1度見たい",
-                    "enText": "",
+                    "enText": "Hold it! I wanna see you run one more time.",
                     "nextBlock": 30
                 },
                 {
                     "jpText": "待った！まず貴方の走りをもう1度見たい",
-                    "enText": "",
+                    "enText": "Hold it! I wanna see you run one more time.",
                     "nextBlock": 30
                 }
             ],
@@ -682,14 +682,14 @@
             "jpName": "",
             "enName": "",
             "jpText": "先程の選抜レースで彼女が9着になった原因は、末脚か、\nそれとも単純なスタミナ不足か――それはハッキリさせておきたい。",
-            "enText": "",
+            "enText": "I want to make sure that her 9th place really was due to \nher bad last spurt, or simply because of a lack of stamina.",
             "nextBlock": 31,
             "origClipLength": 135,
             "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "（“逃げ”の素質があるか、まず見ないと）",
-                    "enText": "",
+                    "enText": "(Does she have what it takes to be a runner?)",
                     "nextBlock": 31
                 }
             ],
@@ -706,14 +706,14 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ハッ……ハハッ……フッ――！！\nさあ、これが――逃げイメージの走りっ……だぁっ！",
-            "enText": "",
+            "enText": "*huff* Haha! Hup! \nSo this is what is's like to be a true... runner!",
             "nextBlock": 32,
             "origClipLength": 278,
             "voiceIdx": 15,
             "choices": [
                 {
                     "jpText": "1600m通過！……ペースは落ちてない！",
-                    "enText": "",
+                    "enText": "1600m! And she's not slowing!",
                     "nextBlock": 32
                 }
             ],
@@ -734,19 +734,19 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ハハッ、どうだ？　お眼鏡にっ、かなったかっ？",
-            "enText": "",
+            "enText": "Haha! And? \nDid I meet your expectations?",
             "nextBlock": 33,
             "origClipLength": 170,
             "voiceIdx": 16,
             "choices": [
                 {
                     "jpText": "あと0.5秒ペースを速くできるか？",
-                    "enText": "",
+                    "enText": "Can you shave off another 0.5s?",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "あと0.5秒ペースを速くできる？",
-                    "enText": "",
+                    "enText": "Can you shave off another 0.5s?",
                     "nextBlock": 33
                 }
             ],
@@ -763,7 +763,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "は！？　ったく……細かいなぁ。\nまあ、だいたい――……こんなもんだろぉっ！？",
-            "enText": "",
+            "enText": "What?! ...Gosh, talk about strict. \nWell okay, let's do this!",
             "nextBlock": 34,
             "origClipLength": 240,
             "voiceIdx": 17,
@@ -784,7 +784,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "ストップウォッチで彼女のラップタイムを計測する。\n先程と比べ0.59秒のペースアップ……勘も悪くはなさそうだ。",
-            "enText": "",
+            "enText": "I'm using my stopwatch to time her. She already \nmade up 0.59s. It looks like my intuition was spot on.",
             "nextBlock": 35,
             "origClipLength": 116,
             "voiceIdx": -1,
@@ -801,7 +801,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "はぁー……はぁー……あ～……さあ、トレーナー。\nご自慢のノートに、“逃げの才能100点”って書いてくれるか？",
-            "enText": "",
+            "enText": "*pant* *pant* Ahhh... Yo, Trainer! You'd better \nhave written \"passes as runner with flying colors!\"",
             "nextBlock": 36,
             "origClipLength": 426,
             "voiceIdx": 18,
@@ -822,7 +822,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女の素質は確かにあるようだ。もしトレーニングだけではなく、\n本番でも自分の策にのってくれるのなら……――",
-            "enText": "",
+            "enText": "It does look like she's got the qualities for it. \nI think she might be able to follow my race schedule \nas well as my training routine...",
             "nextBlock": 37,
             "origClipLength": 114,
             "voiceIdx": -1,
@@ -839,14 +839,14 @@
             "jpName": "サングラスのウマ娘",
             "enName": "",
             "jpText": "ウォームアップ、してくる。\nタップと走る距離は……2000mで、いいか？",
-            "enText": "",
+            "enText": "I'm gonna do a warm-up. \nTap, wanna run like... 2000m with me?",
             "nextBlock": 38,
             "origClipLength": 193,
             "voiceIdx": 19,
             "choices": [
                 {
                     "jpText": "えっ？今から併走を？",
-                    "enText": "",
+                    "enText": "Hmm? You're gonna run with her?",
                     "nextBlock": 38
                 }
             ],
@@ -867,7 +867,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "No.　併走じゃない、レースだよ！\nアンタの作戦を実行するには、対戦相手だって必要だろう？",
-            "enText": "",
+            "enText": "<i>No.</i> Not just running, we're racing! Your plan \nneeds opponents, right? This is the perfect opportunity!",
             "nextBlock": 39,
             "origClipLength": 248,
             "voiceIdx": 20,
@@ -888,19 +888,19 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ちなみにあと2人、トレセン学園からのオファーを蹴ったっていう\n仲間も協力してくれる。どうだい、この条件は？",
-            "enText": "",
+            "enText": "There's two more gals who declined offers from Tracen \nwho'll join in. How's that sound?",
             "nextBlock": 40,
             "origClipLength": 300,
             "voiceIdx": 21,
             "choices": [
                 {
                     "jpText": "それは……困るな",
-                    "enText": "",
+                    "enText": "I'm not too sure about this...",
                     "nextBlock": 40
                 },
                 {
                     "jpText": "それは……困るかも",
-                    "enText": "",
+                    "enText": "I'm not too sure about this...",
                     "nextBlock": 40
                 }
             ],
@@ -921,14 +921,14 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "Oh!　自信がないのか？\nアンタの策でアタシを勝たせることに。",
-            "enText": "",
+            "enText": "<i>Oh!</i> Where'd that confidence go? \nAnd you said I could win with your strategy?",
             "nextBlock": 41,
             "origClipLength": 182,
             "voiceIdx": 22,
             "choices": [
                 {
                     "jpText": "そうじゃなくて、情報収集がまだだから",
-                    "enText": "",
+                    "enText": "I just... Haven't got enough data yet.",
                     "nextBlock": 41
                 }
             ],
@@ -945,19 +945,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "レースは生もの。どんな時にも通用する無敵の作戦などない。\nそして作戦とは、条件や相手を踏まえたうえで決めるものだ。",
-            "enText": "",
+            "enText": "No race is the same. You need to thorougly understand \nthe situation and your opponents. There is no one \nperfect strategy that always guarantees a win.",
             "nextBlock": 42,
             "origClipLength": 119,
             "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "まだ君のデータすら取り切れていないのに",
-                    "enText": "",
+                    "enText": "I don't even have all the data on you yet.",
                     "nextBlock": 42
                 },
                 {
                     "jpText": "まだ貴方のデータすら取り切れていないのに",
-                    "enText": "",
+                    "enText": "I don't even have all the data on you yet.",
                     "nextBlock": 42
                 }
             ],
@@ -974,7 +974,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "……つまりアンタはタイムを計り足りないってワケか？\nあ～……今のもキツかったのに？",
-            "enText": "",
+            "enText": "...You're saying you need more time? \nOh man, and I thought I did so well just now.",
             "nextBlock": 43,
             "origClipLength": 304,
             "voiceIdx": 23,
@@ -995,19 +995,19 @@
             "jpName": "ヘアバンドのウマ娘",
             "enName": "",
             "jpText": "あはは～、タップ～ざんね～ん。\nレースはお預けだね～。じゃあ、あーしらは～……。",
-            "enText": "",
+            "enText": "Ahaha! Too bad, Tap! \nWe'll call it off for now. Let's move it to...",
             "nextBlock": 44,
             "origClipLength": 295,
             "voiceIdx": 24,
             "choices": [
                 {
                     "jpText": "ああ、君たちのタイムも後で取らせてほしい",
-                    "enText": "",
+                    "enText": "I'd like to get your times as well at some point.",
                     "nextBlock": 44
                 },
                 {
                     "jpText": "うん、貴方たちのタイムも後で取らせて",
-                    "enText": "",
+                    "enText": "I'd like to get your times as well at some point.",
                     "nextBlock": 44
                 }
             ],
@@ -1028,7 +1028,7 @@
             "jpName": "ヘアバンドのウマ娘",
             "enName": "",
             "jpText": "あ～……わ～…………、……はぁ～い。",
-            "enText": "",
+            "enText": "Oh, woah! ...Okaaay.",
             "nextBlock": 45,
             "origClipLength": 198,
             "voiceIdx": 25,
@@ -1049,7 +1049,7 @@
             "jpName": "ヘアバンドのウマ娘",
             "enName": "",
             "jpText": "あ～……もーだめ、ギブ～……。",
-            "enText": "",
+            "enText": "Ah! I'm finished! Let's stop here...",
             "nextBlock": 46,
             "origClipLength": 215,
             "voiceIdx": 26,
@@ -1070,7 +1070,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ハァ――……どうだい、メモ取り魔。\nそろそろデータは十分に取れたかよ……。",
-            "enText": "",
+            "enText": "*huff* ...And, data maniac? Surely you've got \nenough measurements by now...!",
             "nextBlock": 47,
             "origClipLength": 252,
             "voiceIdx": 27,
@@ -1091,14 +1091,14 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ここまできたならいっそ逃げの中でも“大逃げ”！\n『ジャパンカップ』のエースみたいな走りをさせてほしいもんだね！",
-            "enText": "",
+            "enText": "I feel like I might as well go for \"Great Escape\" at this point! \nI wish to be like the Japan Cup's Ace!",
             "nextBlock": 48,
             "origClipLength": 260,
             "voiceIdx": 28,
             "choices": [
                 {
                     "jpText": "『ジャパンカップ』のカツラギエース、か",
-                    "enText": "",
+                    "enText": "You mean Katsuragi Ace?",
                     "nextBlock": 48
                 }
             ],
@@ -1119,7 +1119,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "ああ！　あの舞台で、エースは誰よりもChallengerだった！\n世界を相手にリードを広げて――あんなの、見たことない！！",
-            "enText": "",
+            "enText": "Yeah! Ace was the strongest <i>challenger</i> on the track! \nLeading the entire world! She's unlike anyone!",
             "nextBlock": 49,
             "origClipLength": 333,
             "voiceIdx": 29,
@@ -1144,19 +1144,19 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "追いつかれたと思ったら、粘って、粘り切って！！\n最後までレースはエースのもので！　わかるか？　伝説だよ！！",
-            "enText": "",
+            "enText": "Even when it seemed like she was gonna get overtaken, \nshe held strong and persevered! You get my drift? \nShe's legendary!",
             "nextBlock": 50,
             "origClipLength": 302,
             "voiceIdx": 30,
             "choices": [
                 {
                     "jpText": "……あの逃げにはロマンがあるよな",
-                    "enText": "",
+                    "enText": "...It's like a grand adventure.",
                     "nextBlock": 50
                 },
                 {
                     "jpText": "……あの逃げにはロマンがあるよね",
-                    "enText": "",
+                    "enText": "...It's like a grand adventure.",
                     "nextBlock": 50
                 }
             ],
@@ -1177,14 +1177,14 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "そう、だから引き寄せられたんだ！\n自由の国アメリカからアタシは――この日本に！　身ひとつで！",
-            "enText": "",
+            "enText": "Yes, that's why she captured me! I came all the way from \nAmerica because of her, all by myself!",
             "nextBlock": 51,
             "origClipLength": 321,
             "voiceIdx": 31,
             "choices": [
                 {
                     "jpText": "身ひとつで日本に来たって……！",
-                    "enText": "",
+                    "enText": "You came to Japan by yourself...?!",
                     "nextBlock": 51
                 }
             ],
@@ -1209,7 +1209,7 @@
             "jpName": "茶髪の女子高校生",
             "enName": "",
             "jpText": "タップ、まぁじでよくトレセン学園入れたよね～♡　だーれも\n知り合いいなかったのに～、まっそこがタップっぽいってか～♡",
-            "enText": "",
+            "enText": "Tap's incredible for entering Tracen! She was a nobody \nand knew nobody. But that's Tap for you!",
             "nextBlock": 52,
             "origClipLength": 327,
             "voiceIdx": 32,
@@ -1230,7 +1230,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "なんとかなるもんさ！　このまま一生自由に暮らしたいね！\nパーッと稼いで、パーッと遊んで！",
-            "enText": "",
+            "enText": "Things always work out in the end! I want to live life \n<i>my</i> way! Working and playing in freedom!",
             "nextBlock": 53,
             "origClipLength": 263,
             "voiceIdx": 33,
@@ -1251,14 +1251,14 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "……そんで、ここにいるヤツらと\nばーさんたちになっても遊び続けられる城が欲しい。",
-            "enText": "",
+            "enText": "...That way, I'll end up with a castle where me \nand my friends can play until we're grannies!",
             "nextBlock": 54,
             "origClipLength": 244,
             "voiceIdx": 34,
             "choices": [
                 {
                     "jpText": "城……",
-                    "enText": "",
+                    "enText": "A castle...?",
                     "nextBlock": 54
                 }
             ],
@@ -1275,19 +1275,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そういえば彼女は河川敷で出会った時も叫んでいた。\n『でっかい城を建てる』――と。",
-            "enText": "",
+            "enText": "That's right. When I first met her at the riverside, \nshe proclaimed her dream of building a castle.",
             "nextBlock": 55,
             "origClipLength": 97,
             "voiceIdx": -1,
             "choices": [
                 {
                     "jpText": "城を建てることが、君の夢なのか？",
-                    "enText": "",
+                    "enText": "Your dream is to build that castle?",
                     "nextBlock": 55
                 },
                 {
                     "jpText": "城を建てることが、貴方の夢なの？",
-                    "enText": "",
+                    "enText": "Your dream is to build that castle?",
                     "nextBlock": 55
                 }
             ],
@@ -1304,7 +1304,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "……ああ！",
-            "enText": "",
+            "enText": "Yeah!",
             "nextBlock": 56,
             "origClipLength": 57,
             "voiceIdx": 35,
@@ -1325,7 +1325,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "その金を集めるために――アタシは走るのさ。",
-            "enText": "",
+            "enText": "And I'll gather the funds... Through winning races.",
             "nextBlock": -1,
             "origClipLength": 147,
             "voiceIdx": 36,
@@ -1343,6 +1343,6 @@
             "blockIdx": 56
         }
     ],
-    "modified": 1700592387,
+    "modified": 1700774094,
     "humanTl": true
 }

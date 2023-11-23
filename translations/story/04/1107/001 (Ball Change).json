@@ -20,7 +20,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "風よけなんて使わない。後ろの駆け引きなんて見えなくていい。\n後ろからのプレッシャーを、その一身に引き受けて。",
-            "enText": "Cutting through the air, not wanting to look over your shoulder. \nYet, the immense pressure from behind washes over you.",
+            "enText": "Cutting through the air, not looking over your shoulder. \nYet, the immense pressure from behind washes over you.",
             "nextBlock": 3,
             "origClipLength": 115,
             "voiceIdx": -1,
@@ -58,7 +58,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "恐怖やリスクがつきまとう……分の悪い賭けだ。\nそれでも一か八かの勝利を求めて。粘って、粘って、粘って――",
-            "enText": "With fear comes risk... A gamble where the odds are against you. \nThe only option for success is going all in! Hang on, now...",
+            "enText": "With fear comes risk... A gamble where the odds \nare against you. The only option for success is \ngoing all in! Hang on, now...",
             "nextBlock": 5,
             "origClipLength": 112,
             "voiceIdx": -1,
@@ -79,7 +79,7 @@
             "jpName": "",
             "enName": "",
             "jpText": "ペースや展開すらも、己がものにする“レースの支配者”。\n――それが“逃げ”という脚質。",
-            "enText": "Controlling the pace and the direction of the race. The ruler \nof the race. That's what it means to use the leader strategy.",
+            "enText": "Controlling the pace and the direction of the race. The ruler \nof the race. That's what it means to use the runner strategy.",
             "nextBlock": 6,
             "origClipLength": 101,
             "voiceIdx": -1,
@@ -248,7 +248,7 @@
         },
         {
             "jpName": "ランドセルの少年",
-            "enName": "",
+            "enName": "Boy with a backpack",
             "jpText": "…………ぷっ、あはは～！　おしろ～！？\nムリじゃないの～！？",
             "enText": "Hahaha! A castle? That's impossible!",
             "nextBlock": 16,
@@ -313,7 +313,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "毎日飲んで、騒いで、疲れたら眠って！\nいつ帰っても、うるさい歌声が迎えてくれる愛しい場所を作るのさ！",
-            "enText": "Party all night, every night until we collapse! A place \nwhere you'll be greeted by sonorous singing!",
+            "enText": "Party all night, every night until we collapse! \nA place where you'll be greeted by sonorous singing!",
             "nextBlock": 19,
             "origClipLength": 321,
             "voiceIdx": 11,
@@ -1053,6 +1053,6 @@
             "blockIdx": 48
         }
     ],
-    "modified": 1700602173,
+    "modified": 1700763719,
     "humanTl": true
 }
