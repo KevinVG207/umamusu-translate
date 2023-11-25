@@ -390,7 +390,7 @@
         },
         {
             "jpName": "タップの友人たち",
-            "enName": "",
+            "enName": "Tap's Friends",
             "jpText": "トレーナー契約、おめでと～！　タップ～！",
             "enText": "Congrats on getting a trainer, Tap!",
             "nextBlock": 19,
@@ -439,7 +439,7 @@
         },
         {
             "jpName": "ツインテの女子高校生",
-            "enName": "",
+            "enName": "Girl with pigtails",
             "jpText": "えーーっ！？",
             "enText": "Really?!",
             "nextBlock": 21,
@@ -837,7 +837,7 @@
         },
         {
             "jpName": "サングラスのウマ娘",
-            "enName": "",
+            "enName": "Horsegirl with sunglasses",
             "jpText": "ウォームアップ、してくる。\nタップと走る距離は……2000mで、いいか？",
             "enText": "I'm gonna do a warm-up. \nTap, wanna run like... 2000m with me?",
             "nextBlock": 38,
@@ -993,7 +993,7 @@
         },
         {
             "jpName": "ヘアバンドのウマ娘",
-            "enName": "",
+            "enName": "Horsegirl with a hairband",
             "jpText": "あはは～、タップ～ざんね～ん。\nレースはお預けだね～。じゃあ、あーしらは～……。",
             "enText": "Ahaha! Too bad, Tap! \nWe'll call it off for now. Let's move it to...",
             "nextBlock": 44,
@@ -1026,7 +1026,7 @@
         },
         {
             "jpName": "ヘアバンドのウマ娘",
-            "enName": "",
+            "enName": "Horsegirl with a hairband",
             "jpText": "あ～……わ～…………、……はぁ～い。",
             "enText": "Oh, woah! ...Okaaay.",
             "nextBlock": 45,
@@ -1047,7 +1047,7 @@
         },
         {
             "jpName": "ヘアバンドのウマ娘",
-            "enName": "",
+            "enName": "Horsegirl with a hairband",
             "jpText": "あ～……もーだめ、ギブ～……。",
             "enText": "Ah! I'm finished! Let's stop here...",
             "nextBlock": 46,
@@ -1207,7 +1207,7 @@
         },
         {
             "jpName": "茶髪の女子高校生",
-            "enName": "",
+            "enName": "Girl with brown-dyed hair",
             "jpText": "タップ、まぁじでよくトレセン学園入れたよね～♡　だーれも\n知り合いいなかったのに～、まっそこがタップっぽいってか～♡",
             "enText": "Tap's incredible for entering Tracen! She was a nobody \nand knew nobody. But that's Tap for you!",
             "nextBlock": 52,
@@ -1343,6 +1343,6 @@
             "blockIdx": 56
         }
     ],
-    "modified": 1700774094,
+    "modified": 1700849553,
     "humanTl": true
 }

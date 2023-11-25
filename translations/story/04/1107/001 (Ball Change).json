@@ -271,7 +271,7 @@
             "jpName": "ウマ娘の少女",
             "enName": "Umamusume",
             "jpText": "What?　少年、そりゃないよ！　アタシを誰だと？\n財宝を探す者、タップダンスシチーだぜ！？",
-            "enText": "\"What?\" Look kid, nothing is impossible for me, \nthe great treasure hunter: Tap Dance City!",
+            "enText": "<i>What?</i> Look kid, nothing is impossible for me, \nthe great treasure hunter: Tap Dance City!",
             "nextBlock": 17,
             "origClipLength": 308,
             "voiceIdx": 9,
@@ -355,7 +355,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "……さあ、本題！　It's your turn now!\nそこの御人、アンタの夢は？",
-            "enText": "Aaand... next! \"It's your turn now!\" \nYou there! What is your dream?",
+            "enText": "Aaand... next! <i>It's your turn now!\"</i> \nYou there! What is your dream?",
             "nextBlock": 21,
             "origClipLength": 293,
             "voiceIdx": 13,
@@ -383,7 +383,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "――Huh?　少年たちの夢を笑うからには、\nより壮大な夢を持っているかと思っていたけどな？",
-            "enText": "Huh? For laughing at those kids' dreams, I expected \nyou to have one far greater than them.",
+            "enText": "<i>Huh?</i> For laughing at those kids' dreams, I expected \nyou to have one far greater than them.",
             "nextBlock": 22,
             "origClipLength": 258,
             "voiceIdx": 14,
@@ -722,12 +722,12 @@
             "choices": [
                 {
                     "jpText": "俺は――世界一のウマ娘を育てたい！！",
-                    "enText": "I want to... train the best horsegirl ever!",
+                    "enText": "I want to train the world's greatest horsegirl!",
                     "nextBlock": 36
                 },
                 {
                     "jpText": "私は――世界一のウマ娘を育てたい！！",
-                    "enText": "I want to... train the best horsegirl ever!",
+                    "enText": "I want to train the world's greatest horsegirl!",
                     "nextBlock": 36
                 }
             ],
@@ -993,7 +993,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "Naturally.　忘れるわけないさ、\nああ――……そうだ！　その目で確認しなよ、アタシの走りを。",
-            "enText": "\"Naturally.\" I would never forget you! \n...Ah! I see, you're here to watch me race with your own eyes!",
+            "enText": "<i>Naturally.</i> I would never forget you! \n...Ah! I see, you're here to watch me race with your own eyes!",
             "nextBlock": 47,
             "origClipLength": 289,
             "voiceIdx": 33,
@@ -1014,7 +1014,7 @@
             "jpName": "タップダンスシチー",
             "enName": "Tap Dance City",
             "jpText": "『世界一のウマ娘』にアタシがなれるか、どうかを。",
-            "enText": "You wanna see if I'm fit to be \"the world's best horsegirl.\"",
+            "enText": "You wanna see if I'm fit to be \n\"the world's greatest horsegirl.\"",
             "nextBlock": 48,
             "origClipLength": 142,
             "voiceIdx": 34,
@@ -1053,6 +1053,6 @@
             "blockIdx": 48
         }
     ],
-    "modified": 1700763719,
+    "modified": 1700907421,
     "humanTl": true
 }
