@@ -243,7 +243,10 @@
         "[かっとばせー！ですわ！？]": "[Drive it Home! ...I Suppose]",
         "[あくもー退散！？]": "[Fleeing From Evil?!]",
         "[大地と我らのアンサンブル]": "[Ensemble of the Earth and Us]",
-        "[長姉は大変？]": "[Is the Older Sister a Big Deal?]"
+        "[長姉は大変？]": "[Is the Older Sister a Big Deal?]",
+        "[聖夜、変わるために]": "[Holy Night, For Change]",
+        "[冬溶かす熾火]": "[Ember Which Dissolves Winter]",
+        "[選んで選んで、想いを込めて]": "[Choose, Choose, With All Your Heart]"
     },
     "Note": "Don't forget to add zero-width spaces ​ around symbols"
 }
